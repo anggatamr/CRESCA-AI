@@ -1,0 +1,1201 @@
+child_id,synthetic_nik,synthetic_name,synthetic_parent_name,district_id,district_name,posyandu_name,age_months,gender,height_cm,weight_kg,z_haz_score,z_waz_score,nutrition_status,has_exclusive_breastfeeding,water_source_access
+CHD-2026-00001,1271413340533286,Siti Pratama,Kevin Pratama,DIST-21,Medan Area,Posyandu Melati 2,53,M,94.6,20.22,-2.5,-0.03,STUNTED,False,Sumur Terlindung
+CHD-2026-00002,1271396299031434,Budi Siregar,Dimas Siregar,DIST-02,Medan Labuhan,Posyandu Melati 7,41,M,90.5,16.6,-1.06,-0.59,POTENTIAL_RISK,False,PDAM
+CHD-2026-00003,1271308320527924,Kevin Simanjuntak,Budi Simanjuntak,DIST-19,Medan Baru,Posyandu Melati 3,27,F,88.9,13.58,1.68,-0.16,NORMAL,False,PDAM
+CHD-2026-00004,1271224764176635,Siti Siregar,Rian Siregar,DIST-11,Medan Sunggal,Posyandu Melati 1,44,F,91.3,18.58,-1.51,0.53,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00005,1271206788565803,Siti Pasaribu,Rian Pasaribu,DIST-18,Medan Polonia,Posyandu Melati 4,59,F,105.2,22.29,-0.36,0.49,NORMAL,False,Sumur Terlindung
+CHD-2026-00006,1271209968654814,Nurul Simanjuntak,Dewi Simanjuntak,DIST-02,Medan Labuhan,Posyandu Melati 5,12,F,73.6,7.45,0.07,-2.32,NORMAL,False,Sumur Terlindung
+CHD-2026-00007,1271368027295374,Putri Sitorus,Lestari Sitorus,DIST-12,Medan Helvetia,Posyandu Melati 3,50,M,102.8,19.78,0.94,0.25,NORMAL,False,Sumur Terlindung
+CHD-2026-00008,1271447710884598,Putri Ginting,Rian Ginting,DIST-08,Medan Johor,Posyandu Melati 1,49,F,95.6,18.99,-1.23,-0.24,POTENTIAL_RISK,False,PDAM
+CHD-2026-00009,1271183212316155,Bayu Sinaga,Kevin Sinaga,DIST-02,Medan Labuhan,Posyandu Melati 7,19,F,75.7,10.37,-0.87,-1.25,NORMAL,False,PDAM
+CHD-2026-00010,1271783755048019,Nurul Hutapea,Zahra Hutapea,DIST-05,Medan Tembung,Posyandu Melati 6,43,F,95.5,18.43,0.15,0.62,NORMAL,False,PDAM
+CHD-2026-00011,1271162149753504,Galang Ginting,Rizky Ginting,DIST-05,Medan Tembung,Posyandu Melati 7,46,M,94.6,19.05,-0.86,0.5,NORMAL,False,Sumur Terlindung
+CHD-2026-00012,1271773636261188,Rian Tambunan,Rafi Tambunan,DIST-13,Medan Barat,Posyandu Melati 5,49,M,100.9,18.77,0.52,-0.43,NORMAL,False,Sumur Terlindung
+CHD-2026-00013,1271305757631053,Siti Harahap,Anisa Harahap,DIST-11,Medan Sunggal,Posyandu Melati 3,52,F,100.3,17.93,-0.36,-1.88,NORMAL,False,Sumur Terlindung
+CHD-2026-00014,1271873085733504,Dewi Sembiring,Galang Sembiring,DIST-04,Medan Deli,Posyandu Melati 1,29,M,76.8,13.15,-2.83,-1.0,STUNTED,False,Sumur Terlindung
+CHD-2026-00015,1271493510831949,Budi Siregar,Lestari Siregar,DIST-16,Medan Kota,Posyandu Melati 2,21,M,75.2,11.61,-1.49,-0.58,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00016,1271802731485342,Fajar Nasution,Tiara Nasution,DIST-18,Medan Polonia,Posyandu Melati 4,39,F,89.2,14.1,-1.04,-2.41,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00017,1271666427178397,Dewi Sinaga,Lestari Sinaga,DIST-07,Medan Amplas,Posyandu Melati 4,13,M,72.9,8.76,-0.41,-1.35,NORMAL,True,PDAM
+CHD-2026-00018,1271381075402163,Zahra Lubis,Aditya Lubis,DIST-19,Medan Baru,Posyandu Melati 4,51,M,99.9,18.23,-0.28,-1.38,NORMAL,False,PDAM
+CHD-2026-00019,1271403920048953,Bayu Siregar,Galang Siregar,DIST-02,Medan Labuhan,Posyandu Melati 8,19,M,73.6,12.22,-1.56,0.43,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00020,1271945519896804,Dimas Siregar,Siti Siregar,DIST-14,Medan Timur,Posyandu Melati 8,33,F,86.4,15.05,-0.57,-0.19,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00021,1271539394822790,Siti Pratama,Rian Pratama,DIST-02,Medan Labuhan,Posyandu Melati 4,21,M,71.7,13.71,-2.65,1.33,STUNTED,False,PDAM
+CHD-2026-00022,1271195646562604,Kevin Ginting,Nurul Ginting,DIST-06,Medan Denai,Posyandu Melati 2,9,M,75.0,9.77,1.22,0.47,NORMAL,True,PDAM
+CHD-2026-00023,1271172726347209,Tiara Lubis,Rian Lubis,DIST-16,Medan Kota,Posyandu Melati 5,6,F,70.6,7.92,0.47,-0.52,NORMAL,False,PDAM
+CHD-2026-00024,1271473282751958,Tiara Nasution,Dimas Nasution,DIST-18,Medan Polonia,Posyandu Melati 6,43,M,95.4,18.5,0.1,0.69,NORMAL,False,PDAM
+CHD-2026-00025,1271301596429320,Tiara Tarigan,Galang Tarigan,DIST-19,Medan Baru,Posyandu Melati 2,11,M,69.4,8.77,-1.11,-0.89,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00026,1271417070401651,Rian Siregar,Aditya Siregar,DIST-08,Medan Johor,Posyandu Melati 7,45,M,89.1,16.69,-2.47,-1.41,STUNTED,False,Sumur Terlindung
+CHD-2026-00027,1271368022586147,Galang Sitorus,Kevin Sitorus,DIST-19,Medan Baru,Posyandu Melati 7,21,F,84.4,11.4,1.56,-0.77,NORMAL,True,Sumur Terlindung
+CHD-2026-00028,1271115805472638,Rafi Sitorus,Rizky Sitorus,DIST-10,Medan Selayang,Posyandu Melati 5,10,M,69.5,9.34,-0.82,-0.14,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00029,1271305594699900,Nurul Sitorus,Dewi Sitorus,DIST-03,Medan Marelan,Posyandu Melati 1,51,F,92.1,19.71,-2.86,-0.03,STUNTED,False,Sumur Terlindung
+CHD-2026-00030,1271273773122891,Dewi Pasaribu,Siti Pasaribu,DIST-18,Medan Polonia,Posyandu Melati 5,12,M,76.6,9.95,1.06,-0.05,NORMAL,False,Sumur Terlindung
+CHD-2026-00031,1271746122625114,Dimas Pangaribuan,Kevin Pangaribuan,DIST-11,Medan Sunggal,Posyandu Melati 7,9,M,75.4,6.97,1.36,-2.07,NORMAL,False,PDAM
+CHD-2026-00032,1271308772368239,Fajar Pangaribuan,Kevin Pangaribuan,DIST-11,Medan Sunggal,Posyandu Melati 1,41,F,98.4,15.69,1.58,-1.42,NORMAL,False,PDAM
+CHD-2026-00033,1271846793643426,Zahra Pratama,Lestari Pratama,DIST-05,Medan Tembung,Posyandu Melati 1,33,M,81.0,13.92,-2.36,-1.21,STUNTED,False,PDAM
+CHD-2026-00034,1271952077866794,Lestari Lubis,Nurul Lubis,DIST-02,Medan Labuhan,Posyandu Melati 3,55,F,106.5,19.32,1.01,-1.3,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00035,1271621259903938,Putri Simanjuntak,Putri Simanjuntak,DIST-08,Medan Johor,Posyandu Melati 7,53,F,97.3,18.07,-1.61,-1.99,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00036,1271581406058711,Kevin Nasution,Siti Nasution,DIST-08,Medan Johor,Posyandu Melati 8,20,M,77.1,8.98,-0.65,-2.75,NORMAL,False,PDAM
+CHD-2026-00037,1271614442075564,Nurul Pratama,Dimas Pratama,DIST-08,Medan Johor,Posyandu Melati 6,10,F,65.9,10.72,-2.04,1.11,STUNTED,False,Sumur Terlindung
+CHD-2026-00038,1271432872415349,Bayu Pratama,Siti Pratama,DIST-18,Medan Polonia,Posyandu Melati 7,8,M,74.0,8.34,1.12,-0.6,NORMAL,False,Sumur Terlindung
+CHD-2026-00039,1271245039064114,Anisa Tambunan,Galang Tambunan,DIST-11,Medan Sunggal,Posyandu Melati 7,22,M,77.1,11.89,-1.11,-0.56,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00040,1271187965036409,Dimas Sitorus,Anisa Sitorus,DIST-18,Medan Polonia,Posyandu Melati 2,45,F,103.5,18.23,2.32,-0.02,NORMAL,False,Sumur Terlindung
+CHD-2026-00041,1271515219475844,Galang Harahap,Anisa Harahap,DIST-10,Medan Selayang,Posyandu Melati 4,41,M,95.5,16.47,0.61,-0.71,NORMAL,False,Sumur Terlindung
+CHD-2026-00042,1271485258009977,Putri Tambunan,Aditya Tambunan,DIST-13,Medan Barat,Posyandu Melati 5,59,M,104.6,21.77,-0.56,0.02,NORMAL,False,PDAM
+CHD-2026-00043,1271695632468244,Aditya Tambunan,Bayu Tambunan,DIST-14,Medan Timur,Posyandu Melati 8,49,M,97.6,16.11,-0.57,-2.86,NORMAL,False,Sumur Terlindung
+CHD-2026-00044,1271947636866491,Rizky Harahap,Galang Harahap,DIST-06,Medan Denai,Posyandu Melati 5,11,M,74.4,7.9,0.56,-1.69,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00045,1271707409672193,Budi Pratama,Nurul Pratama,DIST-05,Medan Tembung,Posyandu Melati 4,35,F,94.3,15.53,1.59,-0.2,NORMAL,False,Sumur Terlindung
+CHD-2026-00046,1271287879261090,Tiara Sinaga,Nurul Sinaga,DIST-13,Medan Barat,Posyandu Melati 7,54,M,101.2,20.27,-0.55,-0.21,NORMAL,False,PDAM
+CHD-2026-00047,1271419895452988,Rafi Pratama,Zahra Pratama,DIST-17,Medan Maimun,Posyandu Melati 8,35,M,86.9,14.27,-0.88,-1.35,NORMAL,False,Sumur Terlindung
+CHD-2026-00048,1271889545969270,Melati Sitorus,Rafi Sitorus,DIST-18,Medan Polonia,Posyandu Melati 3,33,F,87.6,15.81,-0.18,0.51,NORMAL,False,Sumur Terlindung
+CHD-2026-00049,1271913907829540,Rafi Harahap,Nurul Harahap,DIST-16,Medan Kota,Posyandu Melati 5,37,M,87.8,14.91,-1.04,-1.22,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00050,1271506663902320,Nurul Harahap,Bayu Harahap,DIST-10,Medan Selayang,Posyandu Melati 4,14,M,72.2,11.1,-0.86,0.55,NORMAL,False,Sumur Terlindung
+CHD-2026-00051,1271526689698633,Rizky Sinaga,Anisa Sinaga,DIST-07,Medan Amplas,Posyandu Melati 4,32,M,90.0,14.44,0.87,-0.51,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00052,1271834988588814,Aditya Hutapea,Budi Hutapea,DIST-13,Medan Barat,Posyandu Melati 5,6,F,69.3,6.99,0.05,-1.37,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00053,1271873312518999,Zahra Hutapea,Zahra Hutapea,DIST-14,Medan Timur,Posyandu Melati 7,20,F,79.9,11.8,0.3,-0.18,NORMAL,False,PDAM
+CHD-2026-00054,1271692338279751,Rian Hutapea,Putri Hutapea,DIST-11,Medan Sunggal,Posyandu Melati 1,7,F,65.7,5.92,-1.4,-2.57,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00055,1271434975196363,Rafi Nasution,Aisyah Nasution,DIST-05,Medan Tembung,Posyandu Melati 6,19,F,71.4,9.9,-2.29,-1.68,STUNTED,False,Sumur Terlindung
+CHD-2026-00056,1271429754672341,Kevin Simanjuntak,Anisa Simanjuntak,DIST-13,Medan Barat,Posyandu Melati 1,36,M,92.4,17.11,0.73,1.01,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00057,1271931422131508,Nurul Pangaribuan,Rizky Pangaribuan,DIST-12,Medan Helvetia,Posyandu Melati 1,21,M,76.1,10.95,-1.19,-1.18,POTENTIAL_RISK,True,PDAM
+CHD-2026-00058,1271698334425198,Siti Tambunan,Dimas Tambunan,DIST-16,Medan Kota,Posyandu Melati 3,55,F,102.9,20.17,-0.19,-0.53,NORMAL,False,Sumur Terlindung
+CHD-2026-00059,1271841269256111,Putri Harahap,Siti Harahap,DIST-04,Medan Deli,Posyandu Melati 7,42,F,94.4,15.58,0.01,-1.75,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00060,1271238310595941,Rizky Tambunan,Nurul Tambunan,DIST-07,Medan Amplas,Posyandu Melati 1,49,M,100.1,17.97,0.28,-1.16,NORMAL,False,PDAM
+CHD-2026-00061,1271924578061207,Lestari Siregar,Galang Siregar,DIST-14,Medan Timur,Posyandu Melati 2,32,F,88.2,13.81,0.28,-1.08,NORMAL,False,Sumur Terlindung
+CHD-2026-00062,1271652846929548,Rafi Hutapea,Fajar Hutapea,DIST-12,Medan Helvetia,Posyandu Melati 8,47,F,93.7,20.23,-1.39,1.35,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00063,1271213924778385,Kevin Sitorus,Nurul Sitorus,DIST-19,Medan Baru,Posyandu Melati 7,21,F,82.3,9.65,0.87,-2.36,NORMAL,False,PDAM
+CHD-2026-00064,1271559365875232,Putri Ginting,Dimas Ginting,DIST-11,Medan Sunggal,Posyandu Melati 5,27,F,80.6,14.51,-1.09,0.69,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00065,1271626123114937,Dimas Siregar,Nurul Siregar,DIST-17,Medan Maimun,Posyandu Melati 8,50,F,93.6,19.52,-2.15,0.02,STUNTED,False,Sumur Terlindung
+CHD-2026-00066,1271618253914986,Rizky Harahap,Nurul Harahap,DIST-01,Medan Belawan,Posyandu Melati 8,25,F,81.0,10.88,-0.5,-2.15,NORMAL,False,Sumur Terlindung
+CHD-2026-00067,1271524689008434,Anisa Hutapea,Zahra Hutapea,DIST-12,Medan Helvetia,Posyandu Melati 5,23,F,79.0,9.43,-0.69,-3.02,NORMAL,True,PDAM
+CHD-2026-00068,1271982941434138,Bayu Siregar,Zahra Siregar,DIST-07,Medan Amplas,Posyandu Melati 5,19,F,82.0,10.39,1.24,-1.24,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00069,1271324169501231,Dewi Lubis,Lestari Lubis,DIST-07,Medan Amplas,Posyandu Melati 5,51,M,101.0,19.5,0.11,-0.23,NORMAL,False,PDAM
+CHD-2026-00070,1271918893599042,Zahra Harahap,Fajar Harahap,DIST-02,Medan Labuhan,Posyandu Melati 5,12,M,74.6,8.08,0.41,-1.75,NORMAL,False,Sumur Terlindung
+CHD-2026-00071,1271712196292070,Putri Pratama,Kevin Pratama,DIST-11,Medan Sunggal,Posyandu Melati 2,31,F,85.7,14.74,-0.33,-0.01,NORMAL,False,Sumur Terlindung
+CHD-2026-00072,1271481893185066,Fajar Nasution,Aditya Nasution,DIST-02,Medan Labuhan,Posyandu Melati 4,13,F,73.6,10.23,-0.15,-0.02,NORMAL,False,Sumur Terlindung
+CHD-2026-00073,1271644202141986,Dewi Sembiring,Aditya Sembiring,DIST-15,Medan Perjuangan,Posyandu Melati 4,45,M,92.5,16.52,-1.34,-1.58,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00074,1271326788052229,Rizky Nasution,Nurul Nasution,DIST-09,Medan Tuntungan,Posyandu Melati 7,16,M,79.2,7.84,0.99,-2.88,NORMAL,False,Sumur Terlindung
+CHD-2026-00075,1271468412965632,Dewi Pratama,Nurul Pratama,DIST-16,Medan Kota,Posyandu Melati 2,50,F,104.0,18.54,1.34,-0.87,NORMAL,False,Sumur Terlindung
+CHD-2026-00076,1271642203519922,Aditya Pangaribuan,Dimas Pangaribuan,DIST-09,Medan Tuntungan,Posyandu Melati 5,20,M,77.2,10.46,-0.61,-1.4,NORMAL,True,PDAM
+CHD-2026-00077,1271465604853037,Dewi Tambunan,Aditya Tambunan,DIST-06,Medan Denai,Posyandu Melati 7,35,F,86.5,16.16,-0.99,0.37,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00078,1271207270861653,Zahra Ginting,Rafi Ginting,DIST-17,Medan Maimun,Posyandu Melati 5,33,F,88.5,14.94,0.15,-0.28,NORMAL,False,PDAM
+CHD-2026-00079,1271969613225415,Aditya Tambunan,Budi Tambunan,DIST-08,Medan Johor,Posyandu Melati 3,42,M,93.1,15.14,-0.42,-2.15,NORMAL,False,Sumur Terlindung
+CHD-2026-00080,1271337137628141,Rafi Pasaribu,Kevin Pasaribu,DIST-21,Medan Area,Posyandu Melati 2,46,F,92.0,17.21,-1.72,-1.18,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00081,1271304458247744,Bayu Sitorus,Siti Sitorus,DIST-14,Medan Timur,Posyandu Melati 5,50,F,99.4,18.72,-0.19,-0.71,NORMAL,False,Sumur Terlindung
+CHD-2026-00082,1271214297955135,Zahra Pratama,Rafi Pratama,DIST-13,Medan Barat,Posyandu Melati 7,26,M,84.8,13.31,0.52,-0.17,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00083,1271162966949494,Zahra Ginting,Anisa Ginting,DIST-01,Medan Belawan,Posyandu Melati 8,29,F,81.7,15.45,-1.21,1.09,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00084,1271465593988941,Kevin Tarigan,Fajar Tarigan,DIST-07,Medan Amplas,Posyandu Melati 4,13,M,73.0,8.74,-0.35,-1.37,NORMAL,True,PDAM
+CHD-2026-00085,1271389822772858,Zahra Sinaga,Rizky Sinaga,DIST-01,Medan Belawan,Posyandu Melati 3,35,M,92.2,15.66,0.89,-0.08,NORMAL,False,Sumur Terlindung
+CHD-2026-00086,1271639752718905,Galang Hutapea,Kevin Hutapea,DIST-10,Medan Selayang,Posyandu Melati 8,36,M,95.2,15.33,1.67,-0.61,NORMAL,False,Sumur Terlindung
+CHD-2026-00087,1271758825443236,Dimas Pasaribu,Melati Pasaribu,DIST-13,Medan Barat,Posyandu Melati 7,10,F,73.5,7.0,0.51,-2.27,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00088,1271468613195891,Kevin Sembiring,Budi Sembiring,DIST-17,Medan Maimun,Posyandu Melati 3,59,F,106.8,20.66,0.16,-0.99,NORMAL,False,Sumur Terlindung
+CHD-2026-00089,1271794955338460,Lestari Sitorus,Zahra Sitorus,DIST-16,Medan Kota,Posyandu Melati 4,26,M,77.0,14.15,-2.08,0.59,STUNTED,False,Sumur Terlindung
+CHD-2026-00090,1271708394857246,Anisa Pratama,Bayu Pratama,DIST-08,Medan Johor,Posyandu Melati 8,30,M,78.1,11.57,-2.64,-2.66,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00091,1271229860888213,Galang Tambunan,Bayu Tambunan,DIST-05,Medan Tembung,Posyandu Melati 1,12,F,72.1,9.64,-0.45,-0.33,NORMAL,True,Sumur Terlindung
+CHD-2026-00092,1271434550077512,Fajar Siregar,Tiara Siregar,DIST-21,Medan Area,Posyandu Melati 6,47,M,99.1,18.76,0.4,0.01,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00093,1271791376422121,Rian Sitorus,Tiara Sitorus,DIST-18,Medan Polonia,Posyandu Melati 4,21,F,83.6,12.59,1.3,0.31,NORMAL,True,Sumur Terlindung
+CHD-2026-00094,1271984140121474,Siti Ginting,Putri Ginting,DIST-04,Medan Deli,Posyandu Melati 1,8,F,66.9,7.62,-1.23,-1.26,POTENTIAL_RISK,False,PDAM
+CHD-2026-00095,1271626934183950,Fajar Lubis,Galang Lubis,DIST-14,Medan Timur,Posyandu Melati 2,16,M,73.1,10.49,-1.05,-0.46,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00096,1271283434678555,Tiara Pasaribu,Aditya Pasaribu,DIST-08,Medan Johor,Posyandu Melati 8,46,F,91.8,18.28,-1.81,-0.2,POTENTIAL_RISK,False,PDAM
+CHD-2026-00097,1271966731493588,Rafi Pasaribu,Dewi Pasaribu,DIST-01,Medan Belawan,Posyandu Melati 6,10,F,67.9,8.3,-1.38,-1.09,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00098,1271355033808916,Kevin Ginting,Dewi Ginting,DIST-14,Medan Timur,Posyandu Melati 7,12,M,72.2,6.19,-0.39,-3.46,NORMAL,False,Sumur Terlindung
+CHD-2026-00099,1271451084911803,Budi Sembiring,Rian Sembiring,DIST-10,Medan Selayang,Posyandu Melati 5,44,F,91.3,17.33,-1.5,-0.61,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00100,1271387675424115,Melati Simanjuntak,Lestari Simanjuntak,DIST-08,Medan Johor,Posyandu Melati 3,45,F,94.7,17.93,-0.59,-0.29,NORMAL,False,Sumur Terlindung
+CHD-2026-00101,1271147077276977,Aisyah Harahap,Rafi Harahap,DIST-21,Medan Area,Posyandu Melati 2,52,M,100.3,20.94,-0.38,0.85,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00102,1271269247189837,Anisa Nasution,Dimas Nasution,DIST-11,Medan Sunggal,Posyandu Melati 3,29,F,84.7,13.19,-0.21,-0.96,NORMAL,False,PDAM
+CHD-2026-00103,1271245910812233,Dewi Hutapea,Bayu Hutapea,DIST-16,Medan Kota,Posyandu Melati 7,15,M,68.4,8.51,-2.36,-2.03,STUNTED,False,PDAM
+CHD-2026-00104,1271255768777038,Budi Harahap,Zahra Harahap,DIST-13,Medan Barat,Posyandu Melati 7,49,F,99.3,19.77,-0.01,0.47,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00105,1271701262406374,Siti Pangaribuan,Nurul Pangaribuan,DIST-12,Medan Helvetia,Posyandu Melati 2,45,M,99.9,16.45,1.12,-1.64,NORMAL,False,Sumur Terlindung
+CHD-2026-00106,1271242465661742,Dewi Pangaribuan,Anisa Pangaribuan,DIST-15,Medan Perjuangan,Posyandu Melati 8,8,F,67.2,8.35,-1.13,-0.59,POTENTIAL_RISK,True,PDAM
+CHD-2026-00107,1271578030559850,Fajar Sinaga,Rafi Sinaga,DIST-18,Medan Polonia,Posyandu Melati 7,32,M,93.3,14.63,1.97,-0.33,NORMAL,False,Sumur Terlindung
+CHD-2026-00108,1271148238117070,Melati Sinaga,Kevin Sinaga,DIST-16,Medan Kota,Posyandu Melati 8,19,F,82.2,11.36,1.31,-0.35,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00109,1271175174795520,Lestari Tarigan,Lestari Tarigan,DIST-04,Medan Deli,Posyandu Melati 8,18,M,78.4,11.44,0.27,-0.06,NORMAL,True,Sumur Terlindung
+CHD-2026-00110,1271523554003063,Melati Pratama,Aisyah Pratama,DIST-21,Medan Area,Posyandu Melati 2,56,M,102.6,18.89,-0.54,-1.91,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00111,1271394445193417,Dimas Tambunan,Dimas Tambunan,DIST-18,Medan Polonia,Posyandu Melati 5,56,M,102.0,22.28,-0.73,1.17,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00112,1271322152661422,Fajar Tarigan,Kevin Tarigan,DIST-05,Medan Tembung,Posyandu Melati 6,14,M,75.3,8.94,0.15,-1.42,NORMAL,True,Sumur Terlindung
+CHD-2026-00113,1271268777477897,Putri Harahap,Aisyah Harahap,DIST-01,Medan Belawan,Posyandu Melati 2,39,M,87.3,13.14,-1.67,-3.28,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00114,1271676283134629,Galang Tambunan,Siti Tambunan,DIST-12,Medan Helvetia,Posyandu Melati 5,45,M,99.5,18.5,1.01,0.23,NORMAL,False,Sumur Terlindung
+CHD-2026-00115,1271648194252768,Aisyah Ginting,Rian Ginting,DIST-01,Medan Belawan,Posyandu Melati 2,37,F,86.6,14.96,-1.43,-1.17,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00116,1271263883759984,Melati Nasution,Rizky Nasution,DIST-11,Medan Sunggal,Posyandu Melati 7,51,F,91.4,18.48,-3.1,-1.15,SEVERELY_STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00117,1271875510962624,Dewi Ginting,Galang Ginting,DIST-17,Medan Maimun,Posyandu Melati 4,56,M,106.6,21.28,0.81,0.25,NORMAL,False,Sumur Terlindung
+CHD-2026-00118,1271615361962557,Anisa Sitorus,Rafi Sitorus,DIST-08,Medan Johor,Posyandu Melati 6,26,F,82.8,12.85,-0.14,-0.59,NORMAL,False,Sumur Terlindung
+CHD-2026-00119,1271181956562398,Fajar Pangaribuan,Tiara Pangaribuan,DIST-12,Medan Helvetia,Posyandu Melati 2,11,F,73.5,8.6,0.25,-1.04,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00120,1271814456583002,Aisyah Tambunan,Zahra Tambunan,DIST-18,Medan Polonia,Posyandu Melati 7,32,F,80.3,14.49,-2.36,-0.46,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00121,1271552086339313,Dewi Tambunan,Dewi Tambunan,DIST-02,Medan Labuhan,Posyandu Melati 8,19,M,76.2,11.69,-0.7,-0.05,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00122,1271457019874705,Zahra Sitorus,Siti Sitorus,DIST-12,Medan Helvetia,Posyandu Melati 1,57,F,97.8,20.29,-2.36,-0.87,STUNTED,False,Sumur Terlindung
+CHD-2026-00123,1271998994446062,Budi Nasution,Kevin Nasution,DIST-09,Medan Tuntungan,Posyandu Melati 1,27,F,81.8,11.71,-0.69,-1.86,NORMAL,False,PDAM
+CHD-2026-00124,1271182487661502,Aditya Pangaribuan,Rian Pangaribuan,DIST-05,Medan Tembung,Posyandu Melati 7,11,M,71.8,9.6,-0.3,-0.13,NORMAL,False,Sumur Terlindung
+CHD-2026-00125,1271827251852391,Lestari Harahap,Bayu Harahap,DIST-06,Medan Denai,Posyandu Melati 3,9,M,67.5,10.6,-1.27,1.23,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00126,1271727365658242,Rafi Pangaribuan,Anisa Pangaribuan,DIST-09,Medan Tuntungan,Posyandu Melati 4,32,F,84.5,13.74,-0.97,-1.14,NORMAL,False,Sumur Terlindung
+CHD-2026-00127,1271468111638972,Lestari Sinaga,Siti Sinaga,DIST-04,Medan Deli,Posyandu Melati 1,39,F,87.4,14.48,-1.63,-2.07,POTENTIAL_RISK,False,PDAM
+CHD-2026-00128,1271483214943248,Aisyah Pratama,Dimas Pratama,DIST-20,Medan Petisah,Posyandu Melati 5,54,F,99.5,18.26,-1.09,-2.04,POTENTIAL_RISK,False,PDAM
+CHD-2026-00129,1271322354617229,Tiara Hutapea,Anisa Hutapea,DIST-01,Medan Belawan,Posyandu Melati 6,40,M,88.5,15.54,-1.5,-1.33,POTENTIAL_RISK,False,PDAM
+CHD-2026-00130,1271194282678033,Anisa Pratama,Rafi Pratama,DIST-02,Medan Labuhan,Posyandu Melati 7,42,F,82.9,15.97,-3.83,-1.39,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00131,1271895824466928,Budi Sitorus,Putri Sitorus,DIST-13,Medan Barat,Posyandu Melati 2,11,F,71.0,9.61,-0.58,-0.13,NORMAL,True,Sumur Terlindung
+CHD-2026-00132,1271498820336562,Galang Siregar,Rian Siregar,DIST-13,Medan Barat,Posyandu Melati 3,20,F,81.3,12.27,0.78,0.24,NORMAL,True,Sumur Terlindung
+CHD-2026-00133,1271544681543419,Galang Tarigan,Dimas Tarigan,DIST-04,Medan Deli,Posyandu Melati 3,21,M,74.3,10.07,-1.8,-1.98,POTENTIAL_RISK,False,PDAM
+CHD-2026-00134,1271329103899095,Fajar Simanjuntak,Rizky Simanjuntak,DIST-20,Medan Petisah,Posyandu Melati 6,35,F,90.2,14.57,0.24,-1.07,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00135,1271185916998245,Bayu Nasution,Rafi Nasution,DIST-21,Medan Area,Posyandu Melati 5,46,F,90.7,20.47,-2.17,1.79,STUNTED,False,Sumur Terlindung
+CHD-2026-00136,1271695738661616,Galang Siregar,Dewi Siregar,DIST-12,Medan Helvetia,Posyandu Melati 5,9,F,68.2,7.69,-1.04,-1.42,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00137,1271595851881672,Melati Tambunan,Galang Tambunan,DIST-03,Medan Marelan,Posyandu Melati 6,34,M,78.2,15.35,-3.53,-0.13,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-00138,1271239503606626,Fajar Pratama,Rafi Pratama,DIST-17,Medan Maimun,Posyandu Melati 3,51,M,95.0,18.88,-1.9,-0.79,POTENTIAL_RISK,False,PDAM
+CHD-2026-00139,1271882664576962,Rafi Tarigan,Galang Tarigan,DIST-15,Medan Perjuangan,Posyandu Melati 7,29,F,86.4,12.15,0.35,-1.91,NORMAL,False,Sumur Terlindung
+CHD-2026-00140,1271184457052548,Melati Pratama,Bayu Pratama,DIST-11,Medan Sunggal,Posyandu Melati 5,41,F,92.3,18.39,-0.48,1.04,NORMAL,False,PDAM
+CHD-2026-00141,1271847958473317,Fajar Sitorus,Rizky Sitorus,DIST-20,Medan Petisah,Posyandu Melati 7,28,F,74.7,12.51,-3.3,-1.36,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00142,1271929301176381,Dewi Tarigan,Rian Tarigan,DIST-03,Medan Marelan,Posyandu Melati 2,58,M,99.5,20.11,-2.03,-1.27,STUNTED,False,Sumur Terlindung
+CHD-2026-00143,1271564238693953,Galang Sitorus,Budi Sitorus,DIST-14,Medan Timur,Posyandu Melati 8,19,F,76.0,9.61,-0.78,-1.94,NORMAL,True,PDAM
+CHD-2026-00144,1271226323519843,Fajar Siregar,Dewi Siregar,DIST-05,Medan Tembung,Posyandu Melati 6,59,M,101.4,19.78,-1.63,-1.79,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00145,1271292701283962,Fajar Tambunan,Rian Tambunan,DIST-20,Medan Petisah,Posyandu Melati 8,59,M,103.8,21.49,-0.84,-0.24,NORMAL,False,PDAM
+CHD-2026-00146,1271468889398355,Nurul Ginting,Melati Ginting,DIST-12,Medan Helvetia,Posyandu Melati 5,20,M,80.2,12.46,0.39,0.41,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00147,1271665841065616,Lestari Pangaribuan,Aditya Pangaribuan,DIST-07,Medan Amplas,Posyandu Melati 7,55,F,103.3,18.71,-0.06,-1.85,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00148,1271167723248873,Melati Nasution,Kevin Nasution,DIST-07,Medan Amplas,Posyandu Melati 2,29,M,82.8,16.11,-0.83,1.69,NORMAL,False,PDAM
+CHD-2026-00149,1271289714158167,Kevin Ginting,Galang Ginting,DIST-06,Medan Denai,Posyandu Melati 8,11,M,73.5,8.11,0.25,-1.5,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00150,1271573472317326,Aisyah Sinaga,Galang Sinaga,DIST-14,Medan Timur,Posyandu Melati 4,11,F,76.1,8.42,1.13,-1.21,NORMAL,True,PDAM
+CHD-2026-00151,1271271401635700,Bayu Simanjuntak,Fajar Simanjuntak,DIST-04,Medan Deli,Posyandu Melati 3,59,F,100.7,22.13,-1.86,0.34,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00152,1271201199275193,Rafi Tambunan,Budi Tambunan,DIST-16,Medan Kota,Posyandu Melati 7,19,M,72.2,8.86,-2.02,-2.63,STUNTED,True,Sumur Terlindung
+CHD-2026-00153,1271405402188489,Dewi Siregar,Aisyah Siregar,DIST-08,Medan Johor,Posyandu Melati 8,10,M,73.7,8.9,0.57,-0.54,NORMAL,True,Sumur Terlindung
+CHD-2026-00154,1271475500891025,Nurul Hutapea,Fajar Hutapea,DIST-19,Medan Baru,Posyandu Melati 4,45,F,95.8,17.37,-0.23,-0.8,NORMAL,False,Sumur Terlindung
+CHD-2026-00155,1271186516139914,Rizky Tarigan,Lestari Tarigan,DIST-06,Medan Denai,Posyandu Melati 7,38,M,88.0,14.83,-1.21,-1.51,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00156,1271124744402106,Rian Sitorus,Kevin Sitorus,DIST-02,Medan Labuhan,Posyandu Melati 2,28,M,78.9,12.14,-1.9,-1.69,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00157,1271794549923868,Fajar Pratama,Lestari Pratama,DIST-11,Medan Sunggal,Posyandu Melati 8,59,F,103.1,20.07,-1.05,-1.53,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00158,1271144076964302,Rizky Hutapea,Rafi Hutapea,DIST-05,Medan Tembung,Posyandu Melati 1,8,M,66.1,4.95,-1.51,-3.68,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00159,1271703656181599,Rian Sembiring,Zahra Sembiring,DIST-17,Medan Maimun,Posyandu Melati 5,54,M,102.9,20.07,0.05,-0.39,NORMAL,False,PDAM
+CHD-2026-00160,1271575581767553,Bayu Harahap,Siti Harahap,DIST-02,Medan Labuhan,Posyandu Melati 7,53,F,98.3,19.13,-1.27,-1.02,POTENTIAL_RISK,False,PDAM
+CHD-2026-00161,1271579360209507,Tiara Hutapea,Tiara Hutapea,DIST-06,Medan Denai,Posyandu Melati 7,23,M,79.3,10.77,-0.61,-1.8,NORMAL,True,Sumur Terlindung
+CHD-2026-00162,1271231839586372,Zahra Harahap,Bayu Harahap,DIST-06,Medan Denai,Posyandu Melati 5,48,F,93.9,18.52,-1.55,-0.44,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00163,1271545688491693,Putri Hutapea,Rafi Hutapea,DIST-14,Medan Timur,Posyandu Melati 7,52,F,100.0,21.59,-0.48,1.44,NORMAL,False,PDAM
+CHD-2026-00164,1271566380093621,Rizky Pangaribuan,Rian Pangaribuan,DIST-02,Medan Labuhan,Posyandu Melati 8,7,M,72.1,8.47,0.72,-0.26,NORMAL,True,PDAM
+CHD-2026-00165,1271821339583513,Lestari Sitorus,Rian Sitorus,DIST-08,Medan Johor,Posyandu Melati 6,49,F,95.1,17.94,-1.41,-1.19,POTENTIAL_RISK,False,PDAM
+CHD-2026-00166,1271565173686150,Aditya Nasution,Galang Nasution,DIST-03,Medan Marelan,Posyandu Melati 4,47,F,91.5,17.92,-2.14,-0.76,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00167,1271596889562929,Putri Ginting,Galang Ginting,DIST-01,Medan Belawan,Posyandu Melati 8,22,F,67.0,10.42,-4.47,-1.89,SEVERELY_STUNTED,True,Air Sungai / Tak Terlindung
+CHD-2026-00168,1271279942532213,Tiara Lubis,Siti Lubis,DIST-10,Medan Selayang,Posyandu Melati 8,34,M,86.4,13.13,-0.81,-2.15,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00169,1271806685075757,Lestari Hutapea,Rizky Hutapea,DIST-11,Medan Sunggal,Posyandu Melati 3,25,M,83.6,11.2,0.36,-1.86,NORMAL,False,Sumur Terlindung
+CHD-2026-00170,1271273482359094,Nurul Siregar,Dimas Siregar,DIST-17,Medan Maimun,Posyandu Melati 6,7,F,68.6,11.19,-0.44,2.22,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00171,1271184243147523,Fajar Tambunan,Rizky Tambunan,DIST-18,Medan Polonia,Posyandu Melati 7,51,F,93.8,19.07,-2.3,-0.62,STUNTED,False,Sumur Terlindung
+CHD-2026-00172,1271921777678372,Rizky Nasution,Bayu Nasution,DIST-19,Medan Baru,Posyandu Melati 3,35,F,86.9,14.58,-0.85,-1.07,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00173,1271656272901907,Aditya Nasution,Fajar Nasution,DIST-18,Medan Polonia,Posyandu Melati 3,59,M,107.7,22.57,0.47,0.75,NORMAL,False,PDAM
+CHD-2026-00174,1271546441035653,Bayu Pasaribu,Nurul Pasaribu,DIST-06,Medan Denai,Posyandu Melati 4,11,F,72.6,7.77,-0.03,-1.8,NORMAL,False,PDAM
+CHD-2026-00175,1271747721243762,Melati Tarigan,Rizky Tarigan,DIST-10,Medan Selayang,Posyandu Melati 3,43,M,102.3,15.09,2.39,-2.42,NORMAL,False,Sumur Terlindung
+CHD-2026-00176,1271159653221464,Bayu Sembiring,Aditya Sembiring,DIST-20,Medan Petisah,Posyandu Melati 5,11,M,67.8,9.43,-1.64,-0.29,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00177,1271737576299938,Melati Pangaribuan,Budi Pangaribuan,DIST-14,Medan Timur,Posyandu Melati 8,24,F,80.0,12.72,-0.62,-0.25,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00178,1271981628233589,Dewi Ginting,Rizky Ginting,DIST-13,Medan Barat,Posyandu Melati 8,34,F,92.4,14.6,1.21,-0.82,NORMAL,False,Sumur Terlindung
+CHD-2026-00179,1271508698646658,Melati Nasution,Bayu Nasution,DIST-11,Medan Sunggal,Posyandu Melati 6,31,M,85.4,13.35,-0.44,-1.27,NORMAL,False,Sumur Terlindung
+CHD-2026-00180,1271253804648366,Bayu Lubis,Rafi Lubis,DIST-04,Medan Deli,Posyandu Melati 2,21,M,78.5,10.57,-0.39,-1.53,NORMAL,True,PDAM
+CHD-2026-00181,1271309529936364,Melati Sinaga,Nurul Sinaga,DIST-13,Medan Barat,Posyandu Melati 4,42,F,91.4,17.4,-1.0,-0.09,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00182,1271496215301379,Galang Ginting,Tiara Ginting,DIST-16,Medan Kota,Posyandu Melati 8,11,F,74.8,6.51,0.71,-2.95,NORMAL,True,PDAM
+CHD-2026-00183,1271737265438710,Aisyah Pratama,Dewi Pratama,DIST-12,Medan Helvetia,Posyandu Melati 2,24,M,81.0,11.87,-0.25,-1.03,NORMAL,False,PDAM
+CHD-2026-00184,1271561474407563,Lestari Simanjuntak,Rian Simanjuntak,DIST-09,Medan Tuntungan,Posyandu Melati 6,9,M,72.8,8.23,0.51,-0.93,NORMAL,False,PDAM
+CHD-2026-00185,1271459654012946,Rafi Simanjuntak,Zahra Simanjuntak,DIST-17,Medan Maimun,Posyandu Melati 7,14,M,77.1,8.79,0.77,-1.56,NORMAL,False,Sumur Terlindung
+CHD-2026-00186,1271357317289341,Zahra Sitorus,Fajar Sitorus,DIST-11,Medan Sunggal,Posyandu Melati 1,31,M,77.2,15.33,-3.17,0.53,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00187,1271297357109446,Tiara Tarigan,Rafi Tarigan,DIST-11,Medan Sunggal,Posyandu Melati 6,14,F,70.1,7.92,-1.55,-2.35,POTENTIAL_RISK,True,PDAM
+CHD-2026-00188,1271749685249351,Dewi Tambunan,Bayu Tambunan,DIST-20,Medan Petisah,Posyandu Melati 5,40,F,91.8,16.19,-0.42,-0.74,NORMAL,False,Sumur Terlindung
+CHD-2026-00189,1271637120566040,Lestari Sitorus,Siti Sitorus,DIST-01,Medan Belawan,Posyandu Melati 8,56,M,103.3,20.54,-0.31,-0.42,NORMAL,False,PDAM
+CHD-2026-00190,1271167118688871,Aditya Tambunan,Nurul Tambunan,DIST-21,Medan Area,Posyandu Melati 3,16,F,74.3,9.06,-0.62,-1.77,NORMAL,True,PDAM
+CHD-2026-00191,1271505391223481,Dimas Pratama,Rafi Pratama,DIST-04,Medan Deli,Posyandu Melati 7,32,M,85.2,13.9,-0.75,-1.0,NORMAL,False,Sumur Terlindung
+CHD-2026-00192,1271276438784397,Tiara Sembiring,Aisyah Sembiring,DIST-20,Medan Petisah,Posyandu Melati 8,41,F,94.4,15.68,0.23,-1.43,NORMAL,False,Sumur Terlindung
+CHD-2026-00193,1271536728086804,Putri Ginting,Zahra Ginting,DIST-11,Medan Sunggal,Posyandu Melati 8,49,F,96.2,19.18,-1.04,-0.07,POTENTIAL_RISK,False,PDAM
+CHD-2026-00194,1271384120715735,Kevin Tarigan,Dewi Tarigan,DIST-08,Medan Johor,Posyandu Melati 8,51,M,103.5,20.28,0.93,0.48,NORMAL,False,PDAM
+CHD-2026-00195,1271462277949899,Zahra Pasaribu,Kevin Pasaribu,DIST-12,Medan Helvetia,Posyandu Melati 6,30,F,84.3,13.11,-0.58,-1.27,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00196,1271204631888247,Dewi Pratama,Dewi Pratama,DIST-05,Medan Tembung,Posyandu Melati 8,47,F,96.7,16.4,-0.4,-2.14,NORMAL,False,PDAM
+CHD-2026-00197,1271993848153249,Kevin Pasaribu,Zahra Pasaribu,DIST-18,Medan Polonia,Posyandu Melati 4,12,M,69.3,11.31,-1.37,1.19,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00198,1271162050657771,Nurul Pangaribuan,Nurul Pangaribuan,DIST-17,Medan Maimun,Posyandu Melati 2,27,F,83.1,12.43,-0.28,-1.2,NORMAL,False,Sumur Terlindung
+CHD-2026-00199,1271627846078793,Budi Tarigan,Putri Tarigan,DIST-05,Medan Tembung,Posyandu Melati 5,36,M,90.5,16.5,0.1,0.45,NORMAL,False,PDAM
+CHD-2026-00200,1271937020224804,Aisyah Pasaribu,Rizky Pasaribu,DIST-21,Medan Area,Posyandu Melati 3,40,M,89.2,15.61,-1.25,-1.27,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00201,1271732953615742,Aisyah Sembiring,Rian Sembiring,DIST-06,Medan Denai,Posyandu Melati 5,8,M,65.9,9.04,-1.57,0.04,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00202,1271776179043198,Dewi Ginting,Zahra Ginting,DIST-11,Medan Sunggal,Posyandu Melati 5,38,F,93.3,17.48,0.57,0.89,NORMAL,False,PDAM
+CHD-2026-00203,1271923697614050,Bayu Nasution,Rafi Nasution,DIST-04,Medan Deli,Posyandu Melati 5,6,F,69.5,5.25,0.1,-2.96,NORMAL,True,PDAM
+CHD-2026-00204,1271754438562421,Rian Sembiring,Anisa Sembiring,DIST-21,Medan Area,Posyandu Melati 3,31,M,85.5,12.6,-0.41,-1.96,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00205,1271103734537284,Bayu Pasaribu,Nurul Pasaribu,DIST-16,Medan Kota,Posyandu Melati 5,21,F,76.4,11.86,-1.09,-0.35,POTENTIAL_RISK,False,PDAM
+CHD-2026-00206,1271983477812017,Budi Harahap,Lestari Harahap,DIST-19,Medan Baru,Posyandu Melati 8,48,M,100.4,17.48,0.6,-1.38,NORMAL,False,PDAM
+CHD-2026-00207,1271982231195833,Galang Pasaribu,Dewi Pasaribu,DIST-13,Medan Barat,Posyandu Melati 4,29,M,75.3,13.71,-3.34,-0.49,SEVERELY_STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00208,1271575360459998,Fajar Ginting,Melati Ginting,DIST-16,Medan Kota,Posyandu Melati 4,36,M,98.0,15.16,2.59,-0.76,NORMAL,False,Sumur Terlindung
+CHD-2026-00209,1271778379526927,Rizky Tarigan,Rafi Tarigan,DIST-20,Medan Petisah,Posyandu Melati 1,10,M,70.9,11.12,-0.38,1.47,NORMAL,True,Sumur Terlindung
+CHD-2026-00210,1271662218864365,Putri Sitorus,Galang Sitorus,DIST-05,Medan Tembung,Posyandu Melati 2,51,F,100.2,18.97,-0.18,-0.71,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00211,1271755356048484,Aisyah Ginting,Fajar Ginting,DIST-15,Medan Perjuangan,Posyandu Melati 8,42,M,93.6,16.86,-0.26,-0.58,NORMAL,False,Sumur Terlindung
+CHD-2026-00212,1271108820324570,Budi Sinaga,Kevin Sinaga,DIST-10,Medan Selayang,Posyandu Melati 1,43,M,89.8,15.6,-1.78,-1.95,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00213,1271701332765703,Zahra Pratama,Rizky Pratama,DIST-03,Medan Marelan,Posyandu Melati 3,32,M,91.1,14.05,1.23,-0.86,NORMAL,False,Sumur Terlindung
+CHD-2026-00214,1271674958337154,Anisa Sitorus,Rian Sitorus,DIST-21,Medan Area,Posyandu Melati 6,11,M,70.8,8.76,-0.62,-0.9,NORMAL,True,PDAM
+CHD-2026-00215,1271389753731056,Rian Tarigan,Fajar Tarigan,DIST-18,Medan Polonia,Posyandu Melati 5,54,M,104.3,23.04,0.49,2.31,NORMAL,False,Sumur Terlindung
+CHD-2026-00216,1271393595358546,Anisa Tarigan,Rian Tarigan,DIST-18,Medan Polonia,Posyandu Melati 5,28,M,85.2,12.79,0.19,-1.1,NORMAL,False,PDAM
+CHD-2026-00217,1271889032651256,Aisyah Simanjuntak,Anisa Simanjuntak,DIST-04,Medan Deli,Posyandu Melati 2,21,M,76.0,12.24,-1.24,-0.01,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00218,1271418765131724,Melati Pangaribuan,Aisyah Pangaribuan,DIST-15,Medan Perjuangan,Posyandu Melati 4,31,F,82.3,14.84,-1.46,0.08,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00219,1271399554136224,Fajar Tarigan,Dewi Tarigan,DIST-02,Medan Labuhan,Posyandu Melati 4,42,F,82.8,15.82,-3.88,-1.53,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00220,1271483885191998,Galang Lubis,Anisa Lubis,DIST-05,Medan Tembung,Posyandu Melati 7,41,M,93.3,17.73,-0.14,0.44,NORMAL,False,Sumur Terlindung
+CHD-2026-00221,1271774342177821,Lestari Pangaribuan,Rian Pangaribuan,DIST-02,Medan Labuhan,Posyandu Melati 5,32,M,81.0,11.79,-2.12,-2.92,STUNTED,False,PDAM
+CHD-2026-00222,1271489991973365,Tiara Lubis,Nurul Lubis,DIST-18,Medan Polonia,Posyandu Melati 1,57,F,102.7,19.4,-0.72,-1.69,NORMAL,False,Sumur Terlindung
+CHD-2026-00223,1271593546555177,Zahra Tarigan,Fajar Tarigan,DIST-14,Medan Timur,Posyandu Melati 2,19,F,75.6,10.88,-0.89,-0.79,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00224,1271163815027179,Zahra Hutapea,Dimas Hutapea,DIST-03,Medan Marelan,Posyandu Melati 2,49,M,91.8,19.05,-2.51,-0.19,STUNTED,False,PDAM
+CHD-2026-00225,1271364491385967,Zahra Lubis,Tiara Lubis,DIST-19,Medan Baru,Posyandu Melati 4,6,M,67.5,9.35,-0.56,0.77,NORMAL,True,Sumur Terlindung
+CHD-2026-00226,1271365158984921,Nurul Hutapea,Melati Hutapea,DIST-16,Medan Kota,Posyandu Melati 5,41,F,85.8,15.44,-2.65,-1.65,STUNTED,False,PDAM
+CHD-2026-00227,1271566377279147,Lestari Harahap,Kevin Harahap,DIST-18,Medan Polonia,Posyandu Melati 8,35,M,90.0,14.29,0.18,-1.33,NORMAL,False,Sumur Terlindung
+CHD-2026-00228,1271621479364625,Dimas Sitorus,Bayu Sitorus,DIST-11,Medan Sunggal,Posyandu Melati 1,53,M,99.8,19.57,-0.76,-0.62,NORMAL,False,PDAM
+CHD-2026-00229,1271472598144214,Aditya Hutapea,Anisa Hutapea,DIST-19,Medan Baru,Posyandu Melati 7,27,M,83.3,12.49,-0.19,-1.15,NORMAL,False,Sumur Terlindung
+CHD-2026-00230,1271429004419005,Tiara Tarigan,Bayu Tarigan,DIST-08,Medan Johor,Posyandu Melati 8,52,F,100.3,18.43,-0.35,-1.43,NORMAL,False,PDAM
+CHD-2026-00231,1271722929889882,Putri Nasution,Zahra Nasution,DIST-12,Medan Helvetia,Posyandu Melati 1,47,M,98.2,17.8,0.11,-0.86,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00232,1271622441704791,Aisyah Simanjuntak,Budi Simanjuntak,DIST-03,Medan Marelan,Posyandu Melati 1,10,M,69.6,11.41,-0.79,1.74,NORMAL,True,Sumur Terlindung
+CHD-2026-00233,1271717913098993,Aisyah Tambunan,Melati Tambunan,DIST-12,Medan Helvetia,Posyandu Melati 7,7,M,64.0,9.61,-1.97,0.78,POTENTIAL_RISK,True,PDAM
+CHD-2026-00234,1271749526578054,Zahra Harahap,Budi Harahap,DIST-09,Medan Tuntungan,Posyandu Melati 2,57,M,93.8,18.04,-3.7,-2.92,SEVERELY_STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00235,1271896520295135,Fajar Lubis,Dimas Lubis,DIST-17,Medan Maimun,Posyandu Melati 5,58,F,99.0,19.19,-2.2,-2.1,STUNTED,False,Sumur Terlindung
+CHD-2026-00236,1271823550214700,Lestari Sinaga,Rafi Sinaga,DIST-03,Medan Marelan,Posyandu Melati 1,25,M,80.3,12.43,-0.74,-0.75,NORMAL,False,PDAM
+CHD-2026-00237,1271177676781154,Rian Tarigan,Tiara Tarigan,DIST-13,Medan Barat,Posyandu Melati 2,50,M,97.2,18.56,-0.93,-0.85,NORMAL,False,Sumur Terlindung
+CHD-2026-00238,1271771446184764,Bayu Tambunan,Siti Tambunan,DIST-14,Medan Timur,Posyandu Melati 5,19,F,78.0,11.89,-0.1,0.12,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00239,1271329917376152,Zahra Tambunan,Aisyah Tambunan,DIST-09,Medan Tuntungan,Posyandu Melati 3,7,M,63.5,7.6,-2.15,-1.05,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00240,1271829751947375,Putri Tambunan,Nurul Tambunan,DIST-10,Medan Selayang,Posyandu Melati 7,49,F,97.7,19.29,-0.53,0.04,NORMAL,False,Sumur Terlindung
+CHD-2026-00241,1271162024308161,Rizky Tarigan,Lestari Tarigan,DIST-05,Medan Tembung,Posyandu Melati 6,20,M,73.7,10.85,-1.77,-1.05,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00242,1271676144354737,Budi Pangaribuan,Kevin Pangaribuan,DIST-11,Medan Sunggal,Posyandu Melati 7,28,F,83.0,12.47,-0.54,-1.39,NORMAL,False,PDAM
+CHD-2026-00243,1271479368215037,Rian Siregar,Melati Siregar,DIST-19,Medan Baru,Posyandu Melati 2,51,M,97.0,19.42,-1.22,-0.3,POTENTIAL_RISK,False,PDAM
+CHD-2026-00244,1271504782212745,Fajar Hutapea,Rian Hutapea,DIST-13,Medan Barat,Posyandu Melati 5,11,M,70.4,9.59,-0.78,-0.14,NORMAL,False,PDAM
+CHD-2026-00245,1271335519148353,Siti Nasution,Rizky Nasution,DIST-09,Medan Tuntungan,Posyandu Melati 2,41,F,88.2,16.11,-1.83,-1.04,POTENTIAL_RISK,False,PDAM
+CHD-2026-00246,1271869225436315,Zahra Siregar,Melati Siregar,DIST-12,Medan Helvetia,Posyandu Melati 5,30,M,83.2,14.67,-0.94,0.15,NORMAL,False,Sumur Terlindung
+CHD-2026-00247,1271836464173778,Zahra Pasaribu,Nurul Pasaribu,DIST-03,Medan Marelan,Posyandu Melati 3,49,F,93.1,18.36,-2.07,-0.81,STUNTED,False,PDAM
+CHD-2026-00248,1271182753298121,Kevin Ginting,Fajar Ginting,DIST-10,Medan Selayang,Posyandu Melati 5,23,F,80.6,14.19,-0.16,1.31,NORMAL,False,Sumur Terlindung
+CHD-2026-00249,1271867466244203,Kevin Lubis,Tiara Lubis,DIST-12,Medan Helvetia,Posyandu Melati 3,35,M,84.0,14.15,-1.85,-1.45,POTENTIAL_RISK,False,PDAM
+CHD-2026-00250,1271589431356399,Bayu Sembiring,Melati Sembiring,DIST-13,Medan Barat,Posyandu Melati 7,34,F,83.6,12.74,-1.72,-2.51,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00251,1271517325124290,Melati Nasution,Dewi Nasution,DIST-21,Medan Area,Posyandu Melati 3,36,F,94.2,13.63,1.32,-2.16,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00252,1271839199594971,Dewi Hutapea,Tiara Hutapea,DIST-11,Medan Sunggal,Posyandu Melati 5,26,F,78.6,14.39,-1.52,0.81,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00253,1271357209959939,Lestari Siregar,Aditya Siregar,DIST-13,Medan Barat,Posyandu Melati 8,17,M,68.9,11.4,-2.68,0.14,STUNTED,True,Sumur Terlindung
+CHD-2026-00254,1271966235573280,Rizky Sembiring,Anisa Sembiring,DIST-10,Medan Selayang,Posyandu Melati 4,46,F,90.9,19.46,-2.1,0.87,STUNTED,False,PDAM
+CHD-2026-00255,1271195708808851,Anisa Simanjuntak,Rian Simanjuntak,DIST-05,Medan Tembung,Posyandu Melati 7,43,F,84.9,14.6,-3.4,-2.86,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-00256,1271239063065067,Zahra Tambunan,Rizky Tambunan,DIST-12,Medan Helvetia,Posyandu Melati 3,48,F,94.7,19.36,-1.31,0.32,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00257,1271529349088052,Aditya Pangaribuan,Rian Pangaribuan,DIST-02,Medan Labuhan,Posyandu Melati 2,12,M,69.8,8.19,-1.21,-1.64,POTENTIAL_RISK,False,PDAM
+CHD-2026-00258,1271385674327129,Zahra Tambunan,Aditya Tambunan,DIST-17,Medan Maimun,Posyandu Melati 3,31,F,89.2,16.44,0.82,1.53,NORMAL,False,PDAM
+CHD-2026-00259,1271631900252901,Tiara Siregar,Dewi Siregar,DIST-01,Medan Belawan,Posyandu Melati 6,59,M,104.8,19.47,-0.49,-2.07,NORMAL,False,PDAM
+CHD-2026-00260,1271545992922599,Dimas Tarigan,Tiara Tarigan,DIST-15,Medan Perjuangan,Posyandu Melati 6,34,F,85.0,13.02,-1.27,-2.26,POTENTIAL_RISK,False,PDAM
+CHD-2026-00261,1271922146753692,Siti Pratama,Bayu Pratama,DIST-02,Medan Labuhan,Posyandu Melati 3,53,M,98.9,16.89,-1.05,-3.05,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00262,1271399365077636,Zahra Sinaga,Rafi Sinaga,DIST-11,Medan Sunggal,Posyandu Melati 3,46,M,97.4,20.22,0.07,1.57,NORMAL,False,Sumur Terlindung
+CHD-2026-00263,1271355714138037,Rian Pratama,Melati Pratama,DIST-14,Medan Timur,Posyandu Melati 4,30,M,86.4,13.07,0.12,-1.3,NORMAL,False,PDAM
+CHD-2026-00264,1271334835616340,Aditya Siregar,Zahra Siregar,DIST-03,Medan Marelan,Posyandu Melati 2,18,F,76.5,12.27,-0.36,0.7,NORMAL,False,Sumur Terlindung
+CHD-2026-00265,1271865075177431,Galang Pangaribuan,Bayu Pangaribuan,DIST-16,Medan Kota,Posyandu Melati 6,43,M,99.1,15.95,1.34,-1.64,NORMAL,False,PDAM
+CHD-2026-00266,1271887188362388,Melati Nasution,Dewi Nasution,DIST-15,Medan Perjuangan,Posyandu Melati 6,49,M,98.7,18.12,-0.18,-1.02,NORMAL,False,PDAM
+CHD-2026-00267,1271982482259369,Siti Nasution,Lestari Nasution,DIST-10,Medan Selayang,Posyandu Melati 3,30,F,87.5,14.42,0.49,-0.07,NORMAL,False,Sumur Terlindung
+CHD-2026-00268,1271987766043838,Putri Ginting,Zahra Ginting,DIST-14,Medan Timur,Posyandu Melati 8,41,M,83.2,15.97,-3.48,-1.17,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00269,1271891562156882,Bayu Sembiring,Rafi Sembiring,DIST-06,Medan Denai,Posyandu Melati 3,6,F,67.1,5.66,-0.7,-2.58,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00270,1271628179569056,Galang Pangaribuan,Tiara Pangaribuan,DIST-18,Medan Polonia,Posyandu Melati 8,32,F,88.2,12.67,0.26,-2.12,NORMAL,False,PDAM
+CHD-2026-00271,1271471342835503,Budi Simanjuntak,Nurul Simanjuntak,DIST-19,Medan Baru,Posyandu Melati 3,20,F,75.1,13.16,-1.31,1.05,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00272,1271832197545389,Zahra Tarigan,Siti Tarigan,DIST-16,Medan Kota,Posyandu Melati 1,55,F,98.9,20.84,-1.53,0.09,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00273,1271238717405055,Zahra Lubis,Anisa Lubis,DIST-15,Medan Perjuangan,Posyandu Melati 8,25,M,74.0,14.81,-2.83,1.42,STUNTED,False,PDAM
+CHD-2026-00274,1271403200736744,Rafi Sembiring,Siti Sembiring,DIST-03,Medan Marelan,Posyandu Melati 3,51,F,96.7,18.69,-1.33,-0.96,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00275,1271824678569720,Dimas Simanjuntak,Aisyah Simanjuntak,DIST-07,Medan Amplas,Posyandu Melati 6,23,M,79.3,12.49,-0.62,-0.24,NORMAL,False,PDAM
+CHD-2026-00276,1271278865307743,Galang Pasaribu,Siti Pasaribu,DIST-09,Medan Tuntungan,Posyandu Melati 3,9,F,64.2,8.52,-2.37,-0.66,STUNTED,True,PDAM
+CHD-2026-00277,1271722490775402,Nurul Simanjuntak,Rian Simanjuntak,DIST-11,Medan Sunggal,Posyandu Melati 7,46,F,93.2,15.79,-1.34,-2.46,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00278,1271458284497046,Rizky Sinaga,Galang Sinaga,DIST-21,Medan Area,Posyandu Melati 6,35,F,90.7,14.45,0.42,-1.19,NORMAL,False,Sumur Terlindung
+CHD-2026-00279,1271189343289756,Rafi Pangaribuan,Lestari Pangaribuan,DIST-03,Medan Marelan,Posyandu Melati 7,31,M,84.6,13.8,-0.69,-0.87,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00280,1271536738963139,Kevin Sitorus,Dewi Sitorus,DIST-16,Medan Kota,Posyandu Melati 6,42,F,91.7,19.28,-0.89,1.61,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00281,1271122302723588,Aisyah Siregar,Rafi Siregar,DIST-02,Medan Labuhan,Posyandu Melati 1,34,F,85.1,12.23,-1.23,-2.98,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00282,1271934165283604,Dimas Hutapea,Fajar Hutapea,DIST-14,Medan Timur,Posyandu Melati 6,23,M,77.5,12.49,-1.19,-0.24,POTENTIAL_RISK,False,PDAM
+CHD-2026-00283,1271904203494836,Putri Pratama,Rian Pratama,DIST-21,Medan Area,Posyandu Melati 2,33,M,87.8,13.06,-0.11,-1.99,NORMAL,False,PDAM
+CHD-2026-00284,1271386446768291,Rizky Nasution,Aditya Nasution,DIST-16,Medan Kota,Posyandu Melati 6,6,M,71.0,5.79,0.59,-2.46,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00285,1271395016772463,Fajar Ginting,Rizky Ginting,DIST-14,Medan Timur,Posyandu Melati 2,52,M,103.2,17.55,0.61,-2.22,NORMAL,False,PDAM
+CHD-2026-00286,1271928100293340,Fajar Sinaga,Fajar Sinaga,DIST-10,Medan Selayang,Posyandu Melati 3,10,M,69.9,10.24,-0.71,0.67,NORMAL,False,PDAM
+CHD-2026-00287,1271888199168248,Fajar Pasaribu,Anisa Pasaribu,DIST-07,Medan Amplas,Posyandu Melati 2,19,M,76.2,11.74,-0.69,-0.01,NORMAL,True,Sumur Terlindung
+CHD-2026-00288,1271509295043290,Rian Sitorus,Anisa Sitorus,DIST-19,Medan Baru,Posyandu Melati 2,21,F,80.7,13.34,0.35,0.99,NORMAL,True,Sumur Terlindung
+CHD-2026-00289,1271944163024366,Melati Harahap,Budi Harahap,DIST-20,Medan Petisah,Posyandu Melati 7,39,M,94.7,15.68,0.8,-0.97,NORMAL,False,PDAM
+CHD-2026-00290,1271243527929185,Nurul Ginting,Rian Ginting,DIST-02,Medan Labuhan,Posyandu Melati 1,46,M,95.9,15.26,-0.43,-2.94,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00291,1271634831629951,Fajar Sinaga,Aditya Sinaga,DIST-11,Medan Sunggal,Posyandu Melati 8,49,M,97.4,19.55,-0.64,0.27,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00292,1271113749214534,Budi Tambunan,Rizky Tambunan,DIST-03,Medan Marelan,Posyandu Melati 7,8,M,68.1,8.37,-0.82,-0.58,NORMAL,False,Sumur Terlindung
+CHD-2026-00293,1271207716529791,Anisa Sinaga,Rian Sinaga,DIST-17,Medan Maimun,Posyandu Melati 5,40,M,90.0,17.45,-1.0,0.41,NORMAL,False,PDAM
+CHD-2026-00294,1271296624456353,Galang Pasaribu,Dimas Pasaribu,DIST-03,Medan Marelan,Posyandu Melati 5,31,M,83.5,13.02,-1.07,-1.57,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00295,1271652216208428,Aisyah Lubis,Rizky Lubis,DIST-08,Medan Johor,Posyandu Melati 5,45,M,98.0,15.93,0.51,-2.11,NORMAL,False,Sumur Terlindung
+CHD-2026-00296,1271991119013684,Siti Pratama,Fajar Pratama,DIST-06,Medan Denai,Posyandu Melati 5,37,F,89.9,13.88,-0.35,-2.15,NORMAL,False,PDAM
+CHD-2026-00297,1271134512848034,Kevin Hutapea,Siti Hutapea,DIST-05,Medan Tembung,Posyandu Melati 5,23,M,83.0,11.39,0.62,-1.23,NORMAL,True,Sumur Terlindung
+CHD-2026-00298,1271822749877024,Lestari Pratama,Tiara Pratama,DIST-17,Medan Maimun,Posyandu Melati 2,16,F,74.4,10.6,-0.59,-0.37,NORMAL,True,PDAM
+CHD-2026-00299,1271411482158729,Budi Pratama,Budi Pratama,DIST-17,Medan Maimun,Posyandu Melati 3,29,F,76.3,12.57,-3.0,-1.53,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00300,1271384374335067,Zahra Simanjuntak,Anisa Simanjuntak,DIST-02,Medan Labuhan,Posyandu Melati 5,32,F,87.5,14.64,0.05,-0.33,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00301,1271961552303938,Lestari Siregar,Galang Siregar,DIST-19,Medan Baru,Posyandu Melati 7,20,M,78.9,9.93,-0.04,-1.88,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00302,1271805789331130,Dewi Sitorus,Rizky Sitorus,DIST-10,Medan Selayang,Posyandu Melati 5,29,M,86.0,14.57,0.23,0.29,NORMAL,False,Sumur Terlindung
+CHD-2026-00303,1271577204329083,Melati Lubis,Rafi Lubis,DIST-10,Medan Selayang,Posyandu Melati 4,55,M,102.3,21.68,-0.4,0.84,NORMAL,False,PDAM
+CHD-2026-00304,1271547668331157,Budi Lubis,Zahra Lubis,DIST-14,Medan Timur,Posyandu Melati 7,27,M,79.3,12.27,-1.52,-1.34,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00305,1271405402089061,Siti Lubis,Galang Lubis,DIST-10,Medan Selayang,Posyandu Melati 5,9,M,61.3,9.81,-3.35,0.51,SEVERELY_STUNTED,True,PDAM
+CHD-2026-00306,1271688842292391,Galang Sinaga,Lestari Sinaga,DIST-08,Medan Johor,Posyandu Melati 3,43,M,94.6,15.1,-0.16,-2.41,NORMAL,False,Sumur Terlindung
+CHD-2026-00307,1271175561123141,Rizky Tambunan,Aditya Tambunan,DIST-13,Medan Barat,Posyandu Melati 5,21,F,71.7,10.45,-2.68,-1.64,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00308,1271443449592223,Bayu Sitorus,Rafi Sitorus,DIST-13,Medan Barat,Posyandu Melati 2,18,M,78.5,10.38,0.3,-1.01,NORMAL,True,PDAM
+CHD-2026-00309,1271256619576870,Rafi Sitorus,Anisa Sitorus,DIST-15,Medan Perjuangan,Posyandu Melati 8,55,M,98.3,18.61,-1.72,-1.95,POTENTIAL_RISK,False,PDAM
+CHD-2026-00310,1271974189921660,Siti Siregar,Putri Siregar,DIST-09,Medan Tuntungan,Posyandu Melati 3,19,F,72.8,8.71,-1.83,-2.76,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00311,1271964133575262,Rian Tarigan,Aisyah Tarigan,DIST-12,Medan Helvetia,Posyandu Melati 1,58,M,99.3,19.41,-2.08,-1.9,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00312,1271411993268570,Zahra Hutapea,Zahra Hutapea,DIST-15,Medan Perjuangan,Posyandu Melati 2,12,M,73.4,8.87,0.02,-1.03,NORMAL,True,PDAM
+CHD-2026-00313,1271578196222376,Fajar Lubis,Rian Lubis,DIST-08,Medan Johor,Posyandu Melati 2,43,F,90.6,19.89,-1.49,1.95,POTENTIAL_RISK,False,PDAM
+CHD-2026-00314,1271261964466432,Dimas Pasaribu,Rafi Pasaribu,DIST-03,Medan Marelan,Posyandu Melati 8,13,M,68.9,10.48,-1.75,0.21,POTENTIAL_RISK,True,PDAM
+CHD-2026-00315,1271731309147270,Anisa Sembiring,Rian Sembiring,DIST-19,Medan Baru,Posyandu Melati 3,49,F,103.8,16.92,1.52,-2.12,NORMAL,False,PDAM
+CHD-2026-00316,1271291363325026,Kevin Harahap,Rafi Harahap,DIST-06,Medan Denai,Posyandu Melati 8,47,F,95.4,17.01,-0.84,-1.58,NORMAL,False,Sumur Terlindung
+CHD-2026-00317,1271455016203248,Tiara Pratama,Rizky Pratama,DIST-18,Medan Polonia,Posyandu Melati 4,32,M,84.0,15.16,-1.12,0.15,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00318,1271716709688940,Budi Sinaga,Lestari Sinaga,DIST-18,Medan Polonia,Posyandu Melati 7,28,F,81.2,12.9,-1.15,-1.0,POTENTIAL_RISK,False,PDAM
+CHD-2026-00319,1271139500695602,Bayu Tambunan,Nurul Tambunan,DIST-01,Medan Belawan,Posyandu Melati 6,9,F,66.9,7.27,-1.47,-1.8,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00320,1271446596141916,Nurul Pangaribuan,Nurul Pangaribuan,DIST-04,Medan Deli,Posyandu Melati 7,54,M,95.5,20.16,-2.45,-0.31,STUNTED,False,PDAM
+CHD-2026-00321,1271509453726878,Putri Lubis,Aditya Lubis,DIST-06,Medan Denai,Posyandu Melati 6,43,M,96.0,17.05,0.29,-0.64,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00322,1271736684586063,Fajar Tambunan,Dimas Tambunan,DIST-19,Medan Baru,Posyandu Melati 1,17,F,74.5,9.95,-0.81,-1.18,NORMAL,True,PDAM
+CHD-2026-00323,1271711007166435,Nurul Pratama,Galang Pratama,DIST-20,Medan Petisah,Posyandu Melati 3,45,M,92.7,20.56,-1.26,2.1,POTENTIAL_RISK,False,PDAM
+CHD-2026-00324,1271287151043320,Bayu Pratama,Budi Pratama,DIST-06,Medan Denai,Posyandu Melati 6,55,M,104.0,18.63,0.16,-1.93,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00325,1271534164236285,Rian Tambunan,Siti Tambunan,DIST-12,Medan Helvetia,Posyandu Melati 7,14,M,73.4,9.25,-0.48,-1.13,NORMAL,False,Sumur Terlindung
+CHD-2026-00326,1271553340813872,Zahra Hutapea,Melati Hutapea,DIST-06,Medan Denai,Posyandu Melati 5,30,F,85.3,14.04,-0.25,-0.42,NORMAL,False,PDAM
+CHD-2026-00327,1271142909266213,Aditya Sinaga,Aditya Sinaga,DIST-01,Medan Belawan,Posyandu Melati 2,57,M,104.9,18.7,-0.01,-2.32,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00328,1271404636566234,Bayu Hutapea,Rizky Hutapea,DIST-05,Medan Tembung,Posyandu Melati 6,16,M,74.0,7.86,-0.75,-2.86,NORMAL,False,PDAM
+CHD-2026-00329,1271543691252770,Nurul Hutapea,Rizky Hutapea,DIST-07,Medan Amplas,Posyandu Melati 1,52,M,94.5,20.07,-2.29,0.06,STUNTED,False,PDAM
+CHD-2026-00330,1271734971086754,Putri Pasaribu,Anisa Pasaribu,DIST-14,Medan Timur,Posyandu Melati 2,40,F,87.5,15.13,-1.83,-1.7,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00331,1271199380161547,Nurul Nasution,Rafi Nasution,DIST-19,Medan Baru,Posyandu Melati 6,24,M,80.6,13.38,-0.38,0.35,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00332,1271308675412228,Bayu Nasution,Rian Nasution,DIST-03,Medan Marelan,Posyandu Melati 6,41,M,87.1,11.9,-2.21,-4.86,STUNTED,False,Sumur Terlindung
+CHD-2026-00333,1271657853863703,Tiara Hutapea,Budi Hutapea,DIST-20,Medan Petisah,Posyandu Melati 3,44,F,91.4,18.92,-1.45,0.84,POTENTIAL_RISK,False,PDAM
+CHD-2026-00334,1271996810289849,Dimas Lubis,Anisa Lubis,DIST-11,Medan Sunggal,Posyandu Melati 5,22,F,79.9,13.4,-0.17,0.82,NORMAL,True,PDAM
+CHD-2026-00335,1271291571526911,Aditya Tarigan,Tiara Tarigan,DIST-13,Medan Barat,Posyandu Melati 2,6,F,63.3,5.78,-1.95,-2.48,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00336,1271221269854390,Melati Ginting,Dimas Ginting,DIST-21,Medan Area,Posyandu Melati 2,16,F,75.6,10.41,-0.2,-0.54,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00337,1271943778772493,Rian Ginting,Tiara Ginting,DIST-10,Medan Selayang,Posyandu Melati 3,47,F,97.6,19.33,-0.09,0.53,NORMAL,False,PDAM
+CHD-2026-00338,1271153760858204,Lestari Nasution,Rafi Nasution,DIST-13,Medan Barat,Posyandu Melati 4,35,F,89.1,15.48,-0.14,-0.24,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00339,1271208005966632,Aisyah Nasution,Siti Nasution,DIST-19,Medan Baru,Posyandu Melati 4,57,F,106.3,21.4,0.46,0.14,NORMAL,False,Sumur Terlindung
+CHD-2026-00340,1271975978894860,Galang Sinaga,Zahra Sinaga,DIST-13,Medan Barat,Posyandu Melati 2,36,F,91.3,16.45,0.37,0.41,NORMAL,False,PDAM
+CHD-2026-00341,1271838104463415,Galang Tambunan,Galang Tambunan,DIST-02,Medan Labuhan,Posyandu Melati 3,13,F,76.0,8.07,0.62,-1.98,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00342,1271208163088133,Fajar Pratama,Anisa Pratama,DIST-07,Medan Amplas,Posyandu Melati 5,18,M,76.8,10.07,-0.26,-1.3,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00343,1271606788706343,Rizky Sinaga,Zahra Sinaga,DIST-03,Medan Marelan,Posyandu Melati 1,23,F,75.3,10.75,-1.95,-1.82,POTENTIAL_RISK,False,PDAM
+CHD-2026-00344,1271848952162641,Fajar Tambunan,Aditya Tambunan,DIST-05,Medan Tembung,Posyandu Melati 5,12,M,72.5,9.46,-0.29,-0.49,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00345,1271837385438750,Rian Pangaribuan,Tiara Pangaribuan,DIST-09,Medan Tuntungan,Posyandu Melati 5,8,M,70.2,8.01,-0.13,-0.9,NORMAL,False,PDAM
+CHD-2026-00346,1271528240564892,Rian Pratama,Rian Pratama,DIST-20,Medan Petisah,Posyandu Melati 5,9,F,70.0,9.71,-0.43,0.42,NORMAL,False,PDAM
+CHD-2026-00347,1271998181192609,Dewi Harahap,Tiara Harahap,DIST-10,Medan Selayang,Posyandu Melati 5,20,M,72.4,11.49,-2.19,-0.46,STUNTED,False,Sumur Terlindung
+CHD-2026-00348,1271877769132462,Kevin Hutapea,Anisa Hutapea,DIST-11,Medan Sunggal,Posyandu Melati 4,18,F,76.2,11.72,-0.47,0.2,NORMAL,False,Sumur Terlindung
+CHD-2026-00349,1271759299373604,Lestari Sembiring,Aisyah Sembiring,DIST-17,Medan Maimun,Posyandu Melati 7,10,F,65.0,10.39,-2.33,0.81,STUNTED,True,Sumur Terlindung
+CHD-2026-00350,1271349733904288,Aditya Pratama,Putri Pratama,DIST-17,Medan Maimun,Posyandu Melati 4,59,M,104.8,21.17,-0.5,-0.53,NORMAL,False,PDAM
+CHD-2026-00351,1271454862448605,Lestari Hutapea,Dimas Hutapea,DIST-02,Medan Labuhan,Posyandu Melati 2,38,F,86.7,15.74,-1.64,-0.69,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00352,1271672862098775,Lestari Ginting,Melati Ginting,DIST-08,Medan Johor,Posyandu Melati 6,43,F,93.7,18.57,-0.47,0.75,NORMAL,False,PDAM
+CHD-2026-00353,1271591520623669,Rizky Harahap,Budi Harahap,DIST-09,Medan Tuntungan,Posyandu Melati 4,42,M,87.6,16.99,-2.28,-0.46,STUNTED,False,Sumur Terlindung
+CHD-2026-00354,1271751210261145,Kevin Pangaribuan,Anisa Pangaribuan,DIST-07,Medan Amplas,Posyandu Melati 3,36,M,89.2,14.79,-0.35,-1.1,NORMAL,False,Sumur Terlindung
+CHD-2026-00355,1271498473625511,Nurul Harahap,Melati Harahap,DIST-01,Medan Belawan,Posyandu Melati 6,33,F,82.9,13.28,-1.75,-1.79,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00356,1271895164442676,Rafi Harahap,Galang Harahap,DIST-07,Medan Amplas,Posyandu Melati 5,6,F,67.3,5.34,-0.62,-2.87,NORMAL,False,Sumur Terlindung
+CHD-2026-00357,1271914409305536,Rizky Sitorus,Kevin Sitorus,DIST-16,Medan Kota,Posyandu Melati 4,22,F,82.3,11.33,0.63,-1.06,NORMAL,True,Sumur Terlindung
+CHD-2026-00358,1271617926166236,Aisyah Simanjuntak,Melati Simanjuntak,DIST-08,Medan Johor,Posyandu Melati 1,49,M,98.2,19.06,-0.38,-0.17,NORMAL,False,Sumur Terlindung
+CHD-2026-00359,1271615071351578,Kevin Pasaribu,Anisa Pasaribu,DIST-10,Medan Selayang,Posyandu Melati 6,43,M,91.9,17.05,-1.06,-0.63,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00360,1271954759119311,Zahra Pangaribuan,Tiara Pangaribuan,DIST-08,Medan Johor,Posyandu Melati 3,25,M,73.8,13.5,-2.9,0.23,STUNTED,False,PDAM
+CHD-2026-00361,1271818999773999,Fajar Hutapea,Kevin Hutapea,DIST-16,Medan Kota,Posyandu Melati 2,49,F,101.6,16.61,0.77,-2.4,NORMAL,False,PDAM
+CHD-2026-00362,1271573732165817,Dewi Sinaga,Bayu Sinaga,DIST-08,Medan Johor,Posyandu Melati 8,35,M,86.5,13.64,-1.0,-1.91,NORMAL,False,PDAM
+CHD-2026-00363,1271195951584187,Aditya Tambunan,Melati Tambunan,DIST-21,Medan Area,Posyandu Melati 7,38,M,88.8,16.4,-0.94,-0.09,NORMAL,False,Sumur Terlindung
+CHD-2026-00364,1271273100266614,Aisyah Sembiring,Fajar Sembiring,DIST-14,Medan Timur,Posyandu Melati 3,32,F,88.7,15.48,0.43,0.44,NORMAL,False,PDAM
+CHD-2026-00365,1271902854136134,Rizky Ginting,Bayu Ginting,DIST-06,Medan Denai,Posyandu Melati 1,46,M,99.0,17.12,0.6,-1.26,NORMAL,False,Sumur Terlindung
+CHD-2026-00366,1271729233532442,Putri Tambunan,Putri Tambunan,DIST-07,Medan Amplas,Posyandu Melati 7,14,F,68.3,9.37,-2.16,-1.03,STUNTED,False,Sumur Terlindung
+CHD-2026-00367,1271783091007112,Rian Pratama,Aisyah Pratama,DIST-16,Medan Kota,Posyandu Melati 4,6,F,69.9,6.43,0.24,-1.88,NORMAL,True,Sumur Terlindung
+CHD-2026-00368,1271492351932682,Nurul Lubis,Lestari Lubis,DIST-21,Medan Area,Posyandu Melati 3,30,F,89.6,14.7,1.2,0.18,NORMAL,False,PDAM
+CHD-2026-00369,1271767253399587,Dewi Harahap,Rafi Harahap,DIST-02,Medan Labuhan,Posyandu Melati 3,27,F,79.7,11.49,-1.41,-2.05,POTENTIAL_RISK,False,PDAM
+CHD-2026-00370,1271319514527609,Lestari Simanjuntak,Dimas Simanjuntak,DIST-16,Medan Kota,Posyandu Melati 4,7,M,66.1,8.25,-1.28,-0.46,POTENTIAL_RISK,True,PDAM
+CHD-2026-00371,1271254843981612,Aditya Tarigan,Putri Tarigan,DIST-01,Medan Belawan,Posyandu Melati 1,30,F,81.4,14.11,-1.54,-0.35,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00372,1271168232552897,Siti Pangaribuan,Budi Pangaribuan,DIST-02,Medan Labuhan,Posyandu Melati 7,32,F,82.7,14.2,-1.57,-0.72,POTENTIAL_RISK,False,PDAM
+CHD-2026-00373,1271368289611152,Tiara Hutapea,Fajar Hutapea,DIST-09,Medan Tuntungan,Posyandu Melati 2,25,F,80.6,12.85,-0.63,-0.36,NORMAL,False,Sumur Terlindung
+CHD-2026-00374,1271639710022718,Melati Tambunan,Fajar Tambunan,DIST-09,Medan Tuntungan,Posyandu Melati 5,38,M,89.0,16.63,-0.87,0.12,NORMAL,False,PDAM
+CHD-2026-00375,1271359157495308,Tiara Lubis,Melati Lubis,DIST-04,Medan Deli,Posyandu Melati 6,59,M,105.6,21.01,-0.24,-0.68,NORMAL,False,Sumur Terlindung
+CHD-2026-00376,1271733177828875,Putri Pratama,Zahra Pratama,DIST-10,Medan Selayang,Posyandu Melati 1,27,M,84.7,12.08,0.26,-1.52,NORMAL,False,PDAM
+CHD-2026-00377,1271956181053443,Siti Sembiring,Aditya Sembiring,DIST-03,Medan Marelan,Posyandu Melati 2,11,M,70.9,10.08,-0.6,0.3,NORMAL,False,Sumur Terlindung
+CHD-2026-00378,1271162046573862,Dewi Harahap,Rafi Harahap,DIST-15,Medan Perjuangan,Posyandu Melati 6,8,F,70.0,6.83,-0.21,-1.98,NORMAL,False,Sumur Terlindung
+CHD-2026-00379,1271119933853267,Siti Sembiring,Aisyah Sembiring,DIST-04,Medan Deli,Posyandu Melati 6,48,M,95.2,18.15,-1.14,-0.77,POTENTIAL_RISK,False,PDAM
+CHD-2026-00380,1271579545516615,Melati Harahap,Rizky Harahap,DIST-15,Medan Perjuangan,Posyandu Melati 7,17,M,71.9,8.68,-1.66,-2.33,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00381,1271637803643732,Rian Hutapea,Tiara Hutapea,DIST-09,Medan Tuntungan,Posyandu Melati 1,13,M,71.2,8.64,-0.97,-1.46,NORMAL,True,PDAM
+CHD-2026-00382,1271965594473969,Tiara Simanjuntak,Aditya Simanjuntak,DIST-19,Medan Baru,Posyandu Melati 6,45,F,95.3,15.89,-0.39,-2.15,NORMAL,False,Sumur Terlindung
+CHD-2026-00383,1271245312628220,Tiara Pasaribu,Tiara Pasaribu,DIST-05,Medan Tembung,Posyandu Melati 5,8,M,70.0,7.19,-0.21,-1.64,NORMAL,False,PDAM
+CHD-2026-00384,1271388023826542,Aditya Hutapea,Aditya Hutapea,DIST-17,Medan Maimun,Posyandu Melati 7,39,M,93.5,15.52,0.41,-1.12,NORMAL,False,Sumur Terlindung
+CHD-2026-00385,1271299797891894,Tiara Sitorus,Rian Sitorus,DIST-08,Medan Johor,Posyandu Melati 8,6,M,67.5,7.66,-0.55,-0.76,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00386,1271523916681824,Tiara Sitorus,Nurul Sitorus,DIST-03,Medan Marelan,Posyandu Melati 7,38,M,86.3,18.3,-1.78,1.63,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00387,1271835698652442,Rizky Ginting,Rafi Ginting,DIST-08,Medan Johor,Posyandu Melati 6,37,F,87.6,16.85,-1.1,0.54,POTENTIAL_RISK,False,PDAM
+CHD-2026-00388,1271621375729996,Budi Siregar,Rian Siregar,DIST-16,Medan Kota,Posyandu Melati 5,6,M,63.9,8.35,-1.77,-0.13,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00389,1271389853318445,Bayu Sitorus,Aisyah Sitorus,DIST-15,Medan Perjuangan,Posyandu Melati 6,27,F,83.2,12.78,-0.22,-0.88,NORMAL,False,Sumur Terlindung
+CHD-2026-00390,1271104579386818,Siti Simanjuntak,Nurul Simanjuntak,DIST-04,Medan Deli,Posyandu Melati 6,59,F,101.1,20.14,-1.75,-1.47,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00391,1271622121575166,Putri Ginting,Fajar Ginting,DIST-02,Medan Labuhan,Posyandu Melati 4,45,M,91.6,19.73,-1.64,1.34,POTENTIAL_RISK,False,PDAM
+CHD-2026-00392,1271532130007790,Dimas Ginting,Dimas Ginting,DIST-13,Medan Barat,Posyandu Melati 8,8,M,68.6,8.87,-0.66,-0.11,NORMAL,False,Sumur Terlindung
+CHD-2026-00393,1271778719761795,Fajar Ginting,Budi Ginting,DIST-17,Medan Maimun,Posyandu Melati 8,41,F,97.7,15.3,1.33,-1.77,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00394,1271235062246273,Aditya Nasution,Fajar Nasution,DIST-06,Medan Denai,Posyandu Melati 7,38,F,88.9,15.06,-0.89,-1.31,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00395,1271475748433185,Kevin Sinaga,Bayu Sinaga,DIST-08,Medan Johor,Posyandu Melati 5,14,F,72.9,9.66,-0.63,-0.77,NORMAL,False,Sumur Terlindung
+CHD-2026-00396,1271898490865760,Dimas Lubis,Dimas Lubis,DIST-18,Medan Polonia,Posyandu Melati 3,49,F,95.5,18.98,-1.27,-0.25,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00397,1271987678146281,Putri Tarigan,Zahra Tarigan,DIST-21,Medan Area,Posyandu Melati 6,51,M,94.8,20.05,-1.97,0.28,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00398,1271968841979747,Aditya Pangaribuan,Anisa Pangaribuan,DIST-19,Medan Baru,Posyandu Melati 1,24,F,82.9,11.96,0.35,-0.95,NORMAL,True,PDAM
+CHD-2026-00399,1271353799473636,Aisyah Pangaribuan,Aisyah Pangaribuan,DIST-05,Medan Tembung,Posyandu Melati 3,24,F,77.6,12.29,-1.39,-0.65,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00400,1271144761058415,Dimas Simanjuntak,Zahra Simanjuntak,DIST-10,Medan Selayang,Posyandu Melati 7,12,M,69.3,11.63,-1.38,1.49,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00401,1271595368016122,Aisyah Pasaribu,Rian Pasaribu,DIST-10,Medan Selayang,Posyandu Melati 1,41,M,93.6,17.18,-0.03,-0.06,NORMAL,False,Sumur Terlindung
+CHD-2026-00402,1271387645757025,Melati Sembiring,Rafi Sembiring,DIST-07,Medan Amplas,Posyandu Melati 4,54,M,102.7,18.81,-0.03,-1.53,NORMAL,False,PDAM
+CHD-2026-00403,1271752251517180,Rizky Nasution,Putri Nasution,DIST-06,Medan Denai,Posyandu Melati 5,8,F,71.6,8.02,0.34,-0.89,NORMAL,False,PDAM
+CHD-2026-00404,1271698441633536,Kevin Pratama,Bayu Pratama,DIST-19,Medan Baru,Posyandu Melati 6,8,M,72.8,8.31,0.73,-0.63,NORMAL,True,Sumur Terlindung
+CHD-2026-00405,1271729282786866,Melati Sembiring,Dewi Sembiring,DIST-21,Medan Area,Posyandu Melati 4,10,F,74.4,9.1,0.8,-0.36,NORMAL,True,Sumur Terlindung
+CHD-2026-00406,1271785230132506,Putri Sinaga,Zahra Sinaga,DIST-17,Medan Maimun,Posyandu Melati 4,28,M,90.0,12.66,1.8,-1.22,NORMAL,False,Sumur Terlindung
+CHD-2026-00407,1271896562688780,Lestari Harahap,Dimas Harahap,DIST-11,Medan Sunggal,Posyandu Melati 2,41,M,92.7,15.33,-0.33,-1.75,NORMAL,False,Sumur Terlindung
+CHD-2026-00408,1271893556711653,Nurul Pasaribu,Melati Pasaribu,DIST-15,Medan Perjuangan,Posyandu Melati 7,49,F,95.1,19.06,-1.4,-0.18,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00409,1271461259059468,Rian Harahap,Zahra Harahap,DIST-04,Medan Deli,Posyandu Melati 8,58,F,106.3,23.76,0.24,2.06,NORMAL,False,Sumur Terlindung
+CHD-2026-00410,1271202006173742,Dimas Sitorus,Galang Sitorus,DIST-10,Medan Selayang,Posyandu Melati 2,55,M,101.8,19.09,-0.56,-1.51,NORMAL,False,PDAM
+CHD-2026-00411,1271233155659810,Dimas Sembiring,Anisa Sembiring,DIST-21,Medan Area,Posyandu Melati 2,59,F,106.7,19.51,0.14,-2.03,NORMAL,False,Sumur Terlindung
+CHD-2026-00412,1271141917722200,Budi Ginting,Bayu Ginting,DIST-05,Medan Tembung,Posyandu Melati 5,9,M,70.7,7.6,-0.21,-1.5,NORMAL,True,Sumur Terlindung
+CHD-2026-00413,1271677608307626,Kevin Sinaga,Rian Sinaga,DIST-08,Medan Johor,Posyandu Melati 1,33,F,87.3,15.93,-0.28,0.62,NORMAL,False,PDAM
+CHD-2026-00414,1271188926821745,Zahra Pratama,Melati Pratama,DIST-04,Medan Deli,Posyandu Melati 6,50,M,96.4,19.32,-1.21,-0.16,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00415,1271871907075612,Dewi Simanjuntak,Dewi Simanjuntak,DIST-04,Medan Deli,Posyandu Melati 7,54,F,102.6,16.97,-0.06,-3.21,NORMAL,False,PDAM
+CHD-2026-00416,1271382430067406,Tiara Nasution,Zahra Nasution,DIST-01,Medan Belawan,Posyandu Melati 3,56,F,97.2,17.6,-2.33,-3.09,STUNTED,False,PDAM
+CHD-2026-00417,1271812482413019,Lestari Pratama,Zahra Pratama,DIST-21,Medan Area,Posyandu Melati 7,8,M,75.4,7.99,1.6,-0.92,NORMAL,True,PDAM
+CHD-2026-00418,1271282687724014,Dimas Sinaga,Galang Sinaga,DIST-12,Medan Helvetia,Posyandu Melati 4,20,F,83.2,9.23,1.4,-2.52,NORMAL,True,PDAM
+CHD-2026-00419,1271697759902198,Aisyah Sembiring,Zahra Sembiring,DIST-19,Medan Baru,Posyandu Melati 5,24,M,78.7,13.51,-1.04,0.46,POTENTIAL_RISK,True,PDAM
+CHD-2026-00420,1271268039044842,Tiara Sitorus,Lestari Sitorus,DIST-19,Medan Baru,Posyandu Melati 2,12,F,72.9,10.19,-0.17,0.17,NORMAL,True,PDAM
+CHD-2026-00421,1271987125463496,Bayu Tambunan,Dewi Tambunan,DIST-15,Medan Perjuangan,Posyandu Melati 6,42,F,87.7,18.22,-2.24,0.65,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00422,1271388467948145,Budi Sitorus,Nurul Sitorus,DIST-06,Medan Denai,Posyandu Melati 3,23,F,81.0,12.12,-0.02,-0.58,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00423,1271726784692783,Rafi Sitorus,Dewi Sitorus,DIST-15,Medan Perjuangan,Posyandu Melati 5,17,M,72.2,10.7,-1.58,-0.5,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00424,1271191195359309,Kevin Hutapea,Rizky Hutapea,DIST-07,Medan Amplas,Posyandu Melati 7,46,M,93.7,15.53,-1.17,-2.7,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00425,1271796658928734,Aisyah Tarigan,Kevin Tarigan,DIST-07,Medan Amplas,Posyandu Melati 6,47,M,95.2,17.57,-0.88,-1.07,NORMAL,False,PDAM
+CHD-2026-00426,1271746352052483,Dewi Nasution,Rafi Nasution,DIST-19,Medan Baru,Posyandu Melati 1,31,F,89.3,11.62,0.86,-2.85,NORMAL,False,Sumur Terlindung
+CHD-2026-00427,1271275678963608,Putri Simanjuntak,Galang Simanjuntak,DIST-20,Medan Petisah,Posyandu Melati 8,17,M,76.4,9.34,-0.16,-1.74,NORMAL,False,PDAM
+CHD-2026-00428,1271573453861701,Nurul Siregar,Kevin Siregar,DIST-16,Medan Kota,Posyandu Melati 6,48,M,98.2,18.86,-0.12,-0.13,NORMAL,False,PDAM
+CHD-2026-00429,1271238379209542,Aisyah Pratama,Bayu Pratama,DIST-15,Medan Perjuangan,Posyandu Melati 5,46,F,94.6,18.53,-0.88,0.03,NORMAL,False,Sumur Terlindung
+CHD-2026-00430,1271567162252275,Putri Sinaga,Rian Sinaga,DIST-19,Medan Baru,Posyandu Melati 7,39,F,86.8,17.63,-1.83,0.8,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00431,1271546105118898,Galang Sinaga,Lestari Sinaga,DIST-08,Medan Johor,Posyandu Melati 3,44,M,91.7,15.5,-1.35,-2.27,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00432,1271372575384062,Rizky Tarigan,Kevin Tarigan,DIST-08,Medan Johor,Posyandu Melati 2,16,F,73.7,7.86,-0.84,-2.86,NORMAL,True,Sumur Terlindung
+CHD-2026-00433,1271713209393641,Siti Ginting,Tiara Ginting,DIST-11,Medan Sunggal,Posyandu Melati 1,47,F,97.1,17.75,-0.27,-0.9,NORMAL,False,PDAM
+CHD-2026-00434,1271277601209399,Aditya Tambunan,Putri Tambunan,DIST-05,Medan Tembung,Posyandu Melati 1,8,M,72.3,8.73,0.57,-0.24,NORMAL,True,PDAM
+CHD-2026-00435,1271827685951305,Galang Sinaga,Melati Sinaga,DIST-06,Medan Denai,Posyandu Melati 2,52,F,93.7,17.88,-2.55,-1.93,STUNTED,False,PDAM
+CHD-2026-00436,1271313300197730,Tiara Sembiring,Tiara Sembiring,DIST-20,Medan Petisah,Posyandu Melati 3,44,M,96.3,18.49,0.17,0.45,NORMAL,False,Sumur Terlindung
+CHD-2026-00437,1271687255102127,Kevin Nasution,Bayu Nasution,DIST-17,Medan Maimun,Posyandu Melati 7,20,F,81.0,12.56,0.68,0.51,NORMAL,True,PDAM
+CHD-2026-00438,1271975401863450,Galang Sembiring,Galang Sembiring,DIST-07,Medan Amplas,Posyandu Melati 3,44,M,93.0,17.45,-0.93,-0.5,NORMAL,False,Sumur Terlindung
+CHD-2026-00439,1271748889302925,Melati Pratama,Zahra Pratama,DIST-20,Medan Petisah,Posyandu Melati 3,11,F,75.9,8.86,1.08,-0.81,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00440,1271571455489680,Anisa Tarigan,Anisa Tarigan,DIST-21,Medan Area,Posyandu Melati 8,33,M,87.2,13.98,-0.29,-1.16,NORMAL,False,Sumur Terlindung
+CHD-2026-00441,1271225461573193,Lestari Tambunan,Aditya Tambunan,DIST-13,Medan Barat,Posyandu Melati 4,22,F,76.6,11.8,-1.27,-0.63,POTENTIAL_RISK,True,PDAM
+CHD-2026-00442,1271108435961116,Anisa Harahap,Dimas Harahap,DIST-18,Medan Polonia,Posyandu Melati 1,42,M,90.7,16.84,-1.22,-0.6,POTENTIAL_RISK,False,PDAM
+CHD-2026-00443,1271232622977980,Bayu Sinaga,Lestari Sinaga,DIST-07,Medan Amplas,Posyandu Melati 5,47,F,91.8,17.53,-2.03,-1.11,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00444,1271458136667511,Aditya Sitorus,Melati Sitorus,DIST-14,Medan Timur,Posyandu Melati 7,54,M,102.2,18.93,-0.2,-1.43,NORMAL,False,Sumur Terlindung
+CHD-2026-00445,1271816818668925,Tiara Nasution,Lestari Nasution,DIST-18,Medan Polonia,Posyandu Melati 6,22,F,79.2,12.16,-0.41,-0.31,NORMAL,False,Sumur Terlindung
+CHD-2026-00446,1271223248759328,Nurul Ginting,Putri Ginting,DIST-04,Medan Deli,Posyandu Melati 1,31,F,85.0,13.29,-0.55,-1.32,NORMAL,False,PDAM
+CHD-2026-00447,1271285945808133,Budi Simanjuntak,Rizky Simanjuntak,DIST-21,Medan Area,Posyandu Melati 5,11,M,74.3,6.35,0.53,-3.09,NORMAL,True,PDAM
+CHD-2026-00448,1271617437899536,Aisyah Hutapea,Rian Hutapea,DIST-20,Medan Petisah,Posyandu Melati 3,24,M,90.8,11.43,2.99,-1.42,NORMAL,False,Sumur Terlindung
+CHD-2026-00449,1271149220419364,Galang Harahap,Dimas Harahap,DIST-07,Medan Amplas,Posyandu Melati 3,39,M,91.2,14.63,-0.35,-1.92,NORMAL,False,Sumur Terlindung
+CHD-2026-00450,1271301910615520,Nurul Pangaribuan,Budi Pangaribuan,DIST-12,Medan Helvetia,Posyandu Melati 6,55,F,103.7,20.27,0.08,-0.43,NORMAL,False,Sumur Terlindung
+CHD-2026-00451,1271118727222124,Aditya Lubis,Galang Lubis,DIST-13,Medan Barat,Posyandu Melati 6,11,F,68.5,10.28,-1.39,0.48,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00452,1271685235791076,Nurul Tambunan,Dimas Tambunan,DIST-09,Medan Tuntungan,Posyandu Melati 7,22,M,78.0,12.44,-0.79,-0.06,NORMAL,True,Sumur Terlindung
+CHD-2026-00453,1271753702119813,Dewi Sitorus,Siti Sitorus,DIST-17,Medan Maimun,Posyandu Melati 8,58,F,100.1,20.56,-1.82,-0.85,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00454,1271539132748517,Tiara Simanjuntak,Nurul Simanjuntak,DIST-19,Medan Baru,Posyandu Melati 1,49,F,105.2,19.96,1.96,0.64,NORMAL,False,Sumur Terlindung
+CHD-2026-00455,1271968352364767,Rizky Sinaga,Nurul Sinaga,DIST-09,Medan Tuntungan,Posyandu Melati 7,57,F,104.2,19.99,-0.24,-1.14,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00456,1271414012442523,Zahra Pratama,Kevin Pratama,DIST-17,Medan Maimun,Posyandu Melati 2,31,F,84.7,14.09,-0.67,-0.6,NORMAL,False,Sumur Terlindung
+CHD-2026-00457,1271377015815408,Tiara Sitorus,Lestari Sitorus,DIST-06,Medan Denai,Posyandu Melati 8,17,M,75.7,8.84,-0.41,-2.19,NORMAL,True,PDAM
+CHD-2026-00458,1271359754985091,Kevin Lubis,Nurul Lubis,DIST-08,Medan Johor,Posyandu Melati 3,59,F,107.1,19.81,0.25,-1.76,NORMAL,False,Sumur Terlindung
+CHD-2026-00459,1271881069459871,Rizky Pangaribuan,Tiara Pangaribuan,DIST-04,Medan Deli,Posyandu Melati 6,8,F,73.1,6.78,0.82,-2.02,NORMAL,False,Sumur Terlindung
+CHD-2026-00460,1271753938807518,Kevin Ginting,Putri Ginting,DIST-19,Medan Baru,Posyandu Melati 1,20,M,78.9,12.76,-0.03,0.69,NORMAL,False,Sumur Terlindung
+CHD-2026-00461,1271608196783863,Aisyah Tarigan,Lestari Tarigan,DIST-18,Medan Polonia,Posyandu Melati 8,35,M,87.4,15.65,-0.71,-0.09,NORMAL,False,PDAM
+CHD-2026-00462,1271587092312650,Budi Pangaribuan,Dimas Pangaribuan,DIST-01,Medan Belawan,Posyandu Melati 5,26,F,84.4,12.65,0.4,-0.78,NORMAL,False,PDAM
+CHD-2026-00463,1271884597626995,Nurul Harahap,Tiara Harahap,DIST-09,Medan Tuntungan,Posyandu Melati 7,17,F,76.3,8.51,-0.19,-2.49,NORMAL,True,Sumur Terlindung
+CHD-2026-00464,1271455726233947,Lestari Sembiring,Rian Sembiring,DIST-12,Medan Helvetia,Posyandu Melati 4,42,M,89.1,17.95,-1.76,0.41,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00465,1271583055873389,Nurul Tarigan,Anisa Tarigan,DIST-09,Medan Tuntungan,Posyandu Melati 8,57,M,105.1,21.4,0.06,0.13,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00466,1271906421219748,Anisa Ginting,Fajar Ginting,DIST-06,Medan Denai,Posyandu Melati 8,52,F,100.8,20.43,-0.19,0.39,NORMAL,False,PDAM
+CHD-2026-00467,1271228240873676,Aditya Pratama,Rian Pratama,DIST-18,Medan Polonia,Posyandu Melati 5,9,M,69.1,8.89,-0.72,-0.33,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00468,1271434784966903,Rafi Hutapea,Bayu Hutapea,DIST-04,Medan Deli,Posyandu Melati 6,41,F,86.9,14.42,-2.28,-2.57,STUNTED,False,PDAM
+CHD-2026-00469,1271357048759821,Lestari Sembiring,Melati Sembiring,DIST-04,Medan Deli,Posyandu Melati 6,17,F,67.9,8.89,-3.0,-2.14,STUNTED,False,Sumur Terlindung
+CHD-2026-00470,1271587434735694,Rafi Pasaribu,Rizky Pasaribu,DIST-16,Medan Kota,Posyandu Melati 3,35,M,93.4,13.29,1.32,-2.23,NORMAL,False,Sumur Terlindung
+CHD-2026-00471,1271835244342168,Anisa Pangaribuan,Melati Pangaribuan,DIST-11,Medan Sunggal,Posyandu Melati 6,11,M,69.9,7.51,-0.92,-2.03,NORMAL,True,PDAM
+CHD-2026-00472,1271877759587479,Dewi Hutapea,Kevin Hutapea,DIST-21,Medan Area,Posyandu Melati 6,23,F,76.8,12.07,-1.44,-0.62,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00473,1271943638712311,Budi Nasution,Nurul Nasution,DIST-06,Medan Denai,Posyandu Melati 7,19,M,73.1,11.94,-1.75,0.17,POTENTIAL_RISK,True,PDAM
+CHD-2026-00474,1271606494352363,Zahra Pratama,Budi Pratama,DIST-16,Medan Kota,Posyandu Melati 3,12,F,77.3,6.71,1.29,-2.99,NORMAL,True,Sumur Terlindung
+CHD-2026-00475,1271465646873071,Dewi Lubis,Nurul Lubis,DIST-13,Medan Barat,Posyandu Melati 1,14,M,70.5,9.81,-1.43,-0.62,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00476,1271446751918288,Tiara Ginting,Zahra Ginting,DIST-11,Medan Sunggal,Posyandu Melati 8,14,M,77.0,9.27,0.74,-1.12,NORMAL,False,Sumur Terlindung
+CHD-2026-00477,1271716658834721,Zahra Harahap,Lestari Harahap,DIST-21,Medan Area,Posyandu Melati 8,57,M,102.6,18.98,-0.76,-2.06,NORMAL,False,PDAM
+CHD-2026-00478,1271111000969574,Kevin Nasution,Dewi Nasution,DIST-14,Medan Timur,Posyandu Melati 6,58,M,98.1,22.37,-2.51,0.79,STUNTED,False,PDAM
+CHD-2026-00479,1271714141641149,Budi Hutapea,Tiara Hutapea,DIST-18,Medan Polonia,Posyandu Melati 5,55,F,95.9,23.04,-2.55,2.08,STUNTED,False,Sumur Terlindung
+CHD-2026-00480,1271626877838161,Zahra Sitorus,Dimas Sitorus,DIST-01,Medan Belawan,Posyandu Melati 3,31,M,85.4,14.04,-0.43,-0.65,NORMAL,False,Sumur Terlindung
+CHD-2026-00481,1271383757542297,Rian Sembiring,Rian Sembiring,DIST-21,Medan Area,Posyandu Melati 5,33,M,87.9,14.06,-0.06,-1.08,NORMAL,False,PDAM
+CHD-2026-00482,1271182912673238,Kevin Sinaga,Dimas Sinaga,DIST-18,Medan Polonia,Posyandu Melati 8,24,M,81.9,12.27,0.04,-0.66,NORMAL,False,PDAM
+CHD-2026-00483,1271122595401813,Tiara Lubis,Bayu Lubis,DIST-20,Medan Petisah,Posyandu Melati 3,40,M,93.6,16.44,0.21,-0.51,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00484,1271113441192477,Kevin Nasution,Rafi Nasution,DIST-10,Medan Selayang,Posyandu Melati 8,15,M,70.8,9.17,-1.56,-1.44,POTENTIAL_RISK,True,PDAM
+CHD-2026-00485,1271999298681519,Tiara Sitorus,Rafi Sitorus,DIST-10,Medan Selayang,Posyandu Melati 3,27,M,79.1,14.38,-1.6,0.57,POTENTIAL_RISK,False,PDAM
+CHD-2026-00486,1271333015285097,Rizky Tarigan,Tiara Tarigan,DIST-13,Medan Barat,Posyandu Melati 1,58,F,101.5,18.45,-1.35,-2.77,POTENTIAL_RISK,False,PDAM
+CHD-2026-00487,1271418734491549,Rian Simanjuntak,Rafi Simanjuntak,DIST-08,Medan Johor,Posyandu Melati 2,18,F,77.4,12.69,-0.06,1.08,NORMAL,True,Sumur Terlindung
+CHD-2026-00488,1271806462303001,Bayu Nasution,Aisyah Nasution,DIST-10,Medan Selayang,Posyandu Melati 5,22,F,81.8,11.24,0.45,-1.15,NORMAL,True,PDAM
+CHD-2026-00489,1271915552516316,Dimas Siregar,Nurul Siregar,DIST-02,Medan Labuhan,Posyandu Melati 5,6,M,60.1,6.93,-3.02,-1.42,SEVERELY_STUNTED,True,PDAM
+CHD-2026-00490,1271985983573539,Budi Pratama,Aditya Pratama,DIST-08,Medan Johor,Posyandu Melati 4,29,M,83.2,12.46,-0.71,-1.63,NORMAL,False,PDAM
+CHD-2026-00491,1271174727873521,Melati Sitorus,Aisyah Sitorus,DIST-03,Medan Marelan,Posyandu Melati 3,50,M,99.0,20.55,-0.33,0.95,NORMAL,False,Sumur Terlindung
+CHD-2026-00492,1271668688044161,Zahra Simanjuntak,Lestari Simanjuntak,DIST-11,Medan Sunggal,Posyandu Melati 6,7,F,69.0,8.26,-0.31,-0.45,NORMAL,True,PDAM
+CHD-2026-00493,1271814090309892,Tiara Hutapea,Rafi Hutapea,DIST-02,Medan Labuhan,Posyandu Melati 4,50,F,93.2,19.77,-2.26,0.25,STUNTED,False,Sumur Terlindung
+CHD-2026-00494,1271459717333627,Lestari Sitorus,Rafi Sitorus,DIST-18,Medan Polonia,Posyandu Melati 8,10,M,70.5,8.3,-0.51,-1.09,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00495,1271916305357210,Lestari Ginting,Budi Ginting,DIST-18,Medan Polonia,Posyandu Melati 1,52,M,100.4,20.06,-0.35,0.06,NORMAL,False,Sumur Terlindung
+CHD-2026-00496,1271187902669830,Melati Lubis,Bayu Lubis,DIST-12,Medan Helvetia,Posyandu Melati 4,58,F,104.1,22.14,-0.51,0.58,NORMAL,False,Sumur Terlindung
+CHD-2026-00497,1271464382707714,Zahra Nasution,Melati Nasution,DIST-16,Medan Kota,Posyandu Melati 2,47,F,97.8,17.82,-0.05,-0.85,NORMAL,False,PDAM
+CHD-2026-00498,1271321327924310,Aisyah Sembiring,Fajar Sembiring,DIST-03,Medan Marelan,Posyandu Melati 4,12,F,71.9,9.43,-0.51,-0.52,NORMAL,True,PDAM
+CHD-2026-00499,1271777542805193,Rian Pangaribuan,Tiara Pangaribuan,DIST-21,Medan Area,Posyandu Melati 4,9,F,64.6,9.75,-2.25,0.45,STUNTED,True,PDAM
+CHD-2026-00500,1271699399301994,Tiara Pasaribu,Rizky Pasaribu,DIST-07,Medan Amplas,Posyandu Melati 6,29,F,81.8,12.93,-1.18,-1.2,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00501,1271158699692153,Melati Harahap,Galang Harahap,DIST-02,Medan Labuhan,Posyandu Melati 2,59,F,105.4,21.24,-0.29,-0.46,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00502,1271785040484104,Siti Siregar,Nurul Siregar,DIST-17,Medan Maimun,Posyandu Melati 3,18,M,72.9,11.56,-1.57,0.06,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00503,1271997975577997,Aditya Sitorus,Rafi Sitorus,DIST-21,Medan Area,Posyandu Melati 3,12,M,69.2,11.3,-1.39,1.18,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00504,1271554304636319,Zahra Tambunan,Rafi Tambunan,DIST-06,Medan Denai,Posyandu Melati 7,29,F,79.6,13.42,-1.9,-0.75,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00505,1271793243197145,Melati Lubis,Aditya Lubis,DIST-11,Medan Sunggal,Posyandu Melati 6,55,F,99.1,22.73,-1.48,1.8,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00506,1271467247021267,Rian Pratama,Aisyah Pratama,DIST-15,Medan Perjuangan,Posyandu Melati 5,39,M,85.6,16.44,-2.22,-0.28,STUNTED,False,PDAM
+CHD-2026-00507,1271129090005521,Dimas Sembiring,Bayu Sembiring,DIST-08,Medan Johor,Posyandu Melati 2,41,M,89.6,16.2,-1.38,-0.96,POTENTIAL_RISK,False,PDAM
+CHD-2026-00508,1271567104345093,Fajar Nasution,Kevin Nasution,DIST-12,Medan Helvetia,Posyandu Melati 5,20,F,78.6,12.66,-0.15,0.6,NORMAL,True,Sumur Terlindung
+CHD-2026-00509,1271519314208905,Dimas Hutapea,Rizky Hutapea,DIST-19,Medan Baru,Posyandu Melati 2,17,F,81.5,8.96,1.52,-2.09,NORMAL,False,PDAM
+CHD-2026-00510,1271524648318115,Rian Siregar,Aisyah Siregar,DIST-19,Medan Baru,Posyandu Melati 4,32,M,87.2,16.3,-0.06,1.18,NORMAL,False,Sumur Terlindung
+CHD-2026-00511,1271164195889591,Budi Pangaribuan,Rian Pangaribuan,DIST-20,Medan Petisah,Posyandu Melati 3,8,F,63.4,8.86,-2.4,-0.13,STUNTED,False,Sumur Terlindung
+CHD-2026-00512,1271678894109269,Fajar Pratama,Rian Pratama,DIST-08,Medan Johor,Posyandu Melati 7,11,M,71.1,9.62,-0.53,-0.12,NORMAL,False,Sumur Terlindung
+CHD-2026-00513,1271706991981807,Fajar Sitorus,Rizky Sitorus,DIST-05,Medan Tembung,Posyandu Melati 5,41,F,88.4,14.48,-1.77,-2.52,POTENTIAL_RISK,False,PDAM
+CHD-2026-00514,1271276042834245,Anisa Simanjuntak,Fajar Simanjuntak,DIST-17,Medan Maimun,Posyandu Melati 4,37,F,82.0,16.52,-2.98,0.25,STUNTED,False,Sumur Terlindung
+CHD-2026-00515,1271449145048046,Nurul Lubis,Rizky Lubis,DIST-17,Medan Maimun,Posyandu Melati 2,26,M,84.8,12.96,0.54,-0.49,NORMAL,False,Sumur Terlindung
+CHD-2026-00516,1271514612601396,Lestari Sitorus,Dimas Sitorus,DIST-14,Medan Timur,Posyandu Melati 3,55,F,99.5,17.94,-1.34,-2.56,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00517,1271661470574825,Rafi Tambunan,Fajar Tambunan,DIST-20,Medan Petisah,Posyandu Melati 3,18,F,78.3,9.66,0.22,-1.68,NORMAL,True,PDAM
+CHD-2026-00518,1271461144006624,Nurul Tambunan,Fajar Tambunan,DIST-02,Medan Labuhan,Posyandu Melati 5,50,M,94.0,17.39,-2.0,-1.92,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00519,1271373137019952,Bayu Lubis,Zahra Lubis,DIST-01,Medan Belawan,Posyandu Melati 8,39,F,87.8,14.31,-1.51,-2.22,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00520,1271946523881712,Budi Sinaga,Aditya Sinaga,DIST-05,Medan Tembung,Posyandu Melati 1,22,M,77.9,10.71,-0.83,-1.63,NORMAL,False,PDAM
+CHD-2026-00521,1271931087392091,Kevin Pratama,Rafi Pratama,DIST-20,Medan Petisah,Posyandu Melati 6,30,F,87.1,15.22,0.38,0.65,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00522,1271394991949331,Dewi Sembiring,Rian Sembiring,DIST-01,Medan Belawan,Posyandu Melati 6,51,M,97.3,18.78,-1.15,-0.89,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00523,1271356249708503,Zahra Siregar,Putri Siregar,DIST-20,Medan Petisah,Posyandu Melati 1,41,M,99.8,15.32,2.04,-1.75,NORMAL,False,PDAM
+CHD-2026-00524,1271608805503572,Dewi Sitorus,Tiara Sitorus,DIST-17,Medan Maimun,Posyandu Melati 6,7,F,63.3,8.68,-2.19,-0.06,STUNTED,False,Sumur Terlindung
+CHD-2026-00525,1271903701967343,Galang Harahap,Aisyah Harahap,DIST-08,Medan Johor,Posyandu Melati 5,58,M,110.8,20.56,1.75,-0.86,NORMAL,False,PDAM
+CHD-2026-00526,1271218653447262,Rian Pangaribuan,Fajar Pangaribuan,DIST-11,Medan Sunggal,Posyandu Melati 7,39,M,96.6,16.18,1.44,-0.52,NORMAL,False,PDAM
+CHD-2026-00527,1271525709889883,Anisa Harahap,Melati Harahap,DIST-05,Medan Tembung,Posyandu Melati 3,14,M,69.8,8.27,-1.66,-2.03,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00528,1271659074553378,Galang Pasaribu,Fajar Pasaribu,DIST-10,Medan Selayang,Posyandu Melati 6,47,M,98.8,17.11,0.28,-1.49,NORMAL,False,PDAM
+CHD-2026-00529,1271288623981483,Siti Nasution,Bayu Nasution,DIST-18,Medan Polonia,Posyandu Melati 7,54,F,101.8,21.9,-0.33,1.27,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00530,1271299169534079,Rafi Hutapea,Kevin Hutapea,DIST-10,Medan Selayang,Posyandu Melati 3,12,M,71.0,11.04,-0.81,0.94,NORMAL,True,Sumur Terlindung
+CHD-2026-00531,1271827421084783,Melati Harahap,Melati Harahap,DIST-20,Medan Petisah,Posyandu Melati 4,44,M,90.2,16.84,-1.85,-1.06,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00532,1271276267258680,Rizky Hutapea,Tiara Hutapea,DIST-12,Medan Helvetia,Posyandu Melati 3,51,F,93.7,19.03,-2.32,-0.66,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00533,1271343372641528,Tiara Nasution,Putri Nasution,DIST-16,Medan Kota,Posyandu Melati 5,32,M,88.6,14.5,0.42,-0.46,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00534,1271182856798197,Dimas Simanjuntak,Dimas Simanjuntak,DIST-08,Medan Johor,Posyandu Melati 6,45,F,99.2,16.72,0.91,-1.39,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00535,1271878710517232,Anisa Sinaga,Aisyah Sinaga,DIST-08,Medan Johor,Posyandu Melati 7,52,F,100.6,18.74,-0.26,-1.15,NORMAL,False,Sumur Terlindung
+CHD-2026-00536,1271928383151630,Melati Tarigan,Galang Tarigan,DIST-19,Medan Baru,Posyandu Melati 8,39,M,92.4,16.9,0.05,0.14,NORMAL,False,Sumur Terlindung
+CHD-2026-00537,1271608708811643,Nurul Tarigan,Zahra Tarigan,DIST-02,Medan Labuhan,Posyandu Melati 1,41,F,92.2,14.56,-0.49,-2.44,NORMAL,False,PDAM
+CHD-2026-00538,1271465837573727,Rian Pasaribu,Dewi Pasaribu,DIST-15,Medan Perjuangan,Posyandu Melati 1,33,F,82.6,13.47,-1.82,-1.62,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00539,1271218577509202,Rafi Sembiring,Rafi Sembiring,DIST-05,Medan Tembung,Posyandu Melati 3,13,M,70.7,9.31,-1.15,-0.85,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00540,1271858472514308,Budi Nasution,Rafi Nasution,DIST-15,Medan Perjuangan,Posyandu Melati 5,35,M,89.6,13.8,0.05,-1.78,NORMAL,False,PDAM
+CHD-2026-00541,1271212197108362,Putri Hutapea,Siti Hutapea,DIST-21,Medan Area,Posyandu Melati 2,46,F,89.4,20.2,-2.6,1.55,STUNTED,False,Sumur Terlindung
+CHD-2026-00542,1271586770797235,Galang Tambunan,Putri Tambunan,DIST-13,Medan Barat,Posyandu Melati 6,8,M,64.7,9.25,-1.95,0.23,POTENTIAL_RISK,True,PDAM
+CHD-2026-00543,1271634230266071,Putri Simanjuntak,Aisyah Simanjuntak,DIST-05,Medan Tembung,Posyandu Melati 5,52,F,98.9,19.26,-0.83,-0.67,NORMAL,False,Sumur Terlindung
+CHD-2026-00544,1271899025755146,Fajar Lubis,Budi Lubis,DIST-04,Medan Deli,Posyandu Melati 8,6,F,66.0,6.74,-1.08,-1.6,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00545,1271403274088794,Melati Pasaribu,Tiara Pasaribu,DIST-01,Medan Belawan,Posyandu Melati 8,35,F,87.3,13.69,-0.73,-1.87,NORMAL,False,PDAM
+CHD-2026-00546,1271457498714401,Budi Lubis,Zahra Lubis,DIST-20,Medan Petisah,Posyandu Melati 3,9,M,74.1,9.41,0.93,0.15,NORMAL,True,Sumur Terlindung
+CHD-2026-00547,1271957061745889,Fajar Sembiring,Aisyah Sembiring,DIST-02,Medan Labuhan,Posyandu Melati 1,27,M,82.5,11.74,-0.47,-1.83,NORMAL,False,PDAM
+CHD-2026-00548,1271887930293906,Putri Pangaribuan,Dewi Pangaribuan,DIST-06,Medan Denai,Posyandu Melati 1,35,F,85.9,13.21,-1.21,-2.31,POTENTIAL_RISK,False,PDAM
+CHD-2026-00549,1271188952848001,Bayu Sitorus,Rian Sitorus,DIST-10,Medan Selayang,Posyandu Melati 5,59,M,103.7,19.97,-0.86,-1.62,NORMAL,False,Sumur Terlindung
+CHD-2026-00550,1271626501314438,Kevin Sitorus,Galang Sitorus,DIST-04,Medan Deli,Posyandu Melati 1,50,M,101.4,18.26,0.45,-1.12,NORMAL,False,PDAM
+CHD-2026-00551,1271987341555705,Galang Siregar,Tiara Siregar,DIST-21,Medan Area,Posyandu Melati 5,33,F,86.5,14.1,-0.54,-1.05,NORMAL,False,Sumur Terlindung
+CHD-2026-00552,1271886899649132,Lestari Pasaribu,Fajar Pasaribu,DIST-20,Medan Petisah,Posyandu Melati 8,39,F,91.7,19.19,-0.2,2.21,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00553,1271341016572936,Nurul Hutapea,Dewi Hutapea,DIST-20,Medan Petisah,Posyandu Melati 2,7,F,67.5,7.45,-0.79,-1.18,NORMAL,True,Sumur Terlindung
+CHD-2026-00554,1271546876384478,Anisa Pratama,Bayu Pratama,DIST-14,Medan Timur,Posyandu Melati 5,6,M,68.9,4.61,-0.1,-3.54,NORMAL,False,Sumur Terlindung
+CHD-2026-00555,1271519042911100,Dewi Tarigan,Zahra Tarigan,DIST-10,Medan Selayang,Posyandu Melati 6,13,F,73.0,9.26,-0.38,-0.9,NORMAL,False,Sumur Terlindung
+CHD-2026-00556,1271344465696536,Budi Sembiring,Putri Sembiring,DIST-20,Medan Petisah,Posyandu Melati 8,49,F,94.5,19.34,-1.59,0.08,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00557,1271905829929797,Fajar Ginting,Fajar Ginting,DIST-21,Medan Area,Posyandu Melati 7,27,F,81.9,10.71,-0.67,-2.77,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00558,1271964308289779,Galang Harahap,Aditya Harahap,DIST-02,Medan Labuhan,Posyandu Melati 6,7,M,64.1,4.5,-1.92,-3.86,POTENTIAL_RISK,False,PDAM
+CHD-2026-00559,1271534934689753,Kevin Sembiring,Budi Sembiring,DIST-05,Medan Tembung,Posyandu Melati 7,59,M,104.7,21.05,-0.53,-0.64,NORMAL,False,PDAM
+CHD-2026-00560,1271143846857780,Dewi Hutapea,Bayu Hutapea,DIST-04,Medan Deli,Posyandu Melati 4,11,F,66.7,9.1,-2.01,-0.59,STUNTED,False,Sumur Terlindung
+CHD-2026-00561,1271322176837131,Dimas Tarigan,Dewi Tarigan,DIST-10,Medan Selayang,Posyandu Melati 4,56,M,98.4,19.3,-1.95,-1.55,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00562,1271742615624116,Galang Pratama,Tiara Pratama,DIST-15,Medan Perjuangan,Posyandu Melati 5,27,F,83.0,11.99,-0.29,-1.6,NORMAL,False,Sumur Terlindung
+CHD-2026-00563,1271962391644361,Siti Sembiring,Galang Sembiring,DIST-05,Medan Tembung,Posyandu Melati 8,52,M,98.6,18.28,-0.94,-1.56,NORMAL,False,PDAM
+CHD-2026-00564,1271158204262426,Siti Pratama,Dewi Pratama,DIST-17,Medan Maimun,Posyandu Melati 1,27,F,80.2,12.41,-1.23,-1.22,POTENTIAL_RISK,False,PDAM
+CHD-2026-00565,1271913200396257,Budi Tambunan,Dewi Tambunan,DIST-10,Medan Selayang,Posyandu Melati 5,18,M,73.8,11.32,-1.27,-0.16,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00566,1271303869292875,Siti Harahap,Fajar Harahap,DIST-15,Medan Perjuangan,Posyandu Melati 4,6,M,64.7,7.58,-1.51,-0.83,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00567,1271833567173806,Fajar Hutapea,Dewi Hutapea,DIST-09,Medan Tuntungan,Posyandu Melati 6,10,F,67.6,6.94,-1.45,-2.33,POTENTIAL_RISK,False,PDAM
+CHD-2026-00568,1271235022331881,Tiara Pasaribu,Aisyah Pasaribu,DIST-01,Medan Belawan,Posyandu Melati 7,11,F,72.1,8.82,-0.21,-0.85,NORMAL,True,Sumur Terlindung
+CHD-2026-00569,1271494484754246,Rafi Tambunan,Lestari Tambunan,DIST-19,Medan Baru,Posyandu Melati 8,51,M,107.6,18.05,2.3,-1.55,NORMAL,False,Sumur Terlindung
+CHD-2026-00570,1271498177278625,Rafi Siregar,Rafi Siregar,DIST-03,Medan Marelan,Posyandu Melati 4,36,M,86.5,14.68,-1.22,-1.2,POTENTIAL_RISK,False,PDAM
+CHD-2026-00571,1271602922596412,Kevin Pasaribu,Lestari Pasaribu,DIST-20,Medan Petisah,Posyandu Melati 8,56,F,106.4,19.87,0.72,-1.03,NORMAL,False,Sumur Terlindung
+CHD-2026-00572,1271715836463798,Tiara Siregar,Lestari Siregar,DIST-03,Medan Marelan,Posyandu Melati 3,24,F,74.8,13.28,-2.34,0.25,STUNTED,True,Sumur Terlindung
+CHD-2026-00573,1271486586248552,Bayu Tarigan,Rizky Tarigan,DIST-04,Medan Deli,Posyandu Melati 4,31,F,82.4,14.51,-1.45,-0.22,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00574,1271184572644411,Putri Ginting,Rian Ginting,DIST-18,Medan Polonia,Posyandu Melati 7,58,F,107.0,20.96,0.47,-0.49,NORMAL,False,Sumur Terlindung
+CHD-2026-00575,1271327947992276,Zahra Hutapea,Nurul Hutapea,DIST-11,Medan Sunggal,Posyandu Melati 2,53,F,99.8,19.1,-0.77,-1.05,NORMAL,False,Sumur Terlindung
+CHD-2026-00576,1271662847316046,Bayu Tarigan,Siti Tarigan,DIST-15,Medan Perjuangan,Posyandu Melati 2,31,M,84.3,14.85,-0.8,0.09,NORMAL,False,Sumur Terlindung
+CHD-2026-00577,1271927922322007,Rian Sitorus,Tiara Sitorus,DIST-20,Medan Petisah,Posyandu Melati 3,11,M,68.6,9.36,-1.36,-0.36,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00578,1271597454748326,Rafi Tarigan,Dewi Tarigan,DIST-05,Medan Tembung,Posyandu Melati 6,18,M,71.1,9.26,-2.18,-2.03,STUNTED,False,Sumur Terlindung
+CHD-2026-00579,1271217110331133,Anisa Hutapea,Lestari Hutapea,DIST-10,Medan Selayang,Posyandu Melati 3,45,F,95.0,15.36,-0.49,-2.63,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00580,1271161008846885,Lestari Pasaribu,Zahra Pasaribu,DIST-02,Medan Labuhan,Posyandu Melati 1,13,F,77.8,7.41,1.23,-2.58,NORMAL,True,Sumur Terlindung
+CHD-2026-00581,1271585257567251,Rian Pangaribuan,Bayu Pangaribuan,DIST-19,Medan Baru,Posyandu Melati 3,33,M,86.8,16.2,-0.42,0.87,NORMAL,False,Sumur Terlindung
+CHD-2026-00582,1271632617605726,Zahra Sinaga,Lestari Sinaga,DIST-07,Medan Amplas,Posyandu Melati 3,48,M,93.1,15.25,-1.83,-3.41,POTENTIAL_RISK,False,PDAM
+CHD-2026-00583,1271945579493224,Budi Nasution,Tiara Nasution,DIST-21,Medan Area,Posyandu Melati 7,11,M,68.9,7.82,-1.25,-1.76,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00584,1271686341607948,Anisa Tambunan,Putri Tambunan,DIST-20,Medan Petisah,Posyandu Melati 7,41,F,84.4,17.07,-3.09,-0.16,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00585,1271836223554878,Anisa Tambunan,Budi Tambunan,DIST-06,Medan Denai,Posyandu Melati 7,51,F,98.6,20.0,-0.69,0.23,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00586,1271826067437038,Lestari Pratama,Aisyah Pratama,DIST-19,Medan Baru,Posyandu Melati 2,13,F,69.1,7.88,-1.68,-2.15,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00587,1271206487792449,Kevin Ginting,Galang Ginting,DIST-17,Medan Maimun,Posyandu Melati 2,21,F,76.0,11.24,-1.22,-0.91,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00588,1271705760899399,Zahra Simanjuntak,Budi Simanjuntak,DIST-11,Medan Sunggal,Posyandu Melati 7,36,F,91.7,17.01,0.5,0.92,NORMAL,False,PDAM
+CHD-2026-00589,1271987266675981,Dewi Nasution,Aisyah Nasution,DIST-10,Medan Selayang,Posyandu Melati 1,52,F,104.3,19.79,0.97,-0.19,NORMAL,False,Sumur Terlindung
+CHD-2026-00590,1271944059251447,Putri Tambunan,Aisyah Tambunan,DIST-19,Medan Baru,Posyandu Melati 2,24,F,83.5,11.78,0.56,-1.11,NORMAL,True,Sumur Terlindung
+CHD-2026-00591,1271453885865209,Kevin Nasution,Melati Nasution,DIST-09,Medan Tuntungan,Posyandu Melati 3,6,M,68.0,6.35,-0.4,-1.95,NORMAL,True,Sumur Terlindung
+CHD-2026-00592,1271722895929640,Putri Harahap,Nurul Harahap,DIST-12,Medan Helvetia,Posyandu Melati 2,8,F,68.8,8.3,-0.6,-0.64,NORMAL,True,Sumur Terlindung
+CHD-2026-00593,1271593495058211,Tiara Simanjuntak,Anisa Simanjuntak,DIST-05,Medan Tembung,Posyandu Melati 4,52,M,104.8,18.68,1.14,-1.2,NORMAL,False,Sumur Terlindung
+CHD-2026-00594,1271241550743745,Aisyah Pangaribuan,Kevin Pangaribuan,DIST-12,Medan Helvetia,Posyandu Melati 8,35,F,87.8,15.22,-0.57,-0.48,NORMAL,False,PDAM
+CHD-2026-00595,1271703753823378,Nurul Sinaga,Rian Sinaga,DIST-18,Medan Polonia,Posyandu Melati 1,39,F,89.4,15.28,-0.95,-1.33,NORMAL,False,PDAM
+CHD-2026-00596,1271778160471672,Rian Pangaribuan,Bayu Pangaribuan,DIST-15,Medan Perjuangan,Posyandu Melati 7,12,F,75.6,7.89,0.74,-1.92,NORMAL,False,PDAM
+CHD-2026-00597,1271605835074961,Siti Harahap,Aditya Harahap,DIST-09,Medan Tuntungan,Posyandu Melati 6,52,M,95.0,20.1,-2.15,0.09,STUNTED,False,Sumur Terlindung
+CHD-2026-00598,1271961088872113,Bayu Tarigan,Budi Tarigan,DIST-06,Medan Denai,Posyandu Melati 2,6,F,70.5,6.84,0.42,-1.51,NORMAL,True,Sumur Terlindung
+CHD-2026-00599,1271423024581557,Nurul Hutapea,Dewi Hutapea,DIST-12,Medan Helvetia,Posyandu Melati 1,7,M,66.3,8.28,-1.18,-0.43,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00600,1271219980433128,Siti Hutapea,Siti Hutapea,DIST-21,Medan Area,Posyandu Melati 2,30,M,81.3,12.68,-1.56,-1.65,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00601,1271915754705528,Dewi Ginting,Rizky Ginting,DIST-09,Medan Tuntungan,Posyandu Melati 6,55,F,104.8,20.76,0.43,0.01,NORMAL,False,PDAM
+CHD-2026-00602,1271585074666450,Kevin Simanjuntak,Aisyah Simanjuntak,DIST-03,Medan Marelan,Posyandu Melati 5,9,F,73.0,6.58,0.55,-2.43,NORMAL,True,Sumur Terlindung
+CHD-2026-00603,1271327768389061,Dimas Tambunan,Rian Tambunan,DIST-16,Medan Kota,Posyandu Melati 7,12,M,70.2,9.74,-1.08,-0.23,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00604,1271231365542194,Rafi Hutapea,Kevin Hutapea,DIST-04,Medan Deli,Posyandu Melati 8,10,F,65.5,8.97,-2.16,-0.48,STUNTED,True,Air Sungai / Tak Terlindung
+CHD-2026-00605,1271955094515365,Budi Pasaribu,Aisyah Pasaribu,DIST-05,Medan Tembung,Posyandu Melati 7,15,F,77.2,9.01,0.56,-1.59,NORMAL,True,Sumur Terlindung
+CHD-2026-00606,1271186663664700,Tiara Sinaga,Rian Sinaga,DIST-16,Medan Kota,Posyandu Melati 8,6,F,67.9,9.65,-0.45,1.05,NORMAL,True,Sumur Terlindung
+CHD-2026-00607,1271611578752485,Bayu Pangaribuan,Dewi Pangaribuan,DIST-12,Medan Helvetia,Posyandu Melati 2,29,F,89.6,14.33,1.42,0.08,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00608,1271155028244129,Dimas Nasution,Zahra Nasution,DIST-10,Medan Selayang,Posyandu Melati 2,25,F,83.2,11.69,0.24,-1.42,NORMAL,False,Sumur Terlindung
+CHD-2026-00609,1271342467401584,Tiara Siregar,Rafi Siregar,DIST-12,Medan Helvetia,Posyandu Melati 4,18,M,76.8,11.36,-0.26,-0.13,NORMAL,False,PDAM
+CHD-2026-00610,1271671172151606,Dewi Ginting,Zahra Ginting,DIST-18,Medan Polonia,Posyandu Melati 6,27,M,81.9,12.53,-0.67,-1.11,NORMAL,False,Sumur Terlindung
+CHD-2026-00611,1271937997319570,Rian Siregar,Dimas Siregar,DIST-02,Medan Labuhan,Posyandu Melati 4,35,M,81.5,12.26,-2.66,-3.17,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00612,1271707484101750,Fajar Ginting,Budi Ginting,DIST-02,Medan Labuhan,Posyandu Melati 1,21,M,69.4,11.54,-3.44,-0.64,SEVERELY_STUNTED,True,Sumur Terlindung
+CHD-2026-00613,1271319759302047,Siti Ginting,Melati Ginting,DIST-10,Medan Selayang,Posyandu Melati 2,58,M,104.8,20.38,-0.28,-1.02,NORMAL,False,Sumur Terlindung
+CHD-2026-00614,1271644537297586,Nurul Siregar,Dimas Siregar,DIST-20,Medan Petisah,Posyandu Melati 3,26,M,80.7,13.23,-0.82,-0.24,NORMAL,False,PDAM
+CHD-2026-00615,1271521662922978,Aisyah Tambunan,Putri Tambunan,DIST-07,Medan Amplas,Posyandu Melati 7,23,M,78.0,10.15,-1.02,-2.36,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00616,1271841426753185,Putri Ginting,Nurul Ginting,DIST-18,Medan Polonia,Posyandu Melati 3,12,F,75.3,9.86,0.65,-0.13,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00617,1271218410715648,Budi Pratama,Putri Pratama,DIST-03,Medan Marelan,Posyandu Melati 3,32,F,85.4,14.84,-0.66,-0.15,NORMAL,False,PDAM
+CHD-2026-00618,1271623508753859,Kevin Tarigan,Rafi Tarigan,DIST-21,Medan Area,Posyandu Melati 3,45,M,91.4,18.82,-1.68,0.52,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00619,1271545391281074,Rizky Pangaribuan,Dewi Pangaribuan,DIST-20,Medan Petisah,Posyandu Melati 4,41,M,91.9,17.79,-0.6,0.49,NORMAL,False,PDAM
+CHD-2026-00620,1271796321954592,Siti Tambunan,Lestari Tambunan,DIST-17,Medan Maimun,Posyandu Melati 5,35,M,89.8,13.6,0.11,-1.95,NORMAL,False,PDAM
+CHD-2026-00621,1271732848883617,Fajar Pangaribuan,Tiara Pangaribuan,DIST-04,Medan Deli,Posyandu Melati 1,48,M,97.1,18.1,-0.49,-0.82,NORMAL,False,Sumur Terlindung
+CHD-2026-00622,1271527467818424,Dimas Sinaga,Kevin Sinaga,DIST-10,Medan Selayang,Posyandu Melati 1,8,M,69.4,8.35,-0.41,-0.59,NORMAL,True,PDAM
+CHD-2026-00623,1271193467298287,Tiara Tarigan,Siti Tarigan,DIST-01,Medan Belawan,Posyandu Melati 7,43,F,91.0,17.2,-1.38,-0.5,POTENTIAL_RISK,False,PDAM
+CHD-2026-00624,1271513388462606,Nurul Simanjuntak,Siti Simanjuntak,DIST-11,Medan Sunggal,Posyandu Melati 4,21,F,80.0,11.6,0.1,-0.59,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00625,1271165570373374,Tiara Tambunan,Tiara Tambunan,DIST-03,Medan Marelan,Posyandu Melati 3,19,F,70.2,11.17,-2.72,-0.52,STUNTED,False,PDAM
+CHD-2026-00626,1271443120336503,Dimas Pangaribuan,Lestari Pangaribuan,DIST-15,Medan Perjuangan,Posyandu Melati 1,14,M,75.0,12.32,0.06,1.66,NORMAL,False,PDAM
+CHD-2026-00627,1271533305335835,Rafi Sinaga,Putri Sinaga,DIST-15,Medan Perjuangan,Posyandu Melati 3,44,M,97.2,14.78,0.47,-2.92,NORMAL,False,Sumur Terlindung
+CHD-2026-00628,1271766129774546,Nurul Siregar,Anisa Siregar,DIST-18,Medan Polonia,Posyandu Melati 8,43,F,94.1,19.42,-0.33,1.52,NORMAL,False,PDAM
+CHD-2026-00629,1271657076154643,Nurul Lubis,Bayu Lubis,DIST-14,Medan Timur,Posyandu Melati 1,43,M,95.1,17.28,0.01,-0.43,NORMAL,False,Sumur Terlindung
+CHD-2026-00630,1271145463769701,Aisyah Ginting,Galang Ginting,DIST-02,Medan Labuhan,Posyandu Melati 2,31,F,86.3,12.6,-0.12,-1.96,NORMAL,False,Sumur Terlindung
+CHD-2026-00631,1271988673337662,Rizky Tarigan,Budi Tarigan,DIST-08,Medan Johor,Posyandu Melati 6,19,M,78.4,10.82,0.03,-0.85,NORMAL,False,PDAM
+CHD-2026-00632,1271308374688524,Budi Ginting,Dewi Ginting,DIST-03,Medan Marelan,Posyandu Melati 8,42,M,91.4,17.32,-1.0,-0.16,NORMAL,False,Sumur Terlindung
+CHD-2026-00633,1271905868491022,Rian Nasution,Lestari Nasution,DIST-05,Medan Tembung,Posyandu Melati 7,46,M,91.3,19.0,-1.95,0.46,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00634,1271648894605420,Galang Pratama,Dewi Pratama,DIST-11,Medan Sunggal,Posyandu Melati 2,50,M,96.8,19.13,-1.06,-0.34,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00635,1271162163567274,Aisyah Tarigan,Lestari Tarigan,DIST-11,Medan Sunggal,Posyandu Melati 1,29,F,78.7,14.43,-2.2,0.16,STUNTED,False,PDAM
+CHD-2026-00636,1271818437934354,Zahra Hutapea,Rizky Hutapea,DIST-06,Medan Denai,Posyandu Melati 4,14,F,77.1,8.77,0.76,-1.58,NORMAL,True,Sumur Terlindung
+CHD-2026-00637,1271514698445380,Dimas Simanjuntak,Nurul Simanjuntak,DIST-19,Medan Baru,Posyandu Melati 5,38,F,86.6,16.38,-1.67,-0.11,POTENTIAL_RISK,False,PDAM
+CHD-2026-00638,1271746522663010,Lestari Ginting,Tiara Ginting,DIST-12,Medan Helvetia,Posyandu Melati 8,36,F,93.3,13.45,1.02,-2.32,NORMAL,False,Sumur Terlindung
+CHD-2026-00639,1271211840647400,Dimas Pasaribu,Rafi Pasaribu,DIST-03,Medan Marelan,Posyandu Melati 2,17,F,70.1,9.53,-2.27,-1.56,STUNTED,True,PDAM
+CHD-2026-00640,1271366459801371,Fajar Ginting,Fajar Ginting,DIST-04,Medan Deli,Posyandu Melati 3,24,F,75.7,10.72,-2.04,-2.07,STUNTED,False,PDAM
+CHD-2026-00641,1271181231074806,Budi Harahap,Dimas Harahap,DIST-15,Medan Perjuangan,Posyandu Melati 7,59,F,96.6,21.52,-3.22,-0.21,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-00642,1271958307149686,Bayu Ginting,Aditya Ginting,DIST-21,Medan Area,Posyandu Melati 8,59,F,105.3,18.83,-0.34,-2.66,NORMAL,False,PDAM
+CHD-2026-00643,1271396077657093,Dewi Nasution,Kevin Nasution,DIST-05,Medan Tembung,Posyandu Melati 3,24,M,84.3,13.97,0.83,0.88,NORMAL,False,PDAM
+CHD-2026-00644,1271783991023986,Melati Pasaribu,Putri Pasaribu,DIST-06,Medan Denai,Posyandu Melati 3,17,M,71.5,11.53,-1.81,0.26,POTENTIAL_RISK,True,PDAM
+CHD-2026-00645,1271434876294022,Aditya Nasution,Rafi Nasution,DIST-11,Medan Sunggal,Posyandu Melati 6,19,M,74.6,11.28,-1.24,-0.42,POTENTIAL_RISK,False,PDAM
+CHD-2026-00646,1271482273911408,Zahra Nasution,Zahra Nasution,DIST-15,Medan Perjuangan,Posyandu Melati 3,31,F,81.4,16.47,-1.76,1.56,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00647,1271744473725842,Fajar Pratama,Zahra Pratama,DIST-11,Medan Sunggal,Posyandu Melati 3,36,F,87.5,15.47,-0.92,-0.48,NORMAL,False,Sumur Terlindung
+CHD-2026-00648,1271711420273284,Bayu Hutapea,Siti Hutapea,DIST-15,Medan Perjuangan,Posyandu Melati 5,49,M,94.6,20.55,-1.58,1.18,POTENTIAL_RISK,False,PDAM
+CHD-2026-00649,1271214422201901,Nurul Ginting,Lestari Ginting,DIST-20,Medan Petisah,Posyandu Melati 4,44,M,101.1,19.44,1.77,1.3,NORMAL,False,Sumur Terlindung
+CHD-2026-00650,1271789907148298,Dimas Pratama,Rizky Pratama,DIST-09,Medan Tuntungan,Posyandu Melati 7,49,M,100.8,17.78,0.52,-1.34,NORMAL,False,PDAM
+CHD-2026-00651,1271177991556915,Melati Tambunan,Galang Tambunan,DIST-11,Medan Sunggal,Posyandu Melati 7,31,M,87.9,14.06,0.4,-0.63,NORMAL,False,PDAM
+CHD-2026-00652,1271544230508300,Budi Harahap,Lestari Harahap,DIST-12,Medan Helvetia,Posyandu Melati 4,41,M,96.3,17.78,0.86,0.48,NORMAL,False,Sumur Terlindung
+CHD-2026-00653,1271462717467944,Anisa Simanjuntak,Rafi Simanjuntak,DIST-15,Medan Perjuangan,Posyandu Melati 3,52,F,96.8,20.2,-1.54,0.18,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00654,1271485976679606,Rizky Nasution,Dimas Nasution,DIST-20,Medan Petisah,Posyandu Melati 7,27,M,85.0,9.9,0.36,-3.5,NORMAL,False,PDAM
+CHD-2026-00655,1271815845673243,Kevin Sinaga,Putri Sinaga,DIST-14,Medan Timur,Posyandu Melati 7,18,M,78.2,10.12,0.21,-1.26,NORMAL,False,Sumur Terlindung
+CHD-2026-00656,1271486181018593,Dewi Sembiring,Aditya Sembiring,DIST-02,Medan Labuhan,Posyandu Melati 1,20,M,72.4,9.58,-2.2,-2.2,STUNTED,True,PDAM
+CHD-2026-00657,1271632880859059,Tiara Siregar,Dewi Siregar,DIST-21,Medan Area,Posyandu Melati 1,50,M,97.3,19.19,-0.89,-0.28,NORMAL,False,PDAM
+CHD-2026-00658,1271567092918872,Tiara Siregar,Melati Siregar,DIST-09,Medan Tuntungan,Posyandu Melati 5,42,F,87.8,17.01,-2.19,-0.45,STUNTED,False,Sumur Terlindung
+CHD-2026-00659,1271831183975252,Siti Sitorus,Galang Sitorus,DIST-16,Medan Kota,Posyandu Melati 3,16,M,76.7,12.64,0.18,1.49,NORMAL,False,Sumur Terlindung
+CHD-2026-00660,1271444787077873,Lestari Nasution,Aisyah Nasution,DIST-05,Medan Tembung,Posyandu Melati 1,46,F,90.8,17.04,-2.13,-1.33,STUNTED,False,PDAM
+CHD-2026-00661,1271902921482548,Rizky Tarigan,Dimas Tarigan,DIST-17,Medan Maimun,Posyandu Melati 6,44,M,94.5,18.48,-0.44,0.43,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00662,1271226603806761,Kevin Pangaribuan,Lestari Pangaribuan,DIST-10,Medan Selayang,Posyandu Melati 1,58,M,103.2,22.4,-0.8,0.82,NORMAL,False,PDAM
+CHD-2026-00663,1271624568443671,Lestari Simanjuntak,Tiara Simanjuntak,DIST-10,Medan Selayang,Posyandu Melati 3,12,M,65.3,7.96,-2.71,-1.86,STUNTED,True,Air Sungai / Tak Terlindung
+CHD-2026-00664,1271788471592867,Melati Hutapea,Galang Hutapea,DIST-18,Medan Polonia,Posyandu Melati 2,32,F,87.4,12.8,-0.01,-2.0,NORMAL,False,PDAM
+CHD-2026-00665,1271498246196940,Budi Ginting,Lestari Ginting,DIST-05,Medan Tembung,Posyandu Melati 6,14,F,68.1,8.82,-2.24,-1.52,STUNTED,True,Sumur Terlindung
+CHD-2026-00666,1271982492744712,Siti Lubis,Fajar Lubis,DIST-01,Medan Belawan,Posyandu Melati 4,25,M,81.4,9.44,-0.37,-3.46,NORMAL,False,PDAM
+CHD-2026-00667,1271191197198934,Anisa Hutapea,Siti Hutapea,DIST-03,Medan Marelan,Posyandu Melati 1,54,F,100.5,20.57,-0.78,0.06,NORMAL,False,PDAM
+CHD-2026-00668,1271702246985145,Galang Tambunan,Aisyah Tambunan,DIST-02,Medan Labuhan,Posyandu Melati 5,8,M,66.4,7.15,-1.4,-1.68,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00669,1271352937576759,Melati Lubis,Aditya Lubis,DIST-04,Medan Deli,Posyandu Melati 3,7,M,68.1,7.22,-0.61,-1.39,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00670,1271883535699272,Lestari Nasution,Galang Nasution,DIST-12,Medan Helvetia,Posyandu Melati 2,42,M,97.2,15.36,0.95,-1.95,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00671,1271462801179800,Galang Lubis,Dimas Lubis,DIST-01,Medan Belawan,Posyandu Melati 4,6,M,65.2,7.22,-1.34,-1.17,POTENTIAL_RISK,False,PDAM
+CHD-2026-00672,1271339752906813,Putri Ginting,Siti Ginting,DIST-19,Medan Baru,Posyandu Melati 4,30,F,83.6,10.6,-0.82,-3.54,NORMAL,False,Sumur Terlindung
+CHD-2026-00673,1271255885332807,Siti Simanjuntak,Bayu Simanjuntak,DIST-14,Medan Timur,Posyandu Melati 8,39,M,89.6,16.97,-0.91,0.2,NORMAL,False,Sumur Terlindung
+CHD-2026-00674,1271204440539088,Zahra Hutapea,Aisyah Hutapea,DIST-10,Medan Selayang,Posyandu Melati 5,13,F,75.5,10.14,0.46,-0.1,NORMAL,False,Sumur Terlindung
+CHD-2026-00675,1271624047048011,Rafi Lubis,Zahra Lubis,DIST-10,Medan Selayang,Posyandu Melati 8,18,M,72.4,11.43,-1.73,-0.06,POTENTIAL_RISK,False,PDAM
+CHD-2026-00676,1271767905372392,Siti Sinaga,Rafi Sinaga,DIST-16,Medan Kota,Posyandu Melati 7,13,M,70.6,10.08,-1.16,-0.15,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00677,1271354550814281,Putri Siregar,Lestari Siregar,DIST-04,Medan Deli,Posyandu Melati 2,44,F,93.0,15.53,-0.94,-2.24,NORMAL,False,PDAM
+CHD-2026-00678,1271853862327557,Tiara Harahap,Aditya Harahap,DIST-14,Medan Timur,Posyandu Melati 7,28,F,79.3,13.56,-1.76,-0.4,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00679,1271232281255107,Kevin Nasution,Rafi Nasution,DIST-17,Medan Maimun,Posyandu Melati 4,37,F,87.9,14.34,-1.01,-1.73,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00680,1271186223321438,Budi Siregar,Aisyah Siregar,DIST-05,Medan Tembung,Posyandu Melati 6,17,F,71.1,9.84,-1.95,-1.28,POTENTIAL_RISK,True,PDAM
+CHD-2026-00681,1271948881199518,Siti Simanjuntak,Rizky Simanjuntak,DIST-20,Medan Petisah,Posyandu Melati 8,55,F,107.7,19.6,1.39,-1.05,NORMAL,False,PDAM
+CHD-2026-00682,1271794603079856,Tiara Tarigan,Kevin Tarigan,DIST-16,Medan Kota,Posyandu Melati 1,40,M,91.5,16.53,-0.51,-0.43,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00683,1271585640538531,Rian Ginting,Bayu Ginting,DIST-04,Medan Deli,Posyandu Melati 3,8,M,63.4,5.59,-2.4,-3.1,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00684,1271498504907374,Tiara Sinaga,Fajar Sinaga,DIST-06,Medan Denai,Posyandu Melati 8,37,M,84.5,15.43,-2.13,-0.75,STUNTED,False,Sumur Terlindung
+CHD-2026-00685,1271819958523560,Aditya Ginting,Tiara Ginting,DIST-18,Medan Polonia,Posyandu Melati 7,38,M,90.6,16.84,-0.32,0.31,NORMAL,False,PDAM
+CHD-2026-00686,1271464360502006,Rian Tambunan,Lestari Tambunan,DIST-19,Medan Baru,Posyandu Melati 3,7,M,69.1,8.17,-0.26,-0.53,NORMAL,False,PDAM
+CHD-2026-00687,1271582020788014,Budi Simanjuntak,Bayu Simanjuntak,DIST-19,Medan Baru,Posyandu Melati 7,28,F,81.4,14.61,-1.08,0.56,POTENTIAL_RISK,False,PDAM
+CHD-2026-00688,1271851890672073,Nurul Lubis,Dewi Lubis,DIST-08,Medan Johor,Posyandu Melati 6,25,M,77.7,11.29,-1.6,-1.78,POTENTIAL_RISK,False,PDAM
+CHD-2026-00689,1271945429959433,Bayu Pratama,Rafi Pratama,DIST-18,Medan Polonia,Posyandu Melati 1,32,F,88.1,12.9,0.24,-1.91,NORMAL,False,Sumur Terlindung
+CHD-2026-00690,1271835092606282,Budi Sitorus,Rian Sitorus,DIST-19,Medan Baru,Posyandu Melati 8,42,M,101.7,17.15,2.44,-0.32,NORMAL,False,PDAM
+CHD-2026-00691,1271954560323730,Bayu Ginting,Galang Ginting,DIST-07,Medan Amplas,Posyandu Melati 6,45,F,95.2,16.29,-0.42,-1.78,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00692,1271783244795708,Tiara Pangaribuan,Rizky Pangaribuan,DIST-07,Medan Amplas,Posyandu Melati 5,22,M,76.8,11.0,-1.19,-1.37,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00693,1271227206156518,Rizky Hutapea,Aditya Hutapea,DIST-20,Medan Petisah,Posyandu Melati 8,23,M,77.9,12.99,-1.07,0.22,POTENTIAL_RISK,False,PDAM
+CHD-2026-00694,1271657956849846,Dewi Tarigan,Dewi Tarigan,DIST-03,Medan Marelan,Posyandu Melati 7,26,M,78.7,13.55,-1.5,0.05,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00695,1271331195069457,Galang Ginting,Zahra Ginting,DIST-20,Medan Petisah,Posyandu Melati 4,17,F,84.9,10.37,2.67,-0.8,NORMAL,False,PDAM
+CHD-2026-00696,1271656936161981,Zahra Simanjuntak,Melati Simanjuntak,DIST-21,Medan Area,Posyandu Melati 6,39,M,90.6,16.32,-0.56,-0.39,NORMAL,False,Sumur Terlindung
+CHD-2026-00697,1271655301896220,Fajar Hutapea,Dewi Hutapea,DIST-08,Medan Johor,Posyandu Melati 4,59,M,111.1,21.02,1.59,-0.66,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00698,1271428202194868,Dewi Pangaribuan,Putri Pangaribuan,DIST-09,Medan Tuntungan,Posyandu Melati 2,31,M,82.0,12.51,-1.57,-2.04,POTENTIAL_RISK,False,PDAM
+CHD-2026-00699,1271696089608145,Nurul Simanjuntak,Dewi Simanjuntak,DIST-01,Medan Belawan,Posyandu Melati 4,33,M,84.1,13.18,-1.34,-1.88,POTENTIAL_RISK,False,PDAM
+CHD-2026-00700,1271946774573883,Budi Harahap,Kevin Harahap,DIST-05,Medan Tembung,Posyandu Melati 8,47,M,102.3,19.83,1.48,0.98,NORMAL,False,Sumur Terlindung
+CHD-2026-00701,1271481666707668,Rizky Sitorus,Melati Sitorus,DIST-02,Medan Labuhan,Posyandu Melati 7,29,M,78.2,11.99,-2.38,-2.05,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00702,1271742265029551,Nurul Siregar,Aditya Siregar,DIST-05,Medan Tembung,Posyandu Melati 8,48,F,96.2,19.63,-0.78,0.58,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00703,1271529727657388,Melati Siregar,Bayu Siregar,DIST-08,Medan Johor,Posyandu Melati 7,57,M,103.5,19.84,-0.46,-1.28,NORMAL,False,PDAM
+CHD-2026-00704,1271665282125166,Putri Lubis,Kevin Lubis,DIST-04,Medan Deli,Posyandu Melati 8,43,M,91.7,15.7,-1.15,-1.86,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00705,1271708159035036,Bayu Tarigan,Anisa Tarigan,DIST-04,Medan Deli,Posyandu Melati 6,23,M,80.0,10.6,-0.38,-1.95,NORMAL,False,Sumur Terlindung
+CHD-2026-00706,1271149823481895,Budi Pangaribuan,Melati Pangaribuan,DIST-10,Medan Selayang,Posyandu Melati 5,50,M,96.9,20.35,-1.05,0.78,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00707,1271783478648248,Lestari Pasaribu,Siti Pasaribu,DIST-10,Medan Selayang,Posyandu Melati 7,30,M,82.0,12.22,-1.35,-2.07,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00708,1271483206063625,Dewi Siregar,Nurul Siregar,DIST-09,Medan Tuntungan,Posyandu Melati 7,34,F,87.3,14.35,-0.49,-1.05,NORMAL,False,Sumur Terlindung
+CHD-2026-00709,1271708727397765,Rizky Sembiring,Tiara Sembiring,DIST-09,Medan Tuntungan,Posyandu Melati 7,59,F,106.3,21.41,-0.0,-0.31,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00710,1271741695916764,Putri Hutapea,Kevin Hutapea,DIST-04,Medan Deli,Posyandu Melati 8,32,F,84.0,13.63,-1.12,-1.24,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00711,1271922427031050,Putri Pangaribuan,Rafi Pangaribuan,DIST-02,Medan Labuhan,Posyandu Melati 5,31,M,80.6,13.45,-2.03,-1.19,STUNTED,False,PDAM
+CHD-2026-00712,1271768482263131,Siti Nasution,Nurul Nasution,DIST-03,Medan Marelan,Posyandu Melati 6,44,F,96.0,15.66,0.05,-2.13,NORMAL,False,Sumur Terlindung
+CHD-2026-00713,1271519383665616,Kevin Nasution,Aditya Nasution,DIST-05,Medan Tembung,Posyandu Melati 7,18,M,75.0,11.7,-0.88,0.18,NORMAL,False,PDAM
+CHD-2026-00714,1271126856614747,Aditya Lubis,Budi Lubis,DIST-13,Medan Barat,Posyandu Melati 4,11,F,72.6,10.57,-0.04,0.74,NORMAL,False,Sumur Terlindung
+CHD-2026-00715,1271647295575262,Aisyah Sinaga,Melati Sinaga,DIST-06,Medan Denai,Posyandu Melati 6,15,M,70.7,7.44,-1.59,-3.01,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00716,1271659109268433,Budi Hutapea,Galang Hutapea,DIST-04,Medan Deli,Posyandu Melati 2,58,F,103.1,20.64,-0.85,-0.78,NORMAL,False,PDAM
+CHD-2026-00717,1271468827029096,Dimas Sembiring,Kevin Sembiring,DIST-07,Medan Amplas,Posyandu Melati 7,30,M,88.3,14.94,0.77,0.4,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00718,1271962985617853,Dimas Sembiring,Dewi Sembiring,DIST-20,Medan Petisah,Posyandu Melati 3,17,F,77.5,11.65,0.19,0.36,NORMAL,True,PDAM
+CHD-2026-00719,1271414875938506,Nurul Tambunan,Rafi Tambunan,DIST-09,Medan Tuntungan,Posyandu Melati 8,11,M,70.2,7.57,-0.82,-1.98,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00720,1271648718615198,Dimas Hutapea,Rian Hutapea,DIST-13,Medan Barat,Posyandu Melati 1,10,M,70.5,9.92,-0.49,0.38,NORMAL,True,PDAM
+CHD-2026-00721,1271878033751745,Tiara Pasaribu,Lestari Pasaribu,DIST-08,Medan Johor,Posyandu Melati 7,6,F,69.9,8.87,0.24,0.34,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00722,1271157086843938,Fajar Pasaribu,Zahra Pasaribu,DIST-12,Medan Helvetia,Posyandu Melati 8,22,M,76.9,11.37,-1.17,-1.03,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00723,1271652486835266,Rizky Sitorus,Galang Sitorus,DIST-05,Medan Tembung,Posyandu Melati 1,13,F,73.2,8.55,-0.31,-1.55,NORMAL,True,Sumur Terlindung
+CHD-2026-00724,1271463760025321,Lestari Pasaribu,Anisa Pasaribu,DIST-09,Medan Tuntungan,Posyandu Melati 7,39,F,88.7,16.39,-1.2,-0.33,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00725,1271819944708208,Tiara Simanjuntak,Fajar Simanjuntak,DIST-11,Medan Sunggal,Posyandu Melati 3,9,M,72.3,8.33,0.32,-0.84,NORMAL,True,PDAM
+CHD-2026-00726,1271695576292900,Tiara Harahap,Putri Harahap,DIST-02,Medan Labuhan,Posyandu Melati 8,37,M,83.3,13.96,-2.53,-2.08,STUNTED,False,PDAM
+CHD-2026-00727,1271249869253425,Tiara Ginting,Tiara Ginting,DIST-18,Medan Polonia,Posyandu Melati 2,13,F,73.6,9.98,-0.18,-0.25,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00728,1271446906074479,Putri Hutapea,Galang Hutapea,DIST-06,Medan Denai,Posyandu Melati 3,43,M,93.2,17.26,-0.65,-0.45,NORMAL,False,Sumur Terlindung
+CHD-2026-00729,1271961988866384,Nurul Simanjuntak,Tiara Simanjuntak,DIST-03,Medan Marelan,Posyandu Melati 2,7,F,67.0,7.9,-0.97,-0.77,NORMAL,False,PDAM
+CHD-2026-00730,1271205825898861,Bayu Nasution,Budi Nasution,DIST-04,Medan Deli,Posyandu Melati 1,35,F,86.1,15.83,-1.13,0.07,POTENTIAL_RISK,False,PDAM
+CHD-2026-00731,1271822356024463,Melati Ginting,Bayu Ginting,DIST-02,Medan Labuhan,Posyandu Melati 6,9,F,72.8,6.42,0.5,-2.57,NORMAL,True,Sumur Terlindung
+CHD-2026-00732,1271613675583916,Melati Sinaga,Rizky Sinaga,DIST-18,Medan Polonia,Posyandu Melati 2,21,F,77.5,11.79,-0.72,-0.42,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00733,1271467786043525,Rian Simanjuntak,Rian Simanjuntak,DIST-06,Medan Denai,Posyandu Melati 8,13,F,70.4,11.29,-1.24,0.94,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00734,1271952007807020,Melati Nasution,Lestari Nasution,DIST-10,Medan Selayang,Posyandu Melati 8,38,M,91.0,14.99,-0.19,-1.37,NORMAL,False,Sumur Terlindung
+CHD-2026-00735,1271865436212478,Tiara Harahap,Aditya Harahap,DIST-13,Medan Barat,Posyandu Melati 6,54,F,103.0,20.07,0.07,-0.39,NORMAL,False,Sumur Terlindung
+CHD-2026-00736,1271754583458594,Anisa Siregar,Aisyah Siregar,DIST-14,Medan Timur,Posyandu Melati 3,49,M,98.2,20.56,-0.37,1.19,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00737,1271695586002297,Galang Siregar,Dewi Siregar,DIST-17,Medan Maimun,Posyandu Melati 5,57,F,103.9,19.99,-0.34,-1.15,NORMAL,False,PDAM
+CHD-2026-00738,1271765485095841,Dewi Sembiring,Nurul Sembiring,DIST-05,Medan Tembung,Posyandu Melati 2,42,M,84.9,16.26,-3.15,-1.13,SEVERELY_STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00739,1271621990748612,Siti Tarigan,Anisa Tarigan,DIST-17,Medan Maimun,Posyandu Melati 6,48,F,100.9,17.99,0.77,-0.92,NORMAL,False,PDAM
+CHD-2026-00740,1271945853633941,Galang Pratama,Siti Pratama,DIST-03,Medan Marelan,Posyandu Melati 7,56,M,93.4,19.23,-3.59,-1.61,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00741,1271688941438371,Dewi Sitorus,Aditya Sitorus,DIST-14,Medan Timur,Posyandu Melati 6,45,F,97.8,18.04,0.44,-0.19,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00742,1271873719142742,Dimas Nasution,Rizky Nasution,DIST-06,Medan Denai,Posyandu Melati 1,33,M,82.4,13.46,-1.91,-1.63,POTENTIAL_RISK,False,PDAM
+CHD-2026-00743,1271688254117637,Putri Pangaribuan,Tiara Pangaribuan,DIST-01,Medan Belawan,Posyandu Melati 5,48,F,93.3,16.67,-1.75,-2.11,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00744,1271481918923049,Lestari Hutapea,Rian Hutapea,DIST-20,Medan Petisah,Posyandu Melati 4,14,M,66.4,10.89,-2.8,0.36,STUNTED,True,Air Sungai / Tak Terlindung
+CHD-2026-00745,1271932522054961,Budi Lubis,Tiara Lubis,DIST-07,Medan Amplas,Posyandu Melati 2,33,M,90.0,12.44,0.64,-2.56,NORMAL,False,PDAM
+CHD-2026-00746,1271122221153721,Fajar Ginting,Anisa Ginting,DIST-15,Medan Perjuangan,Posyandu Melati 8,15,F,77.5,9.69,0.67,-0.96,NORMAL,False,PDAM
+CHD-2026-00747,1271476970917418,Aditya Lubis,Dimas Lubis,DIST-15,Medan Perjuangan,Posyandu Melati 1,9,F,73.2,8.36,0.65,-0.81,NORMAL,True,Sumur Terlindung
+CHD-2026-00748,1271847247835764,Anisa Sembiring,Tiara Sembiring,DIST-14,Medan Timur,Posyandu Melati 7,8,F,68.9,8.58,-0.56,-0.38,NORMAL,False,Sumur Terlindung
+CHD-2026-00749,1271771199437914,Tiara Lubis,Aisyah Lubis,DIST-20,Medan Petisah,Posyandu Melati 2,42,F,90.3,18.41,-1.36,0.83,POTENTIAL_RISK,False,PDAM
+CHD-2026-00750,1271246188236681,Anisa Pasaribu,Tiara Pasaribu,DIST-21,Medan Area,Posyandu Melati 1,34,F,82.7,14.14,-2.04,-1.24,STUNTED,False,PDAM
+CHD-2026-00751,1271396322944599,Tiara Sitorus,Rafi Sitorus,DIST-07,Medan Amplas,Posyandu Melati 8,43,F,94.5,16.15,-0.21,-1.46,NORMAL,False,PDAM
+CHD-2026-00752,1271709386033654,Rian Sinaga,Lestari Sinaga,DIST-10,Medan Selayang,Posyandu Melati 5,45,M,97.9,19.36,0.46,1.01,NORMAL,False,Sumur Terlindung
+CHD-2026-00753,1271352639079063,Tiara Nasution,Putri Nasution,DIST-03,Medan Marelan,Posyandu Melati 8,12,F,74.0,6.51,0.21,-3.18,NORMAL,False,PDAM
+CHD-2026-00754,1271434743873598,Aisyah Pratama,Lestari Pratama,DIST-18,Medan Polonia,Posyandu Melati 2,17,M,76.1,11.98,-0.27,0.66,NORMAL,False,Sumur Terlindung
+CHD-2026-00755,1271386099905224,Nurul Siregar,Zahra Siregar,DIST-20,Medan Petisah,Posyandu Melati 1,27,F,78.0,14.1,-1.97,0.31,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00756,1271986404222706,Kevin Pasaribu,Fajar Pasaribu,DIST-18,Medan Polonia,Posyandu Melati 8,51,M,101.8,17.79,0.36,-1.78,NORMAL,False,Sumur Terlindung
+CHD-2026-00757,1271889201502669,Siti Simanjuntak,Melati Simanjuntak,DIST-04,Medan Deli,Posyandu Melati 2,58,M,105.3,20.53,-0.11,-0.88,NORMAL,False,PDAM
+CHD-2026-00758,1271308637295786,Dimas Pasaribu,Lestari Pasaribu,DIST-04,Medan Deli,Posyandu Melati 8,51,F,99.7,17.29,-0.32,-2.23,NORMAL,False,Sumur Terlindung
+CHD-2026-00759,1271529589523257,Fajar Pangaribuan,Lestari Pangaribuan,DIST-04,Medan Deli,Posyandu Melati 8,13,M,71.4,6.91,-0.9,-3.04,NORMAL,False,Sumur Terlindung
+CHD-2026-00760,1271534006879274,Nurul Sembiring,Tiara Sembiring,DIST-01,Medan Belawan,Posyandu Melati 5,16,M,64.4,9.64,-3.93,-1.24,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-00761,1271298897949677,Lestari Pangaribuan,Nurul Pangaribuan,DIST-14,Medan Timur,Posyandu Melati 3,32,M,89.1,14.44,0.56,-0.51,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00762,1271769332066927,Anisa Pasaribu,Rafi Pasaribu,DIST-14,Medan Timur,Posyandu Melati 3,7,F,67.5,7.66,-0.79,-0.99,NORMAL,True,Sumur Terlindung
+CHD-2026-00763,1271505211613692,Rizky Siregar,Bayu Siregar,DIST-17,Medan Maimun,Posyandu Melati 7,33,M,82.6,14.08,-1.85,-1.06,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00764,1271177622889516,Fajar Pasaribu,Aditya Pasaribu,DIST-21,Medan Area,Posyandu Melati 7,24,F,81.1,11.6,-0.24,-1.28,NORMAL,False,Sumur Terlindung
+CHD-2026-00765,1271777400513406,Lestari Pratama,Kevin Pratama,DIST-11,Medan Sunggal,Posyandu Melati 8,50,F,100.9,19.05,0.31,-0.41,NORMAL,False,Sumur Terlindung
+CHD-2026-00766,1271935636216656,Melati Simanjuntak,Melati Simanjuntak,DIST-18,Medan Polonia,Posyandu Melati 4,57,F,104.7,21.81,-0.05,0.51,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00767,1271598603213064,Aisyah Tarigan,Bayu Tarigan,DIST-03,Medan Marelan,Posyandu Melati 4,39,F,87.5,16.37,-1.59,-0.34,POTENTIAL_RISK,False,PDAM
+CHD-2026-00768,1271912678001383,Dewi Tarigan,Bayu Tarigan,DIST-18,Medan Polonia,Posyandu Melati 4,7,F,67.3,8.65,-0.87,-0.09,NORMAL,False,Sumur Terlindung
+CHD-2026-00769,1271573723749314,Siti Hutapea,Aisyah Hutapea,DIST-17,Medan Maimun,Posyandu Melati 1,28,M,80.1,12.01,-1.5,-1.81,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00770,1271105751596553,Rafi Harahap,Aditya Harahap,DIST-04,Medan Deli,Posyandu Melati 6,21,M,76.8,8.69,-0.97,-3.23,NORMAL,False,PDAM
+CHD-2026-00771,1271768733375057,Fajar Hutapea,Rian Hutapea,DIST-19,Medan Baru,Posyandu Melati 4,12,F,71.2,7.62,-0.72,-2.16,NORMAL,False,Sumur Terlindung
+CHD-2026-00772,1271201967292018,Anisa Sembiring,Anisa Sembiring,DIST-05,Medan Tembung,Posyandu Melati 8,33,M,88.2,15.47,0.04,0.2,NORMAL,False,PDAM
+CHD-2026-00773,1271617168139502,Lestari Pangaribuan,Galang Pangaribuan,DIST-03,Medan Marelan,Posyandu Melati 5,55,F,97.6,20.09,-1.98,-0.6,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00774,1271639638293668,Anisa Ginting,Tiara Ginting,DIST-21,Medan Area,Posyandu Melati 8,15,M,76.4,10.95,0.31,0.18,NORMAL,False,PDAM
+CHD-2026-00775,1271685963491534,Galang Siregar,Dimas Siregar,DIST-17,Medan Maimun,Posyandu Melati 6,53,M,100.6,20.23,-0.5,-0.02,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00776,1271242267377055,Melati Sembiring,Anisa Sembiring,DIST-04,Medan Deli,Posyandu Melati 1,42,F,88.9,16.3,-1.84,-1.09,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00777,1271484082618961,Lestari Harahap,Lestari Harahap,DIST-04,Medan Deli,Posyandu Melati 3,7,M,65.0,6.57,-1.62,-1.98,POTENTIAL_RISK,False,PDAM
+CHD-2026-00778,1271721021873004,Dewi Lubis,Putri Lubis,DIST-10,Medan Selayang,Posyandu Melati 2,41,F,92.5,17.13,-0.41,-0.11,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00779,1271825743486534,Tiara Tambunan,Dewi Tambunan,DIST-14,Medan Timur,Posyandu Melati 8,56,F,106.1,20.45,0.64,-0.5,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00780,1271747673768551,Fajar Simanjuntak,Fajar Simanjuntak,DIST-20,Medan Petisah,Posyandu Melati 8,54,F,103.7,20.76,0.31,0.24,NORMAL,False,PDAM
+CHD-2026-00781,1271957538807711,Rizky Simanjuntak,Melati Simanjuntak,DIST-11,Medan Sunggal,Posyandu Melati 7,30,M,93.7,11.64,2.57,-2.6,NORMAL,False,PDAM
+CHD-2026-00782,1271921928303713,Rafi Hutapea,Kevin Hutapea,DIST-02,Medan Labuhan,Posyandu Melati 5,51,M,94.8,20.11,-1.97,0.33,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00783,1271896681541866,Zahra Siregar,Dimas Siregar,DIST-04,Medan Deli,Posyandu Melati 8,42,M,89.9,17.27,-1.49,-0.21,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00784,1271331198955504,Siti Pangaribuan,Zahra Pangaribuan,DIST-01,Medan Belawan,Posyandu Melati 4,56,M,101.2,22.0,-1.01,0.91,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00785,1271874359967583,Rafi Siregar,Zahra Siregar,DIST-19,Medan Baru,Posyandu Melati 8,43,M,90.1,18.77,-1.67,0.92,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00786,1271631252259649,Bayu Sinaga,Putri Sinaga,DIST-01,Medan Belawan,Posyandu Melati 5,26,F,85.5,10.75,0.77,-2.5,NORMAL,False,PDAM
+CHD-2026-00787,1271282915425187,Zahra Nasution,Dewi Nasution,DIST-04,Medan Deli,Posyandu Melati 3,55,M,103.0,18.3,-0.17,-2.23,NORMAL,False,PDAM
+CHD-2026-00788,1271512902721445,Putri Pratama,Melati Pratama,DIST-14,Medan Timur,Posyandu Melati 5,51,M,98.6,18.58,-0.68,-1.07,NORMAL,False,PDAM
+CHD-2026-00789,1271434937542981,Fajar Sinaga,Bayu Sinaga,DIST-11,Medan Sunggal,Posyandu Melati 4,9,M,61.2,9.08,-3.37,-0.16,SEVERELY_STUNTED,True,Sumur Terlindung
+CHD-2026-00790,1271174337998615,Rian Siregar,Kevin Siregar,DIST-17,Medan Maimun,Posyandu Melati 2,41,F,92.0,18.12,-0.58,0.8,NORMAL,False,Sumur Terlindung
+CHD-2026-00791,1271446809902663,Nurul Pasaribu,Budi Pasaribu,DIST-14,Medan Timur,Posyandu Melati 5,21,M,79.7,14.14,-0.01,1.71,NORMAL,False,Sumur Terlindung
+CHD-2026-00792,1271576666923755,Galang Lubis,Fajar Lubis,DIST-21,Medan Area,Posyandu Melati 7,56,M,102.4,19.99,-0.61,-0.92,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00793,1271699696595739,Rafi Pratama,Budi Pratama,DIST-18,Medan Polonia,Posyandu Melati 1,47,M,96.0,17.72,-0.64,-0.94,NORMAL,False,PDAM
+CHD-2026-00794,1271974986196757,Kevin Tambunan,Kevin Tambunan,DIST-16,Medan Kota,Posyandu Melati 5,59,M,97.1,20.89,-3.07,-0.78,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00795,1271215145073014,Aditya Siregar,Dewi Siregar,DIST-18,Medan Polonia,Posyandu Melati 5,59,M,97.8,21.79,-2.83,0.03,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00796,1271974592795282,Melati Tarigan,Bayu Tarigan,DIST-07,Medan Amplas,Posyandu Melati 5,54,F,96.0,18.44,-2.27,-1.88,STUNTED,False,PDAM
+CHD-2026-00797,1271864444121260,Bayu Lubis,Rafi Lubis,DIST-11,Medan Sunggal,Posyandu Melati 1,50,M,95.9,18.57,-1.35,-0.85,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00798,1271626827889011,Budi Pangaribuan,Putri Pangaribuan,DIST-01,Medan Belawan,Posyandu Melati 2,54,F,99.0,20.27,-1.27,-0.21,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00799,1271955668013022,Rizky Tarigan,Budi Tarigan,DIST-21,Medan Area,Posyandu Melati 6,28,F,80.4,13.69,-1.41,-0.28,POTENTIAL_RISK,False,PDAM
+CHD-2026-00800,1271345661731153,Siti Ginting,Lestari Ginting,DIST-01,Medan Belawan,Posyandu Melati 5,20,M,84.7,10.92,1.91,-0.98,NORMAL,False,PDAM
+CHD-2026-00801,1271396177956947,Dewi Simanjuntak,Nurul Simanjuntak,DIST-20,Medan Petisah,Posyandu Melati 8,8,F,68.7,7.54,-0.65,-1.32,NORMAL,True,PDAM
+CHD-2026-00802,1271826246299093,Rian Siregar,Kevin Siregar,DIST-21,Medan Area,Posyandu Melati 3,16,M,73.3,9.05,-0.96,-1.77,NORMAL,True,Sumur Terlindung
+CHD-2026-00803,1271396484895494,Fajar Harahap,Aditya Harahap,DIST-03,Medan Marelan,Posyandu Melati 5,18,M,75.6,10.45,-0.66,-0.95,NORMAL,False,PDAM
+CHD-2026-00804,1271659853567666,Aisyah Sembiring,Bayu Sembiring,DIST-14,Medan Timur,Posyandu Melati 8,23,M,71.4,11.86,-3.24,-0.81,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00805,1271636582728354,Nurul Pratama,Kevin Pratama,DIST-02,Medan Labuhan,Posyandu Melati 7,26,M,83.5,11.62,0.09,-1.71,NORMAL,False,PDAM
+CHD-2026-00806,1271388230447943,Aditya Simanjuntak,Budi Simanjuntak,DIST-03,Medan Marelan,Posyandu Melati 4,10,M,66.8,6.68,-1.74,-2.57,POTENTIAL_RISK,True,PDAM
+CHD-2026-00807,1271659473111393,Siti Pratama,Tiara Pratama,DIST-03,Medan Marelan,Posyandu Melati 5,43,F,85.7,17.58,-3.14,-0.16,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00808,1271526449184878,Nurul Sitorus,Aisyah Sitorus,DIST-16,Medan Kota,Posyandu Melati 2,10,F,69.9,9.83,-0.71,0.3,NORMAL,False,Sumur Terlindung
+CHD-2026-00809,1271584284972065,Aisyah Pasaribu,Aisyah Pasaribu,DIST-03,Medan Marelan,Posyandu Melati 1,56,M,106.6,20.94,0.81,-0.06,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00810,1271905528162077,Aisyah Harahap,Melati Harahap,DIST-15,Medan Perjuangan,Posyandu Melati 1,12,M,69.2,9.24,-1.41,-0.69,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00811,1271397287001173,Siti Tambunan,Anisa Tambunan,DIST-13,Medan Barat,Posyandu Melati 8,35,F,85.5,14.14,-1.35,-1.46,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00812,1271938086021425,Melati Siregar,Bayu Siregar,DIST-20,Medan Petisah,Posyandu Melati 4,35,F,89.4,14.23,-0.04,-1.38,NORMAL,False,PDAM
+CHD-2026-00813,1271859277634172,Melati Hutapea,Rizky Hutapea,DIST-01,Medan Belawan,Posyandu Melati 5,42,M,82.8,14.9,-3.85,-2.36,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00814,1271412443601722,Melati Ginting,Putri Ginting,DIST-16,Medan Kota,Posyandu Melati 5,9,M,68.7,10.48,-0.85,1.12,NORMAL,False,Sumur Terlindung
+CHD-2026-00815,1271799131663385,Lestari Harahap,Aditya Harahap,DIST-21,Medan Area,Posyandu Melati 5,15,F,71.6,10.48,-1.31,-0.24,POTENTIAL_RISK,False,PDAM
+CHD-2026-00816,1271173489189308,Galang Tambunan,Fajar Tambunan,DIST-01,Medan Belawan,Posyandu Melati 7,58,M,101.2,21.44,-1.47,-0.05,POTENTIAL_RISK,False,PDAM
+CHD-2026-00817,1271532985538794,Dimas Simanjuntak,Rizky Simanjuntak,DIST-07,Medan Amplas,Posyandu Melati 6,50,F,101.6,19.92,0.52,0.38,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00818,1271634445823658,Bayu Tambunan,Dewi Tambunan,DIST-19,Medan Baru,Posyandu Melati 1,12,F,66.2,9.8,-2.4,-0.18,STUNTED,False,PDAM
+CHD-2026-00819,1271697542274492,Nurul Hutapea,Nurul Hutapea,DIST-01,Medan Belawan,Posyandu Melati 6,21,F,78.5,11.18,-0.39,-0.97,NORMAL,False,PDAM
+CHD-2026-00820,1271194752711491,Budi Sitorus,Budi Sitorus,DIST-06,Medan Denai,Posyandu Melati 3,41,M,93.1,16.2,-0.19,-0.95,NORMAL,False,PDAM
+CHD-2026-00821,1271151311274262,Aditya Pasaribu,Lestari Pasaribu,DIST-07,Medan Amplas,Posyandu Melati 3,18,F,72.5,8.47,-1.69,-2.75,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00822,1271412872144211,Bayu Sembiring,Zahra Sembiring,DIST-06,Medan Denai,Posyandu Melati 5,7,M,64.9,10.85,-1.68,1.91,POTENTIAL_RISK,True,PDAM
+CHD-2026-00823,1271533204495998,Rian Pangaribuan,Siti Pangaribuan,DIST-05,Medan Tembung,Posyandu Melati 6,35,M,85.2,12.35,-1.44,-3.09,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00824,1271658454762071,Galang Simanjuntak,Melati Simanjuntak,DIST-06,Medan Denai,Posyandu Melati 3,13,M,73.9,10.16,-0.08,-0.08,NORMAL,True,PDAM
+CHD-2026-00825,1271647670445006,Lestari Sitorus,Melati Sitorus,DIST-13,Medan Barat,Posyandu Melati 5,8,M,73.2,8.81,0.87,-0.17,NORMAL,True,PDAM
+CHD-2026-00826,1271757124549011,Kevin Sembiring,Fajar Sembiring,DIST-02,Medan Labuhan,Posyandu Melati 8,19,M,77.7,12.55,-0.18,0.73,NORMAL,True,PDAM
+CHD-2026-00827,1271765868193932,Galang Sitorus,Tiara Sitorus,DIST-13,Medan Barat,Posyandu Melati 8,26,F,78.7,11.61,-1.5,-1.72,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00828,1271617691021599,Tiara Harahap,Aditya Harahap,DIST-16,Medan Kota,Posyandu Melati 4,19,M,73.0,10.84,-1.77,-0.83,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00829,1271586991253575,Dimas Harahap,Anisa Harahap,DIST-13,Medan Barat,Posyandu Melati 5,59,F,109.4,21.63,1.04,-0.11,NORMAL,False,Sumur Terlindung
+CHD-2026-00830,1271764686534771,Rizky Harahap,Rafi Harahap,DIST-05,Medan Tembung,Posyandu Melati 8,43,M,94.2,14.52,-0.3,-2.93,NORMAL,False,Sumur Terlindung
+CHD-2026-00831,1271655288187021,Anisa Ginting,Rafi Ginting,DIST-11,Medan Sunggal,Posyandu Melati 6,57,F,100.8,18.36,-1.38,-2.62,POTENTIAL_RISK,False,PDAM
+CHD-2026-00832,1271437767032243,Putri Ginting,Nurul Ginting,DIST-01,Medan Belawan,Posyandu Melati 5,28,M,84.9,14.37,0.09,0.34,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00833,1271453388042612,Zahra Pangaribuan,Rizky Pangaribuan,DIST-17,Medan Maimun,Posyandu Melati 6,13,M,74.6,8.17,0.16,-1.89,NORMAL,True,Sumur Terlindung
+CHD-2026-00834,1271424174205496,Dimas Pangaribuan,Bayu Pangaribuan,DIST-11,Medan Sunggal,Posyandu Melati 5,18,M,81.1,10.51,1.16,-0.9,NORMAL,True,Sumur Terlindung
+CHD-2026-00835,1271619617841194,Lestari Simanjuntak,Rian Simanjuntak,DIST-10,Medan Selayang,Posyandu Melati 7,36,M,84.6,14.3,-1.87,-1.54,POTENTIAL_RISK,False,PDAM
+CHD-2026-00836,1271859241548679,Tiara Lubis,Galang Lubis,DIST-07,Medan Amplas,Posyandu Melati 6,52,F,97.4,19.07,-1.33,-0.85,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00837,1271365599908372,Dimas Sinaga,Anisa Sinaga,DIST-11,Medan Sunggal,Posyandu Melati 6,41,M,91.4,14.87,-0.76,-2.16,NORMAL,False,PDAM
+CHD-2026-00838,1271739497676810,Dewi Hutapea,Budi Hutapea,DIST-05,Medan Tembung,Posyandu Melati 7,27,M,85.5,12.53,0.55,-1.11,NORMAL,False,Sumur Terlindung
+CHD-2026-00839,1271851243681527,Zahra Harahap,Bayu Harahap,DIST-13,Medan Barat,Posyandu Melati 6,14,M,70.4,11.08,-1.46,0.52,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00840,1271592974878778,Rian Siregar,Zahra Siregar,DIST-07,Medan Amplas,Posyandu Melati 8,12,F,66.8,7.06,-2.21,-2.68,STUNTED,False,PDAM
+CHD-2026-00841,1271987326729005,Zahra Nasution,Aisyah Nasution,DIST-04,Medan Deli,Posyandu Melati 4,7,M,71.1,9.72,0.4,0.89,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00842,1271477916099591,Dewi Lubis,Nurul Lubis,DIST-13,Medan Barat,Posyandu Melati 1,10,F,68.5,8.69,-1.17,-0.74,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00843,1271602646632814,Bayu Sembiring,Anisa Sembiring,DIST-06,Medan Denai,Posyandu Melati 8,14,F,68.0,9.39,-2.27,-1.01,STUNTED,True,PDAM
+CHD-2026-00844,1271495531958778,Fajar Sembiring,Dimas Sembiring,DIST-07,Medan Amplas,Posyandu Melati 4,16,F,72.1,9.89,-1.38,-1.01,POTENTIAL_RISK,False,PDAM
+CHD-2026-00845,1271617342295044,Fajar Ginting,Rizky Ginting,DIST-01,Medan Belawan,Posyandu Melati 8,39,F,89.9,13.9,-0.8,-2.59,NORMAL,False,Sumur Terlindung
+CHD-2026-00846,1271467776938476,Aisyah Hutapea,Rizky Hutapea,DIST-19,Medan Baru,Posyandu Melati 7,28,F,82.2,11.39,-0.8,-2.38,NORMAL,False,Sumur Terlindung
+CHD-2026-00847,1271898688628079,Anisa Lubis,Putri Lubis,DIST-06,Medan Denai,Posyandu Melati 3,35,F,85.5,14.52,-1.34,-1.12,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00848,1271402656035485,Rian Hutapea,Aisyah Hutapea,DIST-04,Medan Deli,Posyandu Melati 2,46,F,94.8,17.49,-0.81,-0.92,NORMAL,False,Sumur Terlindung
+CHD-2026-00849,1271254866432253,Tiara Sinaga,Zahra Sinaga,DIST-07,Medan Amplas,Posyandu Melati 6,54,M,103.5,17.66,0.23,-2.58,NORMAL,False,Sumur Terlindung
+CHD-2026-00850,1271155846171437,Kevin Lubis,Galang Lubis,DIST-06,Medan Denai,Posyandu Melati 7,10,F,64.0,9.02,-2.66,-0.44,STUNTED,False,Sumur Terlindung
+CHD-2026-00851,1271422202533236,Rian Pratama,Budi Pratama,DIST-07,Medan Amplas,Posyandu Melati 8,26,F,73.6,12.73,-3.2,-0.7,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-00852,1271662470688713,Zahra Pangaribuan,Nurul Pangaribuan,DIST-03,Medan Marelan,Posyandu Melati 3,58,F,98.5,22.22,-2.35,0.65,STUNTED,False,PDAM
+CHD-2026-00853,1271472301829759,Melati Siregar,Putri Siregar,DIST-01,Medan Belawan,Posyandu Melati 3,53,F,99.2,18.46,-0.98,-1.63,NORMAL,False,PDAM
+CHD-2026-00854,1271552865834549,Kevin Nasution,Rafi Nasution,DIST-01,Medan Belawan,Posyandu Melati 4,51,M,101.2,16.94,0.16,-2.55,NORMAL,False,Sumur Terlindung
+CHD-2026-00855,1271598238806051,Galang Pangaribuan,Siti Pangaribuan,DIST-02,Medan Labuhan,Posyandu Melati 1,34,M,82.2,12.58,-2.19,-2.65,STUNTED,False,PDAM
+CHD-2026-00856,1271573501274276,Dimas Pasaribu,Nurul Pasaribu,DIST-13,Medan Barat,Posyandu Melati 7,11,M,67.8,9.07,-1.64,-0.62,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00857,1271382012953750,Dimas Pangaribuan,Rizky Pangaribuan,DIST-11,Medan Sunggal,Posyandu Melati 1,52,M,101.4,20.47,0.01,0.43,NORMAL,False,Sumur Terlindung
+CHD-2026-00858,1271902987544393,Bayu Sitorus,Zahra Sitorus,DIST-04,Medan Deli,Posyandu Melati 7,40,F,83.4,15.5,-3.21,-1.37,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00859,1271321157227588,Siti Sitorus,Bayu Sitorus,DIST-07,Medan Amplas,Posyandu Melati 1,47,F,91.5,17.51,-2.12,-1.12,STUNTED,False,PDAM
+CHD-2026-00860,1271937542167045,Nurul Siregar,Kevin Siregar,DIST-15,Medan Perjuangan,Posyandu Melati 4,8,M,76.4,8.41,1.94,-0.53,NORMAL,False,PDAM
+CHD-2026-00861,1271822797875127,Tiara Siregar,Zahra Siregar,DIST-20,Medan Petisah,Posyandu Melati 7,12,F,75.2,11.83,0.61,1.66,NORMAL,True,PDAM
+CHD-2026-00862,1271184513831289,Bayu Sembiring,Tiara Sembiring,DIST-21,Medan Area,Posyandu Melati 7,44,F,97.5,16.58,0.58,-1.29,NORMAL,False,Sumur Terlindung
+CHD-2026-00863,1271391222433032,Galang Tambunan,Budi Tambunan,DIST-08,Medan Johor,Posyandu Melati 7,25,M,76.5,12.58,-2.01,-0.61,STUNTED,False,Sumur Terlindung
+CHD-2026-00864,1271576229525859,Rizky Pratama,Fajar Pratama,DIST-20,Medan Petisah,Posyandu Melati 7,18,M,74.3,9.15,-1.1,-2.14,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00865,1271273916366202,Melati Ginting,Bayu Ginting,DIST-08,Medan Johor,Posyandu Melati 7,47,M,97.2,18.44,-0.24,-0.28,NORMAL,False,Sumur Terlindung
+CHD-2026-00866,1271533540164372,Budi Lubis,Bayu Lubis,DIST-10,Medan Selayang,Posyandu Melati 4,40,M,97.8,16.03,1.61,-0.89,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00867,1271764372604007,Melati Sembiring,Rian Sembiring,DIST-08,Medan Johor,Posyandu Melati 2,34,M,88.2,14.07,-0.2,-1.3,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00868,1271362316602503,Dimas Pratama,Fajar Pratama,DIST-03,Medan Marelan,Posyandu Melati 4,17,M,77.0,9.93,0.04,-1.2,NORMAL,True,Sumur Terlindung
+CHD-2026-00869,1271415446133890,Dewi Nasution,Dimas Nasution,DIST-15,Medan Perjuangan,Posyandu Melati 5,44,M,89.4,17.05,-2.15,-0.87,STUNTED,False,PDAM
+CHD-2026-00870,1271204770487524,Dimas Harahap,Tiara Harahap,DIST-15,Medan Perjuangan,Posyandu Melati 8,30,M,85.0,13.87,-0.32,-0.57,NORMAL,False,Sumur Terlindung
+CHD-2026-00871,1271299594168897,Melati Hutapea,Anisa Hutapea,DIST-17,Medan Maimun,Posyandu Melati 7,7,F,71.3,6.11,0.47,-2.4,NORMAL,True,Sumur Terlindung
+CHD-2026-00872,1271808619453878,Melati Tarigan,Fajar Tarigan,DIST-10,Medan Selayang,Posyandu Melati 8,22,F,76.1,12.73,-1.43,0.21,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00873,1271194494213238,Zahra Tambunan,Tiara Tambunan,DIST-13,Medan Barat,Posyandu Melati 4,51,F,96.3,19.28,-1.48,-0.42,POTENTIAL_RISK,False,PDAM
+CHD-2026-00874,1271576153267628,Budi Pratama,Galang Pratama,DIST-07,Medan Amplas,Posyandu Melati 6,32,F,76.5,17.27,-3.65,2.06,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00875,1271142305247304,Aditya Siregar,Anisa Siregar,DIST-10,Medan Selayang,Posyandu Melati 4,42,M,92.1,18.39,-0.76,0.81,NORMAL,False,Sumur Terlindung
+CHD-2026-00876,1271918219337032,Lestari Tarigan,Tiara Tarigan,DIST-09,Medan Tuntungan,Posyandu Melati 7,50,M,97.0,19.28,-0.99,-0.2,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00877,1271567616011462,Nurul Ginting,Aisyah Ginting,DIST-08,Medan Johor,Posyandu Melati 5,50,M,103.6,20.27,1.22,0.7,NORMAL,False,Sumur Terlindung
+CHD-2026-00878,1271847947913644,Kevin Lubis,Melati Lubis,DIST-05,Medan Tembung,Posyandu Melati 2,6,M,65.9,7.29,-1.11,-1.1,POTENTIAL_RISK,False,PDAM
+CHD-2026-00879,1271642738787993,Rizky Tarigan,Dimas Tarigan,DIST-19,Medan Baru,Posyandu Melati 7,22,F,82.8,14.85,0.8,2.14,NORMAL,False,Sumur Terlindung
+CHD-2026-00880,1271549537793338,Siti Pangaribuan,Aditya Pangaribuan,DIST-03,Medan Marelan,Posyandu Melati 7,23,M,78.8,13.93,-0.75,1.07,NORMAL,False,PDAM
+CHD-2026-00881,1271189113297845,Tiara Pratama,Siti Pratama,DIST-06,Medan Denai,Posyandu Melati 5,39,F,88.7,16.78,-1.21,0.02,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00882,1271273076398970,Putri Sitorus,Putri Sitorus,DIST-06,Medan Denai,Posyandu Melati 8,17,M,78.0,9.64,0.35,-1.46,NORMAL,True,PDAM
+CHD-2026-00883,1271435286498220,Putri Simanjuntak,Dimas Simanjuntak,DIST-02,Medan Labuhan,Posyandu Melati 3,46,M,91.1,18.47,-2.04,-0.03,STUNTED,False,PDAM
+CHD-2026-00884,1271184587721486,Rian Siregar,Kevin Siregar,DIST-03,Medan Marelan,Posyandu Melati 8,43,M,90.3,15.51,-1.6,-2.04,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00885,1271107976401685,Budi Pratama,Kevin Pratama,DIST-04,Medan Deli,Posyandu Melati 1,12,M,67.8,8.06,-1.88,-1.76,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00886,1271875503146514,Tiara Ginting,Bayu Ginting,DIST-09,Medan Tuntungan,Posyandu Melati 6,29,F,86.5,14.15,0.4,-0.09,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00887,1271174733236410,Rian Sinaga,Melati Sinaga,DIST-12,Medan Helvetia,Posyandu Melati 1,57,M,105.4,20.95,0.16,-0.28,NORMAL,False,Sumur Terlindung
+CHD-2026-00888,1271256564055578,Fajar Pratama,Melati Pratama,DIST-13,Medan Barat,Posyandu Melati 6,50,M,96.0,19.58,-1.32,0.07,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00889,1271107690686278,Galang Sinaga,Dimas Sinaga,DIST-16,Medan Kota,Posyandu Melati 1,7,F,72.6,8.86,0.88,0.1,NORMAL,False,Sumur Terlindung
+CHD-2026-00890,1271889325272333,Melati Ginting,Rian Ginting,DIST-08,Medan Johor,Posyandu Melati 8,28,F,84.6,12.45,-0.0,-1.41,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00891,1271348465253345,Rian Harahap,Melati Harahap,DIST-04,Medan Deli,Posyandu Melati 3,39,M,89.8,14.47,-0.83,-2.07,NORMAL,False,Sumur Terlindung
+CHD-2026-00892,1271692762168311,Dewi Sembiring,Zahra Sembiring,DIST-03,Medan Marelan,Posyandu Melati 4,13,F,71.1,7.11,-1.0,-2.85,POTENTIAL_RISK,True,PDAM
+CHD-2026-00893,1271304423607283,Siti Sinaga,Budi Sinaga,DIST-03,Medan Marelan,Posyandu Melati 4,55,F,94.9,19.35,-2.88,-1.27,STUNTED,False,Sumur Terlindung
+CHD-2026-00894,1271787643239060,Siti Pangaribuan,Fajar Pangaribuan,DIST-16,Medan Kota,Posyandu Melati 4,11,F,69.3,9.28,-1.13,-0.42,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00895,1271659477184823,Rian Pangaribuan,Zahra Pangaribuan,DIST-13,Medan Barat,Posyandu Melati 2,20,F,76.6,11.28,-0.79,-0.65,NORMAL,False,PDAM
+CHD-2026-00896,1271348807882902,Bayu Hutapea,Aditya Hutapea,DIST-03,Medan Marelan,Posyandu Melati 3,42,F,93.6,15.77,-0.26,-1.57,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00897,1271491648919775,Aditya Hutapea,Budi Hutapea,DIST-13,Medan Barat,Posyandu Melati 7,18,F,74.9,12.49,-0.89,0.9,NORMAL,False,Sumur Terlindung
+CHD-2026-00898,1271853329322746,Galang Pangaribuan,Melati Pangaribuan,DIST-05,Medan Tembung,Posyandu Melati 8,31,M,84.1,13.49,-0.87,-1.14,NORMAL,False,PDAM
+CHD-2026-00899,1271287306825643,Nurul Ginting,Rafi Ginting,DIST-10,Medan Selayang,Posyandu Melati 6,15,M,74.4,10.02,-0.35,-0.67,NORMAL,False,Sumur Terlindung
+CHD-2026-00900,1271717617324534,Kevin Sembiring,Aditya Sembiring,DIST-04,Medan Deli,Posyandu Melati 7,37,F,85.2,13.76,-1.91,-2.27,POTENTIAL_RISK,False,PDAM
+CHD-2026-00901,1271388344301861,Fajar Sembiring,Dimas Sembiring,DIST-11,Medan Sunggal,Posyandu Melati 8,55,M,99.1,21.11,-1.46,0.33,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00902,1271604538007921,Putri Pratama,Zahra Pratama,DIST-10,Medan Selayang,Posyandu Melati 6,49,F,95.7,18.52,-1.18,-0.66,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00903,1271468302034196,Rizky Tarigan,Dewi Tarigan,DIST-13,Medan Barat,Posyandu Melati 2,50,F,100.6,18.41,0.19,-0.99,NORMAL,False,PDAM
+CHD-2026-00904,1271687864333681,Aisyah Sembiring,Dewi Sembiring,DIST-19,Medan Baru,Posyandu Melati 8,42,M,95.5,15.2,0.36,-2.09,NORMAL,False,Sumur Terlindung
+CHD-2026-00905,1271358710371149,Fajar Lubis,Dimas Lubis,DIST-10,Medan Selayang,Posyandu Melati 3,29,M,83.5,13.8,-0.6,-0.4,NORMAL,False,PDAM
+CHD-2026-00906,1271224728568763,Putri Pasaribu,Aisyah Pasaribu,DIST-14,Medan Timur,Posyandu Melati 2,17,M,74.8,8.4,-0.69,-2.59,NORMAL,False,Sumur Terlindung
+CHD-2026-00907,1271253525557498,Rian Lubis,Aisyah Lubis,DIST-05,Medan Tembung,Posyandu Melati 3,37,F,92.5,14.18,0.53,-1.88,NORMAL,False,Sumur Terlindung
+CHD-2026-00908,1271935006615509,Rizky Simanjuntak,Rafi Simanjuntak,DIST-13,Medan Barat,Posyandu Melati 6,46,F,96.5,17.75,-0.24,-0.68,NORMAL,False,PDAM
+CHD-2026-00909,1271928012799351,Rizky Siregar,Tiara Siregar,DIST-04,Medan Deli,Posyandu Melati 8,20,M,79.3,13.33,0.09,1.21,NORMAL,False,Sumur Terlindung
+CHD-2026-00910,1271717759088105,Aditya Nasution,Rian Nasution,DIST-04,Medan Deli,Posyandu Melati 2,25,M,74.7,11.18,-2.59,-1.89,STUNTED,False,PDAM
+CHD-2026-00911,1271606830719788,Putri Sinaga,Budi Sinaga,DIST-18,Medan Polonia,Posyandu Melati 2,56,F,103.6,19.17,-0.2,-1.66,NORMAL,False,Sumur Terlindung
+CHD-2026-00912,1271367905732922,Zahra Hutapea,Siti Hutapea,DIST-19,Medan Baru,Posyandu Melati 1,17,M,78.5,11.81,0.54,0.51,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00913,1271367843433641,Aisyah Nasution,Aditya Nasution,DIST-04,Medan Deli,Posyandu Melati 1,11,F,71.4,8.74,-0.43,-0.92,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00914,1271315436011001,Dewi Sitorus,Zahra Sitorus,DIST-17,Medan Maimun,Posyandu Melati 1,21,F,82.2,9.96,0.85,-2.08,NORMAL,False,Sumur Terlindung
+CHD-2026-00915,1271984281379563,Fajar Tambunan,Tiara Tambunan,DIST-15,Medan Perjuangan,Posyandu Melati 2,28,M,82.5,12.18,-0.7,-1.66,NORMAL,False,Sumur Terlindung
+CHD-2026-00916,1271284142674526,Nurul Pratama,Dimas Pratama,DIST-02,Medan Labuhan,Posyandu Melati 6,14,M,74.4,6.9,-0.13,-3.28,NORMAL,False,PDAM
+CHD-2026-00917,1271423733367255,Anisa Siregar,Zahra Siregar,DIST-20,Medan Petisah,Posyandu Melati 7,47,M,96.5,18.63,-0.47,-0.11,NORMAL,False,Sumur Terlindung
+CHD-2026-00918,1271783136602156,Anisa Hutapea,Fajar Hutapea,DIST-09,Medan Tuntungan,Posyandu Melati 4,46,F,92.1,17.03,-1.71,-1.34,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00919,1271639614763514,Galang Tambunan,Putri Tambunan,DIST-19,Medan Baru,Posyandu Melati 7,26,F,82.1,14.2,-0.36,0.63,NORMAL,False,PDAM
+CHD-2026-00920,1271256572862802,Nurul Siregar,Kevin Siregar,DIST-20,Medan Petisah,Posyandu Melati 2,49,F,94.4,17.7,-1.64,-1.41,POTENTIAL_RISK,False,PDAM
+CHD-2026-00921,1271442534374698,Lestari Pasaribu,Bayu Pasaribu,DIST-03,Medan Marelan,Posyandu Melati 2,23,M,82.1,11.25,0.34,-1.36,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00922,1271326520496022,Rian Siregar,Siti Siregar,DIST-08,Medan Johor,Posyandu Melati 2,43,F,90.8,17.99,-1.43,0.22,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00923,1271872038781785,Dewi Tarigan,Kevin Tarigan,DIST-19,Medan Baru,Posyandu Melati 7,16,F,73.4,11.78,-0.94,0.71,NORMAL,True,PDAM
+CHD-2026-00924,1271717210823090,Zahra Tambunan,Rian Tambunan,DIST-18,Medan Polonia,Posyandu Melati 3,22,M,76.8,11.8,-1.19,-0.63,POTENTIAL_RISK,True,PDAM
+CHD-2026-00925,1271418111607852,Kevin Pratama,Lestari Pratama,DIST-19,Medan Baru,Posyandu Melati 3,51,F,102.9,19.03,0.73,-0.66,NORMAL,False,Sumur Terlindung
+CHD-2026-00926,1271455485449529,Rafi Tarigan,Dewi Tarigan,DIST-12,Medan Helvetia,Posyandu Melati 5,51,M,101.3,18.86,0.21,-0.81,NORMAL,False,Sumur Terlindung
+CHD-2026-00927,1271217655062302,Dewi Sinaga,Bayu Sinaga,DIST-03,Medan Marelan,Posyandu Melati 2,10,M,76.0,10.21,1.34,0.65,NORMAL,True,Sumur Terlindung
+CHD-2026-00928,1271115445799334,Dewi Tarigan,Tiara Tarigan,DIST-03,Medan Marelan,Posyandu Melati 8,52,M,93.8,19.46,-2.52,-0.49,STUNTED,False,Sumur Terlindung
+CHD-2026-00929,1271882994221119,Siti Sinaga,Budi Sinaga,DIST-18,Medan Polonia,Posyandu Melati 6,51,F,96.6,19.48,-1.37,-0.25,POTENTIAL_RISK,False,PDAM
+CHD-2026-00930,1271672767189577,Melati Pratama,Melati Pratama,DIST-17,Medan Maimun,Posyandu Melati 2,20,M,77.0,9.83,-0.67,-1.97,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00931,1271734975093793,Lestari Pratama,Anisa Pratama,DIST-17,Medan Maimun,Posyandu Melati 6,29,M,86.8,13.59,0.48,-0.6,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00932,1271474137108915,Zahra Sembiring,Siti Sembiring,DIST-08,Medan Johor,Posyandu Melati 4,24,F,79.2,11.84,-0.86,-1.05,NORMAL,True,Sumur Terlindung
+CHD-2026-00933,1271926405711580,Rian Lubis,Dewi Lubis,DIST-19,Medan Baru,Posyandu Melati 1,35,F,88.9,15.79,-0.21,0.04,NORMAL,False,PDAM
+CHD-2026-00934,1271552123691084,Rafi Sitorus,Dewi Sitorus,DIST-20,Medan Petisah,Posyandu Melati 7,28,M,82.9,10.08,-0.58,-3.56,NORMAL,False,PDAM
+CHD-2026-00935,1271206547979426,Anisa Ginting,Dimas Ginting,DIST-04,Medan Deli,Posyandu Melati 2,15,F,72.3,7.72,-1.06,-2.75,POTENTIAL_RISK,False,PDAM
+CHD-2026-00936,1271574138236971,Nurul Ginting,Rian Ginting,DIST-09,Medan Tuntungan,Posyandu Melati 5,33,M,85.6,12.84,-0.84,-2.19,NORMAL,False,PDAM
+CHD-2026-00937,1271558833818110,Rafi Nasution,Fajar Nasution,DIST-15,Medan Perjuangan,Posyandu Melati 4,6,F,61.9,9.05,-2.43,0.5,STUNTED,True,PDAM
+CHD-2026-00938,1271521331413626,Fajar Sinaga,Anisa Sinaga,DIST-02,Medan Labuhan,Posyandu Melati 8,48,M,94.0,17.12,-1.54,-1.71,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00939,1271806196403087,Siti Sinaga,Tiara Sinaga,DIST-09,Medan Tuntungan,Posyandu Melati 7,26,F,83.1,12.34,-0.04,-1.06,NORMAL,False,PDAM
+CHD-2026-00940,1271546242881223,Budi Nasution,Fajar Nasution,DIST-04,Medan Deli,Posyandu Melati 1,55,M,107.6,19.13,1.37,-1.48,NORMAL,False,Sumur Terlindung
+CHD-2026-00941,1271656035185742,Anisa Tambunan,Budi Tambunan,DIST-11,Medan Sunggal,Posyandu Melati 2,24,F,81.4,13.48,-0.14,0.44,NORMAL,False,PDAM
+CHD-2026-00942,1271459039722884,Galang Nasution,Nurul Nasution,DIST-05,Medan Tembung,Posyandu Melati 7,22,M,83.4,10.57,1.0,-1.76,NORMAL,True,Sumur Terlindung
+CHD-2026-00943,1271349963983436,Galang Tambunan,Putri Tambunan,DIST-04,Medan Deli,Posyandu Melati 3,20,M,74.3,12.23,-1.57,0.21,POTENTIAL_RISK,False,PDAM
+CHD-2026-00944,1271883093412489,Fajar Sinaga,Budi Sinaga,DIST-07,Medan Amplas,Posyandu Melati 7,9,F,71.7,9.55,0.12,0.27,NORMAL,False,Sumur Terlindung
+CHD-2026-00945,1271711643299353,Nurul Sitorus,Anisa Sitorus,DIST-08,Medan Johor,Posyandu Melati 5,33,M,81.7,16.48,-2.12,1.12,STUNTED,False,PDAM
+CHD-2026-00946,1271414353771779,Kevin Sitorus,Anisa Sitorus,DIST-12,Medan Helvetia,Posyandu Melati 1,17,M,72.2,10.67,-1.56,-0.53,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00947,1271457359842650,Dimas Harahap,Tiara Harahap,DIST-11,Medan Sunggal,Posyandu Melati 5,33,M,85.9,13.51,-0.74,-1.58,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00948,1271228014421223,Bayu Harahap,Siti Harahap,DIST-12,Medan Helvetia,Posyandu Melati 6,49,M,92.3,16.35,-2.32,-2.64,STUNTED,False,PDAM
+CHD-2026-00949,1271573498255521,Aditya Tarigan,Melati Tarigan,DIST-12,Medan Helvetia,Posyandu Melati 2,19,F,76.7,9.11,-0.54,-2.4,NORMAL,True,PDAM
+CHD-2026-00950,1271939571154120,Siti Pratama,Aditya Pratama,DIST-20,Medan Petisah,Posyandu Melati 2,18,F,72.3,10.72,-1.76,-0.71,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00951,1271356594753517,Bayu Harahap,Tiara Harahap,DIST-20,Medan Petisah,Posyandu Melati 4,8,M,60.1,9.41,-3.51,0.38,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-00952,1271677604602923,Zahra Sitorus,Lestari Sitorus,DIST-09,Medan Tuntungan,Posyandu Melati 8,33,M,77.9,14.44,-3.41,-0.74,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-00953,1271458305493112,Budi Nasution,Melati Nasution,DIST-17,Medan Maimun,Posyandu Melati 1,24,M,79.6,12.75,-0.73,-0.23,NORMAL,True,Sumur Terlindung
+CHD-2026-00954,1271751786283711,Tiara Pangaribuan,Zahra Pangaribuan,DIST-13,Medan Barat,Posyandu Melati 7,34,F,86.8,17.17,-0.68,1.51,NORMAL,False,Sumur Terlindung
+CHD-2026-00955,1271306996784568,Dimas Nasution,Budi Nasution,DIST-09,Medan Tuntungan,Posyandu Melati 8,43,M,94.1,18.29,-0.35,0.49,NORMAL,False,Sumur Terlindung
+CHD-2026-00956,1271478426585399,Kevin Harahap,Nurul Harahap,DIST-17,Medan Maimun,Posyandu Melati 3,41,M,88.9,16.49,-1.59,-0.69,POTENTIAL_RISK,False,PDAM
+CHD-2026-00957,1271912553355550,Nurul Harahap,Aisyah Harahap,DIST-18,Medan Polonia,Posyandu Melati 1,14,F,79.0,9.71,1.39,-0.72,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-00958,1271934643407047,Zahra Siregar,Budi Siregar,DIST-07,Medan Amplas,Posyandu Melati 5,26,M,81.4,13.69,-0.6,0.17,NORMAL,False,Sumur Terlindung
+CHD-2026-00959,1271177563611170,Melati Harahap,Bayu Harahap,DIST-14,Medan Timur,Posyandu Melati 4,58,F,100.8,18.04,-1.59,-3.14,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00960,1271787892472743,Putri Harahap,Budi Harahap,DIST-09,Medan Tuntungan,Posyandu Melati 5,52,F,100.5,20.47,-0.3,0.42,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00961,1271663313566312,Melati Tarigan,Dimas Tarigan,DIST-21,Medan Area,Posyandu Melati 7,23,M,74.2,12.67,-2.31,-0.07,STUNTED,True,Sumur Terlindung
+CHD-2026-00962,1271216200523973,Lestari Nasution,Tiara Nasution,DIST-14,Medan Timur,Posyandu Melati 3,35,M,89.7,12.16,0.07,-3.27,NORMAL,False,PDAM
+CHD-2026-00963,1271124252263669,Putri Pangaribuan,Dewi Pangaribuan,DIST-16,Medan Kota,Posyandu Melati 4,17,F,72.1,10.18,-1.59,-0.97,POTENTIAL_RISK,True,PDAM
+CHD-2026-00964,1271228594909630,Nurul Ginting,Rian Ginting,DIST-14,Medan Timur,Posyandu Melati 2,14,M,72.0,8.74,-0.93,-1.6,NORMAL,False,PDAM
+CHD-2026-00965,1271263604062369,Budi Simanjuntak,Aisyah Simanjuntak,DIST-04,Medan Deli,Posyandu Melati 1,23,M,75.1,13.46,-2.01,0.65,STUNTED,True,Air Sungai / Tak Terlindung
+CHD-2026-00966,1271203121493281,Zahra Hutapea,Bayu Hutapea,DIST-04,Medan Deli,Posyandu Melati 3,36,F,86.6,13.87,-1.21,-1.94,POTENTIAL_RISK,False,PDAM
+CHD-2026-00967,1271798256575382,Fajar Lubis,Aisyah Lubis,DIST-16,Medan Kota,Posyandu Melati 1,46,M,95.6,18.55,-0.54,0.05,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00968,1271759771167804,Zahra Harahap,Siti Harahap,DIST-04,Medan Deli,Posyandu Melati 4,15,M,72.4,9.21,-1.02,-1.4,POTENTIAL_RISK,True,PDAM
+CHD-2026-00969,1271388176637303,Fajar Sitorus,Dewi Sitorus,DIST-13,Medan Barat,Posyandu Melati 8,49,M,95.1,17.7,-1.39,-1.41,POTENTIAL_RISK,False,PDAM
+CHD-2026-00970,1271551799956467,Nurul Siregar,Dewi Siregar,DIST-04,Medan Deli,Posyandu Melati 2,13,F,68.8,9.36,-1.78,-0.81,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-00971,1271862901757967,Anisa Tarigan,Bayu Tarigan,DIST-06,Medan Denai,Posyandu Melati 5,15,F,69.2,10.11,-2.09,-0.59,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00972,1271439501002251,Tiara Pangaribuan,Lestari Pangaribuan,DIST-09,Medan Tuntungan,Posyandu Melati 3,56,M,107.3,20.67,1.05,-0.3,NORMAL,False,Sumur Terlindung
+CHD-2026-00973,1271678563838838,Bayu Nasution,Rian Nasution,DIST-05,Medan Tembung,Posyandu Melati 2,58,M,101.7,18.9,-1.3,-2.37,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00974,1271262907067308,Fajar Siregar,Bayu Siregar,DIST-09,Medan Tuntungan,Posyandu Melati 8,28,F,88.3,11.88,1.24,-1.93,NORMAL,False,Sumur Terlindung
+CHD-2026-00975,1271279411055028,Melati Simanjuntak,Bayu Simanjuntak,DIST-14,Medan Timur,Posyandu Melati 8,30,F,86.8,14.4,0.27,-0.09,NORMAL,False,Sumur Terlindung
+CHD-2026-00976,1271591876797911,Zahra Tarigan,Nurul Tarigan,DIST-16,Medan Kota,Posyandu Melati 2,39,M,90.0,15.84,-0.77,-0.83,NORMAL,False,PDAM
+CHD-2026-00977,1271566854988764,Dimas Sembiring,Budi Sembiring,DIST-01,Medan Belawan,Posyandu Melati 1,14,M,64.6,9.37,-3.42,-1.03,SEVERELY_STUNTED,False,PDAM
+CHD-2026-00978,1271805415314973,Dewi Ginting,Fajar Ginting,DIST-05,Medan Tembung,Posyandu Melati 1,19,M,77.9,9.4,-0.15,-2.14,NORMAL,True,PDAM
+CHD-2026-00979,1271995453397089,Rian Hutapea,Budi Hutapea,DIST-05,Medan Tembung,Posyandu Melati 2,9,M,68.1,8.25,-1.05,-0.91,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00980,1271281828305014,Budi Nasution,Lestari Nasution,DIST-06,Medan Denai,Posyandu Melati 7,10,M,71.3,8.39,-0.25,-1.01,NORMAL,True,Sumur Terlindung
+CHD-2026-00981,1271994140568703,Fajar Hutapea,Galang Hutapea,DIST-16,Medan Kota,Posyandu Melati 8,32,F,80.2,13.77,-2.39,-1.12,STUNTED,False,Sumur Terlindung
+CHD-2026-00982,1271177736621526,Dewi Siregar,Fajar Siregar,DIST-01,Medan Belawan,Posyandu Melati 3,44,M,92.8,17.48,-1.01,-0.47,POTENTIAL_RISK,False,PDAM
+CHD-2026-00983,1271836262516014,Rafi Tarigan,Kevin Tarigan,DIST-14,Medan Timur,Posyandu Melati 7,51,M,96.4,21.51,-1.44,1.6,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-00984,1271268792334471,Rizky Tarigan,Rian Tarigan,DIST-09,Medan Tuntungan,Posyandu Melati 4,31,M,78.3,13.35,-2.81,-1.27,STUNTED,False,PDAM
+CHD-2026-00985,1271985911908821,Melati Sembiring,Rizky Sembiring,DIST-18,Medan Polonia,Posyandu Melati 7,26,F,81.6,12.76,-0.52,-0.68,NORMAL,False,PDAM
+CHD-2026-00986,1271232094712274,Anisa Lubis,Kevin Lubis,DIST-12,Medan Helvetia,Posyandu Melati 1,29,F,79.0,13.98,-2.11,-0.25,STUNTED,False,PDAM
+CHD-2026-00987,1271377261161179,Zahra Siregar,Rizky Siregar,DIST-06,Medan Denai,Posyandu Melati 4,54,F,101.3,19.44,-0.5,-0.96,NORMAL,False,Sumur Terlindung
+CHD-2026-00988,1271206978171735,Aisyah Lubis,Kevin Lubis,DIST-21,Medan Area,Posyandu Melati 1,42,F,93.4,16.11,-0.35,-1.26,NORMAL,False,PDAM
+CHD-2026-00989,1271465174769195,Dewi Pratama,Lestari Pratama,DIST-03,Medan Marelan,Posyandu Melati 7,18,F,69.0,9.47,-2.86,-1.85,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-00990,1271226265703460,Bayu Sinaga,Galang Sinaga,DIST-04,Medan Deli,Posyandu Melati 8,7,F,67.2,7.65,-0.9,-1.0,NORMAL,True,PDAM
+CHD-2026-00991,1271393261223307,Rafi Siregar,Rizky Siregar,DIST-05,Medan Tembung,Posyandu Melati 6,55,M,101.0,20.36,-0.82,-0.35,NORMAL,False,Sumur Terlindung
+CHD-2026-00992,1271899975318059,Bayu Harahap,Lestari Harahap,DIST-05,Medan Tembung,Posyandu Melati 4,8,F,66.0,7.99,-1.55,-0.92,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-00993,1271906216902595,Rizky Nasution,Aditya Nasution,DIST-20,Medan Petisah,Posyandu Melati 3,57,M,105.6,20.63,0.23,-0.57,NORMAL,False,Sumur Terlindung
+CHD-2026-00994,1271731986858451,Zahra Sembiring,Rizky Sembiring,DIST-10,Medan Selayang,Posyandu Melati 5,26,M,77.5,11.81,-1.9,-1.54,POTENTIAL_RISK,False,PDAM
+CHD-2026-00995,1271211745893935,Aditya Sitorus,Lestari Sitorus,DIST-09,Medan Tuntungan,Posyandu Melati 5,51,F,101.8,20.7,0.37,0.86,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-00996,1271256963608999,Rafi Pangaribuan,Fajar Pangaribuan,DIST-09,Medan Tuntungan,Posyandu Melati 5,8,F,72.9,8.56,0.77,-0.4,NORMAL,False,Sumur Terlindung
+CHD-2026-00997,1271759858746138,Fajar Ginting,Lestari Ginting,DIST-20,Medan Petisah,Posyandu Melati 7,29,M,79.8,13.72,-1.84,-0.48,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-00998,1271418337361130,Aisyah Tambunan,Aisyah Tambunan,DIST-09,Medan Tuntungan,Posyandu Melati 5,15,M,79.2,10.77,1.22,0.02,NORMAL,False,PDAM
+CHD-2026-00999,1271698016552531,Rizky Lubis,Rian Lubis,DIST-13,Medan Barat,Posyandu Melati 8,28,F,82.0,14.0,-0.87,-0.0,NORMAL,False,Sumur Terlindung
+CHD-2026-01000,1271235162268096,Siti Siregar,Putri Siregar,DIST-15,Medan Perjuangan,Posyandu Melati 6,18,F,70.8,9.73,-2.26,-1.61,STUNTED,True,PDAM
+CHD-2026-01001,1271243918978447,Tiara Lubis,Tiara Lubis,DIST-20,Medan Petisah,Posyandu Melati 8,8,M,65.5,9.04,-1.7,0.04,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-01002,1271581654316922,Aditya Pratama,Melati Pratama,DIST-11,Medan Sunggal,Posyandu Melati 8,56,F,105.0,20.13,0.26,-0.79,NORMAL,False,PDAM
+CHD-2026-01003,1271443643153885,Budi Simanjuntak,Anisa Simanjuntak,DIST-07,Medan Amplas,Posyandu Melati 2,11,M,67.2,8.74,-1.84,-0.92,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01004,1271773245055250,Rafi Sembiring,Anisa Sembiring,DIST-10,Medan Selayang,Posyandu Melati 2,17,M,73.8,9.75,-1.02,-1.36,POTENTIAL_RISK,False,PDAM
+CHD-2026-01005,1271636050208790,Putri Lubis,Lestari Lubis,DIST-10,Medan Selayang,Posyandu Melati 7,40,M,92.8,15.55,-0.05,-1.32,NORMAL,False,PDAM
+CHD-2026-01006,1271819211104253,Rian Sembiring,Budi Sembiring,DIST-19,Medan Baru,Posyandu Melati 6,10,M,65.4,7.44,-2.2,-1.88,STUNTED,False,PDAM
+CHD-2026-01007,1271249304897658,Fajar Ginting,Bayu Ginting,DIST-15,Medan Perjuangan,Posyandu Melati 8,22,M,72.4,11.86,-2.65,-0.58,STUNTED,True,Sumur Terlindung
+CHD-2026-01008,1271378819314074,Aditya Siregar,Aisyah Siregar,DIST-21,Medan Area,Posyandu Melati 7,32,M,85.7,14.24,-0.56,-0.69,NORMAL,False,PDAM
+CHD-2026-01009,1271114882416960,Dimas Pangaribuan,Aditya Pangaribuan,DIST-07,Medan Amplas,Posyandu Melati 5,7,F,69.5,9.19,-0.14,0.4,NORMAL,True,Sumur Terlindung
+CHD-2026-01010,1271554693209887,Rafi Sinaga,Anisa Sinaga,DIST-21,Medan Area,Posyandu Melati 2,33,F,83.8,14.86,-1.43,-0.36,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01011,1271807237893664,Anisa Sitorus,Putri Sitorus,DIST-15,Medan Perjuangan,Posyandu Melati 7,40,F,85.1,17.72,-2.62,0.65,STUNTED,False,PDAM
+CHD-2026-01012,1271221918762700,Dewi Hutapea,Melati Hutapea,DIST-14,Medan Timur,Posyandu Melati 7,11,M,66.2,8.03,-2.17,-1.56,STUNTED,True,Sumur Terlindung
+CHD-2026-01013,1271747094671534,Zahra Siregar,Rafi Siregar,DIST-20,Medan Petisah,Posyandu Melati 7,48,F,95.2,16.65,-1.13,-2.14,POTENTIAL_RISK,False,PDAM
+CHD-2026-01014,1271359979408693,Zahra Sinaga,Siti Sinaga,DIST-15,Medan Perjuangan,Posyandu Melati 8,13,F,71.9,9.57,-0.74,-0.62,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01015,1271386322165646,Rian Pratama,Lestari Pratama,DIST-21,Medan Area,Posyandu Melati 5,23,F,78.2,10.02,-0.96,-2.48,NORMAL,False,Sumur Terlindung
+CHD-2026-01016,1271132608257134,Anisa Pratama,Budi Pratama,DIST-01,Medan Belawan,Posyandu Melati 6,59,F,109.4,20.88,1.04,-0.79,NORMAL,False,PDAM
+CHD-2026-01017,1271603020197444,Anisa Lubis,Zahra Lubis,DIST-19,Medan Baru,Posyandu Melati 7,59,M,114.4,20.33,2.7,-1.29,NORMAL,False,PDAM
+CHD-2026-01018,1271614335789475,Rian Hutapea,Putri Hutapea,DIST-21,Medan Area,Posyandu Melati 4,16,F,77.3,11.05,0.38,0.05,NORMAL,True,Sumur Terlindung
+CHD-2026-01019,1271609839815263,Galang Siregar,Aditya Siregar,DIST-05,Medan Tembung,Posyandu Melati 6,59,M,102.7,22.4,-1.21,0.59,POTENTIAL_RISK,False,PDAM
+CHD-2026-01020,1271909074373507,Budi Sinaga,Budi Sinaga,DIST-03,Medan Marelan,Posyandu Melati 7,7,M,65.6,7.15,-1.45,-1.46,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-01021,1271333513664633,Rafi Pangaribuan,Lestari Pangaribuan,DIST-05,Medan Tembung,Posyandu Melati 4,25,M,67.7,12.7,-4.92,-0.5,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-01022,1271451869933355,Kevin Pangaribuan,Aisyah Pangaribuan,DIST-13,Medan Barat,Posyandu Melati 2,46,M,90.7,17.08,-2.18,-1.29,STUNTED,False,PDAM
+CHD-2026-01023,1271463747213959,Siti Siregar,Fajar Siregar,DIST-20,Medan Petisah,Posyandu Melati 8,11,M,67.8,8.79,-1.63,-0.87,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01024,1271125338432205,Rian Siregar,Tiara Siregar,DIST-07,Medan Amplas,Posyandu Melati 4,37,M,90.0,15.27,-0.31,-0.89,NORMAL,False,Sumur Terlindung
+CHD-2026-01025,1271302885405894,Bayu Pangaribuan,Rafi Pangaribuan,DIST-13,Medan Barat,Posyandu Melati 1,6,M,69.8,9.26,0.2,0.69,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-01026,1271791052583595,Tiara Tambunan,Melati Tambunan,DIST-12,Medan Helvetia,Posyandu Melati 2,39,F,89.0,15.37,-1.11,-1.26,POTENTIAL_RISK,False,PDAM
+CHD-2026-01027,1271758979253496,Zahra Pratama,Galang Pratama,DIST-01,Medan Belawan,Posyandu Melati 2,19,F,77.8,11.46,-0.16,-0.26,NORMAL,True,PDAM
+CHD-2026-01028,1271443869608890,Nurul Siregar,Fajar Siregar,DIST-05,Medan Tembung,Posyandu Melati 6,18,M,77.6,9.31,-0.01,-1.99,NORMAL,False,Sumur Terlindung
+CHD-2026-01029,1271343622413833,Anisa Tarigan,Rian Tarigan,DIST-16,Medan Kota,Posyandu Melati 7,18,F,77.6,11.04,-0.0,-0.42,NORMAL,True,Sumur Terlindung
+CHD-2026-01030,1271725545278309,Dewi Nasution,Dimas Nasution,DIST-19,Medan Baru,Posyandu Melati 6,33,F,90.7,14.11,0.85,-1.03,NORMAL,False,Sumur Terlindung
+CHD-2026-01031,1271824700587126,Rian Sinaga,Dimas Sinaga,DIST-20,Medan Petisah,Posyandu Melati 8,46,M,90.1,18.81,-2.38,0.28,STUNTED,False,PDAM
+CHD-2026-01032,1271624077299691,Galang Harahap,Aditya Harahap,DIST-02,Medan Labuhan,Posyandu Melati 1,28,F,72.1,11.72,-4.15,-2.07,SEVERELY_STUNTED,False,PDAM
+CHD-2026-01033,1271553572342190,Anisa Simanjuntak,Putri Simanjuntak,DIST-11,Medan Sunggal,Posyandu Melati 6,19,F,73.0,9.83,-1.76,-1.75,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-01034,1271523241568624,Budi Sitorus,Budi Sitorus,DIST-04,Medan Deli,Posyandu Melati 4,42,F,88.5,17.66,-1.95,0.15,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01035,1271773280262686,Dewi Tambunan,Dimas Tambunan,DIST-13,Medan Barat,Posyandu Melati 2,41,F,94.7,16.19,0.33,-0.96,NORMAL,False,Sumur Terlindung
+CHD-2026-01036,1271509529056244,Anisa Pangaribuan,Anisa Pangaribuan,DIST-21,Medan Area,Posyandu Melati 1,18,M,79.4,9.34,0.59,-1.96,NORMAL,False,Sumur Terlindung
+CHD-2026-01037,1271672794536355,Anisa Siregar,Siti Siregar,DIST-09,Medan Tuntungan,Posyandu Melati 4,43,F,89.1,18.07,-2.0,0.29,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01038,1271105842025659,Budi Pangaribuan,Aditya Pangaribuan,DIST-10,Medan Selayang,Posyandu Melati 1,14,F,75.5,9.41,0.23,-0.99,NORMAL,True,PDAM
+CHD-2026-01039,1271638583865931,Rizky Ginting,Siti Ginting,DIST-01,Medan Belawan,Posyandu Melati 6,23,F,73.3,12.97,-2.6,0.2,STUNTED,False,PDAM
+CHD-2026-01040,1271604129418447,Tiara Tambunan,Aisyah Tambunan,DIST-11,Medan Sunggal,Posyandu Melati 6,37,M,83.2,14.85,-2.58,-1.27,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-01041,1271112454732722,Budi Lubis,Aisyah Lubis,DIST-04,Medan Deli,Posyandu Melati 4,26,F,80.8,14.37,-0.81,0.79,NORMAL,False,PDAM
+CHD-2026-01042,1271108216731860,Lestari Sembiring,Zahra Sembiring,DIST-07,Medan Amplas,Posyandu Melati 2,22,M,79.3,12.09,-0.38,-0.38,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-01043,1271583830233790,Kevin Sitorus,Melati Sitorus,DIST-03,Medan Marelan,Posyandu Melati 2,14,F,69.9,10.01,-1.64,-0.44,POTENTIAL_RISK,True,PDAM
+CHD-2026-01044,1271915684823004,Aditya Pasaribu,Anisa Pasaribu,DIST-05,Medan Tembung,Posyandu Melati 8,39,M,90.1,13.8,-0.75,-2.68,NORMAL,False,Sumur Terlindung
+CHD-2026-01045,1271381962585322,Bayu Simanjuntak,Tiara Simanjuntak,DIST-09,Medan Tuntungan,Posyandu Melati 2,55,F,104.5,21.19,0.33,0.4,NORMAL,False,PDAM
+CHD-2026-01046,1271196186311987,Dimas Hutapea,Rizky Hutapea,DIST-08,Medan Johor,Posyandu Melati 4,19,M,79.5,11.16,0.41,-0.54,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01047,1271369535369644,Tiara Siregar,Bayu Siregar,DIST-07,Medan Amplas,Posyandu Melati 5,38,F,85.8,12.74,-1.94,-3.42,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01048,1271232363784584,Fajar Sembiring,Galang Sembiring,DIST-21,Medan Area,Posyandu Melati 8,29,F,83.6,14.67,-0.55,0.38,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01049,1271341719735552,Dimas Simanjuntak,Rian Simanjuntak,DIST-17,Medan Maimun,Posyandu Melati 5,33,M,89.3,15.33,0.41,0.07,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01050,1271238812162805,Siti Nasution,Rafi Nasution,DIST-19,Medan Baru,Posyandu Melati 8,21,M,78.3,13.1,-0.46,0.78,NORMAL,True,PDAM
+CHD-2026-01051,1271432240742377,Galang Ginting,Lestari Ginting,DIST-16,Medan Kota,Posyandu Melati 4,28,F,86.3,12.9,0.58,-1.0,NORMAL,False,PDAM
+CHD-2026-01052,1271165627795466,Anisa Tarigan,Bayu Tarigan,DIST-17,Medan Maimun,Posyandu Melati 1,29,M,85.4,12.71,0.04,-1.4,NORMAL,False,Sumur Terlindung
+CHD-2026-01053,1271612852255520,Dimas Harahap,Dimas Harahap,DIST-14,Medan Timur,Posyandu Melati 7,39,F,92.0,14.33,-0.09,-2.2,NORMAL,False,PDAM
+CHD-2026-01054,1271241557181584,Nurul Siregar,Nurul Siregar,DIST-02,Medan Labuhan,Posyandu Melati 4,42,F,86.6,17.37,-2.6,-0.12,STUNTED,False,PDAM
+CHD-2026-01055,1271998505957628,Kevin Lubis,Melati Lubis,DIST-04,Medan Deli,Posyandu Melati 2,31,F,86.7,14.21,0.01,-0.49,NORMAL,False,PDAM
+CHD-2026-01056,1271364645195718,Tiara Lubis,Putri Lubis,DIST-09,Medan Tuntungan,Posyandu Melati 1,51,F,99.2,16.16,-0.5,-3.26,NORMAL,False,PDAM
+CHD-2026-01057,1271983502103789,Melati Ginting,Dewi Ginting,DIST-17,Medan Maimun,Posyandu Melati 3,26,M,80.7,13.15,-0.84,-0.32,NORMAL,False,PDAM
+CHD-2026-01058,1271644502811341,Fajar Pratama,Tiara Pratama,DIST-15,Medan Perjuangan,Posyandu Melati 2,17,F,72.7,9.46,-1.4,-1.63,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-01059,1271841010559000,Melati Sitorus,Tiara Sitorus,DIST-01,Medan Belawan,Posyandu Melati 2,21,F,80.9,10.65,0.41,-1.46,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-01060,1271776275873741,Dewi Sembiring,Nurul Sembiring,DIST-19,Medan Baru,Posyandu Melati 2,54,M,103.3,20.98,0.16,0.44,NORMAL,False,PDAM
+CHD-2026-01061,1271793698408970,Rafi Ginting,Lestari Ginting,DIST-11,Medan Sunggal,Posyandu Melati 8,22,F,75.2,12.05,-1.74,-0.41,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-01062,1271949985838935,Bayu Pasaribu,Galang Pasaribu,DIST-10,Medan Selayang,Posyandu Melati 1,13,F,77.4,11.89,1.09,1.49,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-01063,1271133562388056,Fajar Sitorus,Tiara Sitorus,DIST-08,Medan Johor,Posyandu Melati 2,29,M,83.9,13.33,-0.48,-0.83,NORMAL,False,PDAM
+CHD-2026-01064,1271676525013866,Siti Harahap,Zahra Harahap,DIST-13,Medan Barat,Posyandu Melati 6,22,F,79.5,12.04,-0.32,-0.42,NORMAL,False,Sumur Terlindung
+CHD-2026-01065,1271846453416624,Dewi Lubis,Aisyah Lubis,DIST-09,Medan Tuntungan,Posyandu Melati 7,59,M,109.4,19.83,1.02,-1.74,NORMAL,False,Sumur Terlindung
+CHD-2026-01066,1271116231623410,Lestari Harahap,Siti Harahap,DIST-19,Medan Baru,Posyandu Melati 5,35,M,87.4,13.96,-0.7,-1.63,NORMAL,False,Sumur Terlindung
+CHD-2026-01067,1271189386355828,Dewi Ginting,Dewi Ginting,DIST-06,Medan Denai,Posyandu Melati 1,6,F,62.9,7.84,-2.11,-0.6,STUNTED,True,PDAM
+CHD-2026-01068,1271491053378050,Siti Pratama,Tiara Pratama,DIST-19,Medan Baru,Posyandu Melati 1,28,M,86.3,12.77,0.57,-1.12,NORMAL,False,PDAM
+CHD-2026-01069,1271959062343540,Dewi Simanjuntak,Galang Simanjuntak,DIST-12,Medan Helvetia,Posyandu Melati 3,11,F,73.4,10.27,0.23,0.48,NORMAL,True,Sumur Terlindung
+CHD-2026-01070,1271704718585075,Dewi Lubis,Aisyah Lubis,DIST-03,Medan Marelan,Posyandu Melati 7,57,F,108.7,20.16,1.28,-0.99,NORMAL,False,PDAM
+CHD-2026-01071,1271864258303839,Kevin Pasaribu,Dewi Pasaribu,DIST-04,Medan Deli,Posyandu Melati 6,42,F,88.9,15.0,-1.83,-2.27,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01072,1271636812084268,Dimas Harahap,Fajar Harahap,DIST-05,Medan Tembung,Posyandu Melati 2,25,F,76.0,13.71,-2.16,0.41,STUNTED,False,PDAM
+CHD-2026-01073,1271589204118158,Rafi Tarigan,Putri Tarigan,DIST-21,Medan Area,Posyandu Melati 8,12,M,65.9,10.58,-2.5,0.53,STUNTED,False,Sumur Terlindung
+CHD-2026-01074,1271695409327721,Rafi Sitorus,Anisa Sitorus,DIST-12,Medan Helvetia,Posyandu Melati 1,35,M,84.4,14.12,-1.69,-1.48,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01075,1271884170784975,Rizky Simanjuntak,Fajar Simanjuntak,DIST-14,Medan Timur,Posyandu Melati 3,43,F,92.4,16.04,-0.9,-1.55,NORMAL,False,Sumur Terlindung
+CHD-2026-01076,1271265225151097,Dewi Pratama,Rian Pratama,DIST-19,Medan Baru,Posyandu Melati 1,35,F,91.6,17.48,0.71,1.57,NORMAL,False,PDAM
+CHD-2026-01077,1271229618665760,Siti Sitorus,Melati Sitorus,DIST-09,Medan Tuntungan,Posyandu Melati 6,42,F,90.3,16.26,-1.37,-1.13,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01078,1271168356524359,Aditya Pangaribuan,Galang Pangaribuan,DIST-04,Medan Deli,Posyandu Melati 8,39,M,88.5,16.1,-1.27,-0.59,POTENTIAL_RISK,False,PDAM
+CHD-2026-01079,1271109447508945,Fajar Harahap,Dewi Harahap,DIST-21,Medan Area,Posyandu Melati 2,45,M,93.8,19.03,-0.91,0.71,NORMAL,False,PDAM
+CHD-2026-01080,1271762015685050,Melati Pasaribu,Siti Pasaribu,DIST-05,Medan Tembung,Posyandu Melati 8,19,M,79.7,9.28,0.47,-2.24,NORMAL,True,Air Sungai / Tak Terlindung
+CHD-2026-01081,1271485242098925,Rian Pratama,Siti Pratama,DIST-15,Medan Perjuangan,Posyandu Melati 5,17,M,76.4,12.14,-0.17,0.81,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01082,1271911227094027,Siti Sinaga,Fajar Sinaga,DIST-20,Medan Petisah,Posyandu Melati 3,15,M,72.5,9.87,-1.01,-0.8,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-01083,1271856169107018,Dewi Pangaribuan,Siti Pangaribuan,DIST-10,Medan Selayang,Posyandu Melati 7,48,F,95.4,17.85,-1.07,-1.04,POTENTIAL_RISK,False,PDAM
+CHD-2026-01084,1271281293295643,Rafi Sinaga,Anisa Sinaga,DIST-04,Medan Deli,Posyandu Melati 7,35,M,80.4,12.86,-3.03,-2.63,SEVERELY_STUNTED,False,PDAM
+CHD-2026-01085,1271661447026811,Aisyah Pangaribuan,Melati Pangaribuan,DIST-10,Medan Selayang,Posyandu Melati 8,14,F,73.7,11.78,-0.36,1.16,NORMAL,False,PDAM
+CHD-2026-01086,1271364657799602,Lestari Tarigan,Galang Tarigan,DIST-06,Medan Denai,Posyandu Melati 3,30,M,81.1,12.61,-1.65,-1.72,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01087,1271273918605963,Aditya Sitorus,Rafi Sitorus,DIST-12,Medan Helvetia,Posyandu Melati 8,31,M,90.6,12.61,1.31,-1.95,NORMAL,False,PDAM
+CHD-2026-01088,1271838429169306,Melati Pangaribuan,Putri Pangaribuan,DIST-16,Medan Kota,Posyandu Melati 3,55,F,96.2,19.16,-2.43,-1.44,STUNTED,False,Sumur Terlindung
+CHD-2026-01089,1271899701987615,Aditya Sitorus,Aditya Sitorus,DIST-19,Medan Baru,Posyandu Melati 1,10,M,68.6,6.95,-1.15,-2.32,POTENTIAL_RISK,True,PDAM
+CHD-2026-01090,1271518968224793,Tiara Pasaribu,Tiara Pasaribu,DIST-04,Medan Deli,Posyandu Melati 2,55,M,99.8,20.59,-1.23,-0.14,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01091,1271181649345103,Rian Simanjuntak,Anisa Simanjuntak,DIST-06,Medan Denai,Posyandu Melati 2,13,M,66.8,9.24,-2.43,-0.92,STUNTED,False,Sumur Terlindung
+CHD-2026-01092,1271512128908364,Budi Pasaribu,Putri Pasaribu,DIST-20,Medan Petisah,Posyandu Melati 4,30,M,86.1,13.88,0.03,-0.57,NORMAL,False,PDAM
+CHD-2026-01093,1271383109653655,Rafi Pangaribuan,Dewi Pangaribuan,DIST-16,Medan Kota,Posyandu Melati 2,33,M,87.3,14.89,-0.28,-0.32,NORMAL,False,Sumur Terlindung
+CHD-2026-01094,1271271054906891,Siti Lubis,Aisyah Lubis,DIST-21,Medan Area,Posyandu Melati 2,55,F,98.5,21.67,-1.68,0.83,POTENTIAL_RISK,False,PDAM
+CHD-2026-01095,1271366980768761,Galang Ginting,Dimas Ginting,DIST-21,Medan Area,Posyandu Melati 6,38,F,93.8,17.05,0.72,0.5,NORMAL,False,Sumur Terlindung
+CHD-2026-01096,1271665482787162,Fajar Simanjuntak,Rizky Simanjuntak,DIST-18,Medan Polonia,Posyandu Melati 3,10,M,74.3,7.11,0.76,-2.18,NORMAL,False,PDAM
+CHD-2026-01097,1271794469941369,Nurul Pratama,Melati Pratama,DIST-16,Medan Kota,Posyandu Melati 5,20,F,80.8,12.19,0.59,0.18,NORMAL,False,Sumur Terlindung
+CHD-2026-01098,1271787033044955,Putri Harahap,Rizky Harahap,DIST-03,Medan Marelan,Posyandu Melati 7,39,F,84.0,15.32,-2.77,-1.3,STUNTED,False,Sumur Terlindung
+CHD-2026-01099,1271437849631491,Siti Tambunan,Tiara Tambunan,DIST-18,Medan Polonia,Posyandu Melati 7,8,F,70.3,10.49,-0.1,1.36,NORMAL,False,PDAM
+CHD-2026-01100,1271528941332021,Fajar Lubis,Zahra Lubis,DIST-02,Medan Labuhan,Posyandu Melati 2,21,F,78.7,9.81,-0.32,-2.22,NORMAL,True,PDAM
+CHD-2026-01101,1271206782118844,Anisa Tambunan,Melati Tambunan,DIST-03,Medan Marelan,Posyandu Melati 1,14,F,77.8,9.38,1.0,-1.02,NORMAL,True,PDAM
+CHD-2026-01102,1271656007925971,Nurul Pangaribuan,Lestari Pangaribuan,DIST-17,Medan Maimun,Posyandu Melati 1,56,M,101.1,19.71,-1.05,-1.18,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01103,1271588150671296,Dimas Tarigan,Melati Tarigan,DIST-01,Medan Belawan,Posyandu Melati 1,41,F,84.2,15.59,-3.17,-1.51,SEVERELY_STUNTED,False,PDAM
+CHD-2026-01104,1271802444622893,Fajar Sinaga,Anisa Sinaga,DIST-13,Medan Barat,Posyandu Melati 6,34,M,88.7,14.28,-0.05,-1.11,NORMAL,False,PDAM
+CHD-2026-01105,1271403433042507,Anisa Pasaribu,Aisyah Pasaribu,DIST-11,Medan Sunggal,Posyandu Melati 4,43,M,94.9,16.03,-0.08,-1.56,NORMAL,False,Sumur Terlindung
+CHD-2026-01106,1271419520951931,Aditya Pratama,Budi Pratama,DIST-18,Medan Polonia,Posyandu Melati 3,10,M,70.2,9.38,-0.58,-0.11,NORMAL,False,PDAM
+CHD-2026-01107,1271933561085790,Bayu Sitorus,Melati Sitorus,DIST-02,Medan Labuhan,Posyandu Melati 8,14,F,72.0,7.17,-0.95,-3.03,NORMAL,True,Sumur Terlindung
+CHD-2026-01108,1271738395136848,Kevin Tarigan,Dimas Tarigan,DIST-03,Medan Marelan,Posyandu Melati 5,20,F,74.5,12.84,-1.49,0.77,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01109,1271508316669870,Nurul Tarigan,Kevin Tarigan,DIST-10,Medan Selayang,Posyandu Melati 1,38,M,88.5,15.98,-1.02,-0.47,POTENTIAL_RISK,False,PDAM
+CHD-2026-01110,1271203134423246,Melati Ginting,Kevin Ginting,DIST-14,Medan Timur,Posyandu Melati 5,59,M,103.8,22.77,-0.82,0.93,NORMAL,False,Sumur Terlindung
+CHD-2026-01111,1271143465258213,Siti Sitorus,Fajar Sitorus,DIST-07,Medan Amplas,Posyandu Melati 2,47,F,99.9,18.73,0.68,-0.02,NORMAL,False,PDAM
+CHD-2026-01112,1271594150052384,Kevin Harahap,Aditya Harahap,DIST-02,Medan Labuhan,Posyandu Melati 7,9,F,64.4,8.28,-2.31,-0.88,STUNTED,False,PDAM
+CHD-2026-01113,1271383157237214,Rian Ginting,Aisyah Ginting,DIST-13,Medan Barat,Posyandu Melati 1,17,F,77.0,9.66,0.03,-1.45,NORMAL,False,PDAM
+CHD-2026-01114,1271539683865301,Budi Pasaribu,Melati Pasaribu,DIST-12,Medan Helvetia,Posyandu Melati 1,57,M,99.8,22.49,-1.69,1.12,POTENTIAL_RISK,False,PDAM
+CHD-2026-01115,1271179466162789,Anisa Sembiring,Anisa Sembiring,DIST-20,Medan Petisah,Posyandu Melati 5,41,F,91.3,18.67,-0.79,1.29,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01116,1271829063679501,Rafi Sinaga,Aditya Sinaga,DIST-18,Medan Polonia,Posyandu Melati 7,22,M,82.6,12.49,0.74,-0.01,NORMAL,False,Sumur Terlindung
+CHD-2026-01117,1271459384295495,Fajar Pasaribu,Budi Pasaribu,DIST-08,Medan Johor,Posyandu Melati 5,11,M,72.7,7.44,0.0,-2.1,NORMAL,False,Sumur Terlindung
+CHD-2026-01118,1271447912525104,Melati Harahap,Lestari Harahap,DIST-02,Medan Labuhan,Posyandu Melati 2,56,M,101.4,21.3,-0.93,0.27,NORMAL,False,PDAM
+CHD-2026-01119,1271665852011282,Kevin Sembiring,Putri Sembiring,DIST-11,Medan Sunggal,Posyandu Melati 8,34,M,89.5,15.0,0.22,-0.45,NORMAL,False,PDAM
+CHD-2026-01120,1271375284591959,Tiara Pangaribuan,Zahra Pangaribuan,DIST-12,Medan Helvetia,Posyandu Melati 5,43,M,99.1,16.72,1.32,-0.94,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01121,1271333705395524,Bayu Siregar,Rafi Siregar,DIST-18,Medan Polonia,Posyandu Melati 3,22,F,77.0,12.18,-1.14,-0.29,POTENTIAL_RISK,True,Sumur Terlindung
+CHD-2026-01122,1271392200051630,Melati Pangaribuan,Aisyah Pangaribuan,DIST-05,Medan Tembung,Posyandu Melati 6,17,F,77.0,8.14,0.02,-2.82,NORMAL,True,Sumur Terlindung
+CHD-2026-01123,1271421169016789,Aisyah Hutapea,Kevin Hutapea,DIST-08,Medan Johor,Posyandu Melati 4,40,M,92.4,17.34,-0.19,0.31,NORMAL,False,PDAM
+CHD-2026-01124,1271751812124882,Galang Ginting,Siti Ginting,DIST-03,Medan Marelan,Posyandu Melati 6,19,F,74.4,11.91,-1.29,0.14,POTENTIAL_RISK,False,PDAM
+CHD-2026-01125,1271517364506902,Dewi Nasution,Budi Nasution,DIST-14,Medan Timur,Posyandu Melati 6,27,F,84.0,15.46,0.03,1.55,NORMAL,False,Sumur Terlindung
+CHD-2026-01126,1271571467775765,Melati Pratama,Putri Pratama,DIST-10,Medan Selayang,Posyandu Melati 2,15,M,71.5,11.21,-1.33,0.42,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-01127,1271543253067206,Galang Simanjuntak,Aditya Simanjuntak,DIST-17,Medan Maimun,Posyandu Melati 3,59,M,100.5,18.91,-1.94,-2.58,POTENTIAL_RISK,False,PDAM
+CHD-2026-01128,1271826279539982,Rizky Siregar,Nurul Siregar,DIST-21,Medan Area,Posyandu Melati 2,52,F,92.1,19.76,-3.11,-0.21,SEVERELY_STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-01129,1271946499239525,Aisyah Tambunan,Tiara Tambunan,DIST-17,Medan Maimun,Posyandu Melati 5,34,F,87.2,14.03,-0.54,-1.34,NORMAL,False,PDAM
+CHD-2026-01130,1271523548806930,Dewi Pasaribu,Nurul Pasaribu,DIST-19,Medan Baru,Posyandu Melati 6,20,F,71.7,10.72,-2.44,-1.16,STUNTED,True,Sumur Terlindung
+CHD-2026-01131,1271556876819284,Anisa Sitorus,Rizky Sitorus,DIST-15,Medan Perjuangan,Posyandu Melati 8,10,F,69.7,9.52,-0.78,0.01,NORMAL,True,Sumur Terlindung
+CHD-2026-01132,1271783568427678,Nurul Tambunan,Fajar Tambunan,DIST-14,Medan Timur,Posyandu Melati 5,49,M,97.1,18.69,-0.74,-0.51,NORMAL,False,Sumur Terlindung
+CHD-2026-01133,1271625414749274,Bayu Siregar,Rizky Siregar,DIST-11,Medan Sunggal,Posyandu Melati 4,15,F,72.5,12.17,-1.01,1.29,POTENTIAL_RISK,True,Air Sungai / Tak Terlindung
+CHD-2026-01134,1271439026948698,Putri Siregar,Anisa Siregar,DIST-01,Medan Belawan,Posyandu Melati 3,53,M,94.7,17.88,-2.46,-2.15,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-01135,1271192388089436,Budi Hutapea,Putri Hutapea,DIST-14,Medan Timur,Posyandu Melati 7,39,F,88.4,16.54,-1.29,-0.19,POTENTIAL_RISK,False,PDAM
+CHD-2026-01136,1271254531696515,Zahra Lubis,Dewi Lubis,DIST-13,Medan Barat,Posyandu Melati 1,43,M,89.6,17.16,-1.84,-0.54,POTENTIAL_RISK,False,PDAM
+CHD-2026-01137,1271905716008138,Rafi Pasaribu,Anisa Pasaribu,DIST-12,Medan Helvetia,Posyandu Melati 3,24,F,80.4,11.36,-0.48,-1.49,NORMAL,True,Sumur Terlindung
+CHD-2026-01138,1271107223857060,Galang Siregar,Fajar Siregar,DIST-19,Medan Baru,Posyandu Melati 7,49,F,99.3,17.59,0.01,-1.51,NORMAL,False,PDAM
+CHD-2026-01139,1271459105552587,Galang Hutapea,Aditya Hutapea,DIST-06,Medan Denai,Posyandu Melati 8,20,F,72.3,11.0,-2.23,-0.91,STUNTED,False,PDAM
+CHD-2026-01140,1271643991136288,Galang Tambunan,Galang Tambunan,DIST-17,Medan Maimun,Posyandu Melati 3,30,F,77.9,11.03,-2.69,-3.16,STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-01141,1271457030756150,Dimas Sinaga,Galang Sinaga,DIST-02,Medan Labuhan,Posyandu Melati 5,12,F,71.8,9.85,-0.55,-0.13,NORMAL,True,PDAM
+CHD-2026-01142,1271314024915250,Tiara Ginting,Nurul Ginting,DIST-09,Medan Tuntungan,Posyandu Melati 4,44,M,92.4,16.48,-1.14,-1.38,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01143,1271758915333766,Siti Lubis,Zahra Lubis,DIST-05,Medan Tembung,Posyandu Melati 4,7,M,70.8,6.33,0.3,-2.2,NORMAL,True,Sumur Terlindung
+CHD-2026-01144,1271835472208288,Lestari Lubis,Dewi Lubis,DIST-01,Medan Belawan,Posyandu Melati 8,39,M,83.7,16.07,-2.87,-0.62,STUNTED,False,PDAM
+CHD-2026-01145,1271733758342423,Siti Ginting,Anisa Ginting,DIST-04,Medan Deli,Posyandu Melati 2,14,F,71.6,10.48,-1.07,-0.02,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01146,1271744516265523,Rizky Sitorus,Putri Sitorus,DIST-08,Medan Johor,Posyandu Melati 6,35,M,80.4,13.44,-3.02,-2.1,SEVERELY_STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-01147,1271502996471583,Anisa Siregar,Galang Siregar,DIST-02,Medan Labuhan,Posyandu Melati 4,46,M,93.7,17.6,-1.15,-0.82,POTENTIAL_RISK,False,PDAM
+CHD-2026-01148,1271435929513481,Nurul Pangaribuan,Dimas Pangaribuan,DIST-13,Medan Barat,Posyandu Melati 8,37,M,92.0,15.7,0.36,-0.5,NORMAL,False,PDAM
+CHD-2026-01149,1271105554162102,Rizky Tarigan,Dimas Tarigan,DIST-07,Medan Amplas,Posyandu Melati 3,37,M,89.0,14.79,-0.63,-1.32,NORMAL,False,PDAM
+CHD-2026-01150,1271407686926713,Melati Sinaga,Aditya Sinaga,DIST-09,Medan Tuntungan,Posyandu Melati 5,36,M,94.0,13.96,1.26,-1.86,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01151,1271864744759903,Tiara Ginting,Rian Ginting,DIST-10,Medan Selayang,Posyandu Melati 2,36,F,90.1,14.27,-0.03,-1.57,NORMAL,False,PDAM
+CHD-2026-01152,1271417945957960,Anisa Ginting,Bayu Ginting,DIST-10,Medan Selayang,Posyandu Melati 8,13,M,74.6,8.47,0.17,-1.62,NORMAL,False,Sumur Terlindung
+CHD-2026-01153,1271719809309014,Rian Hutapea,Fajar Hutapea,DIST-12,Medan Helvetia,Posyandu Melati 4,44,F,96.4,17.32,0.19,-0.61,NORMAL,False,PDAM
+CHD-2026-01154,1271176895696295,Galang Lubis,Anisa Lubis,DIST-09,Medan Tuntungan,Posyandu Melati 7,22,F,84.7,11.44,1.44,-0.96,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01155,1271446090894587,Rian Harahap,Aisyah Harahap,DIST-14,Medan Timur,Posyandu Melati 5,27,M,83.2,11.95,-0.22,-1.64,NORMAL,False,Sumur Terlindung
+CHD-2026-01156,1271783162172807,Aditya Pasaribu,Putri Pasaribu,DIST-08,Medan Johor,Posyandu Melati 3,45,F,93.9,17.75,-0.86,-0.46,NORMAL,False,Sumur Terlindung
+CHD-2026-01157,1271219183436460,Budi Simanjuntak,Rian Simanjuntak,DIST-01,Medan Belawan,Posyandu Melati 1,28,M,75.4,10.77,-3.06,-2.94,SEVERELY_STUNTED,False,Sumur Terlindung
+CHD-2026-01158,1271785147394757,Zahra Lubis,Putri Lubis,DIST-12,Medan Helvetia,Posyandu Melati 6,24,M,81.9,12.01,0.02,-0.9,NORMAL,False,Sumur Terlindung
+CHD-2026-01159,1271128918029627,Nurul Pratama,Aisyah Pratama,DIST-18,Medan Polonia,Posyandu Melati 8,12,F,70.1,8.61,-1.11,-1.26,POTENTIAL_RISK,True,PDAM
+CHD-2026-01160,1271143856933025,Budi Lubis,Nurul Lubis,DIST-10,Medan Selayang,Posyandu Melati 7,58,F,101.8,21.1,-1.26,-0.37,POTENTIAL_RISK,False,PDAM
+CHD-2026-01161,1271748571907805,Rizky Siregar,Rizky Siregar,DIST-09,Medan Tuntungan,Posyandu Melati 3,7,M,69.7,5.52,-0.08,-2.94,NORMAL,True,Sumur Terlindung
+CHD-2026-01162,1271499228926303,Dimas Sembiring,Melati Sembiring,DIST-13,Medan Barat,Posyandu Melati 5,33,M,91.2,16.1,1.02,0.78,NORMAL,False,PDAM
+CHD-2026-01163,1271704948735771,Siti Harahap,Aditya Harahap,DIST-07,Medan Amplas,Posyandu Melati 4,33,M,77.5,15.56,-3.54,0.28,SEVERELY_STUNTED,False,Air Sungai / Tak Terlindung
+CHD-2026-01164,1271996591049300,Kevin Ginting,Dewi Ginting,DIST-18,Medan Polonia,Posyandu Melati 1,21,F,82.1,11.75,0.81,-0.46,NORMAL,False,Sumur Terlindung
+CHD-2026-01165,1271673349441407,Zahra Hutapea,Siti Hutapea,DIST-12,Medan Helvetia,Posyandu Melati 8,31,M,80.1,15.16,-2.19,0.37,STUNTED,False,PDAM
+CHD-2026-01166,1271522507552370,Siti Pangaribuan,Dewi Pangaribuan,DIST-19,Medan Baru,Posyandu Melati 4,12,M,71.4,10.21,-0.66,0.19,NORMAL,False,Sumur Terlindung
+CHD-2026-01167,1271706488304808,Fajar Sinaga,Melati Sinaga,DIST-03,Medan Marelan,Posyandu Melati 5,9,F,76.1,8.38,1.61,-0.79,NORMAL,False,PDAM
+CHD-2026-01168,1271986927727660,Fajar Pratama,Bayu Pratama,DIST-11,Medan Sunggal,Posyandu Melati 4,6,F,64.3,7.41,-1.64,-0.99,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01169,1271716394202334,Nurul Sitorus,Rafi Sitorus,DIST-11,Medan Sunggal,Posyandu Melati 2,12,F,68.9,9.84,-1.49,-0.15,POTENTIAL_RISK,False,PDAM
+CHD-2026-01170,1271313069548169,Putri Tarigan,Siti Tarigan,DIST-01,Medan Belawan,Posyandu Melati 7,13,M,67.5,8.15,-2.22,-1.91,STUNTED,False,PDAM
+CHD-2026-01171,1271635188071151,Tiara Nasution,Zahra Nasution,DIST-17,Medan Maimun,Posyandu Melati 7,24,M,75.1,11.94,-2.25,-0.96,STUNTED,False,Sumur Terlindung
+CHD-2026-01172,1271576911983718,Galang Sitorus,Melati Sitorus,DIST-09,Medan Tuntungan,Posyandu Melati 4,15,F,74.3,6.81,-0.39,-3.58,NORMAL,False,Sumur Terlindung
+CHD-2026-01173,1271528830393217,Tiara Ginting,Dimas Ginting,DIST-09,Medan Tuntungan,Posyandu Melati 1,16,F,75.3,10.23,-0.3,-0.7,NORMAL,False,Sumur Terlindung
+CHD-2026-01174,1271498355384074,Tiara Siregar,Budi Siregar,DIST-05,Medan Tembung,Posyandu Melati 8,18,M,72.3,12.89,-1.76,1.26,POTENTIAL_RISK,False,PDAM
+CHD-2026-01175,1271184674764703,Rafi Tambunan,Putri Tambunan,DIST-20,Medan Petisah,Posyandu Melati 4,28,M,86.6,12.16,0.68,-1.67,NORMAL,False,PDAM
+CHD-2026-01176,1271577548367607,Aditya Hutapea,Dewi Hutapea,DIST-14,Medan Timur,Posyandu Melati 2,22,M,81.2,13.13,0.26,0.57,NORMAL,True,PDAM
+CHD-2026-01177,1271822072923075,Kevin Nasution,Kevin Nasution,DIST-07,Medan Amplas,Posyandu Melati 6,57,F,102.9,20.69,-0.67,-0.51,NORMAL,False,Sumur Terlindung
+CHD-2026-01178,1271955964034429,Melati Harahap,Melati Harahap,DIST-19,Medan Baru,Posyandu Melati 4,16,M,76.3,8.05,0.02,-2.68,NORMAL,True,PDAM
+CHD-2026-01179,1271701002586297,Fajar Nasution,Putri Nasution,DIST-20,Medan Petisah,Posyandu Melati 3,10,M,70.0,8.69,-0.65,-0.74,NORMAL,False,Sumur Terlindung
+CHD-2026-01180,1271253524687442,Bayu Harahap,Galang Harahap,DIST-16,Medan Kota,Posyandu Melati 8,30,F,89.5,14.31,1.17,-0.18,NORMAL,False,PDAM
+CHD-2026-01181,1271879831014504,Bayu Tarigan,Rizky Tarigan,DIST-17,Medan Maimun,Posyandu Melati 3,16,F,72.9,9.99,-1.1,-0.92,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01182,1271815565646704,Kevin Pangaribuan,Siti Pangaribuan,DIST-16,Medan Kota,Posyandu Melati 6,17,M,79.0,10.43,0.7,-0.74,NORMAL,False,Sumur Terlindung
+CHD-2026-01183,1271813002617266,Anisa Lubis,Melati Lubis,DIST-12,Medan Helvetia,Posyandu Melati 1,29,M,80.8,13.11,-1.49,-1.04,POTENTIAL_RISK,False,PDAM
+CHD-2026-01184,1271854254686381,Galang Lubis,Budi Lubis,DIST-12,Medan Helvetia,Posyandu Melati 5,12,F,74.7,9.79,0.42,-0.2,NORMAL,True,Sumur Terlindung
+CHD-2026-01185,1271601460505145,Kevin Pangaribuan,Tiara Pangaribuan,DIST-02,Medan Labuhan,Posyandu Melati 1,23,M,77.7,11.58,-1.12,-1.07,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01186,1271708863649938,Rafi Ginting,Putri Ginting,DIST-21,Medan Area,Posyandu Melati 1,57,M,100.7,20.14,-1.39,-1.01,POTENTIAL_RISK,False,PDAM
+CHD-2026-01187,1271261868477874,Fajar Hutapea,Putri Hutapea,DIST-20,Medan Petisah,Posyandu Melati 1,59,M,102.7,20.87,-1.21,-0.8,POTENTIAL_RISK,False,Sumur Terlindung
+CHD-2026-01188,1271459939904181,Bayu Siregar,Zahra Siregar,DIST-02,Medan Labuhan,Posyandu Melati 6,47,M,99.1,16.05,0.4,-2.45,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01189,1271566414221232,Putri Pasaribu,Aditya Pasaribu,DIST-11,Medan Sunggal,Posyandu Melati 7,48,F,94.5,16.81,-1.37,-1.99,POTENTIAL_RISK,False,Air Sungai / Tak Terlindung
+CHD-2026-01190,1271288643665368,Rizky Lubis,Galang Lubis,DIST-02,Medan Labuhan,Posyandu Melati 8,11,M,64.0,8.12,-2.89,-1.48,STUNTED,True,PDAM
+CHD-2026-01191,1271918831061052,Galang Sinaga,Putri Sinaga,DIST-07,Medan Amplas,Posyandu Melati 6,25,F,77.9,14.37,-1.55,1.02,POTENTIAL_RISK,False,PDAM
+CHD-2026-01192,1271825854962444,Aditya Sembiring,Rizky Sembiring,DIST-15,Medan Perjuangan,Posyandu Melati 3,13,M,70.8,10.86,-1.11,0.56,POTENTIAL_RISK,True,PDAM
+CHD-2026-01193,1271113280927136,Budi Simanjuntak,Putri Simanjuntak,DIST-19,Medan Baru,Posyandu Melati 4,35,M,91.8,15.05,0.75,-0.64,NORMAL,False,PDAM
+CHD-2026-01194,1271491559267214,Dimas Hutapea,Fajar Hutapea,DIST-21,Medan Area,Posyandu Melati 3,51,F,105.9,19.19,1.73,-0.51,NORMAL,False,PDAM
+CHD-2026-01195,1271343860504264,Bayu Sinaga,Nurul Sinaga,DIST-19,Medan Baru,Posyandu Melati 5,17,F,81.1,12.48,1.39,1.11,NORMAL,False,PDAM
+CHD-2026-01196,1271549098899569,Lestari Tambunan,Lestari Tambunan,DIST-16,Medan Kota,Posyandu Melati 1,34,M,88.8,15.81,-0.01,0.28,NORMAL,False,Air Sungai / Tak Terlindung
+CHD-2026-01197,1271823208958108,Rian Nasution,Zahra Nasution,DIST-19,Medan Baru,Posyandu Melati 4,28,F,85.7,12.18,0.35,-1.66,NORMAL,False,PDAM
+CHD-2026-01198,1271216382054452,Zahra Sembiring,Kevin Sembiring,DIST-17,Medan Maimun,Posyandu Melati 8,22,M,78.4,12.89,-0.68,0.35,NORMAL,False,PDAM
+CHD-2026-01199,1271702466068655,Galang Pangaribuan,Putri Pangaribuan,DIST-04,Medan Deli,Posyandu Melati 6,43,F,97.2,15.59,0.7,-1.96,NORMAL,False,Sumur Terlindung
+CHD-2026-01200,1271904763171129,Aisyah Sitorus,Siti Sitorus,DIST-19,Medan Baru,Posyandu Melati 8,16,F,76.9,10.73,0.24,-0.24,NORMAL,False,PDAM

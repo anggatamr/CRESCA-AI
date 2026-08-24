@@ -1,0 +1,8 @@
+{
+  "dataset_name": "Cresca AI Synthetic Demographic & Anthropometric Benchmark",
+  "generated_at": "2026-08-24",
+  "district_count": 21,
+  "total_micro_records": 1200,
+  "stunted_micro_records_count": 167,
+  "compliance_note": "100% synthetic mathematical generation for privacy compliance."
+}
