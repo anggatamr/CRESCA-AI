@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  cresca-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cresca-agent-api
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+    restart: unless-stopped
+
+  cresca-ui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cresca-agent-ui
+    command: ["streamlit", "run", "src/ui/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+    depends_on:
+      - cresca-api
+    restart: unless-stopped
