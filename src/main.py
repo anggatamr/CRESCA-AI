@@ -7,7 +7,14 @@ Provides REST endpoints for:
 4. /health : Liveness & Readiness probe for Cloud Run
 """
 
+import sys
 from pathlib import Path
+
+# Ensure project root is on sys.path
+ROOT_DIR = Path(__file__).resolve().parent.parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
 from typing import Dict, Any
 from fastapi import FastAPI, BackgroundTasks, HTTPException
 from fastapi.responses import FileResponse, JSONResponse
